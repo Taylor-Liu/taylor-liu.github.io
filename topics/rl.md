@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Reinforcement Learning
-image: 
 ---
 
 <p style="text-align:center">
