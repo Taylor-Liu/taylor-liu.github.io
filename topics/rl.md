@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Reinforcement Learning
-subtitle: Some Resources
+image: img/rl_framework.jpg
 ---
 
-test
