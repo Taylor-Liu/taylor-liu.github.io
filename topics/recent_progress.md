@@ -5,9 +5,24 @@ title: Recent Progress
 
 ### 1. DeepMind
 
-- 强化学习的快与慢[[雷锋网报道]](https://mp.weixin.qq.com/s/Z3I6-rdCFLG8Dh7LhbbIbw)
+- Reinforcement Learning, Fast and Slow
+	- Published: Trends In Cognitive Sciences
+	- Time: April 16, 2019
+	- [[Paper]](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)[[雷锋网报道]](https://mp.weixin.qq.com/s/Z3I6-rdCFLG8Dh7LhbbIbw)
+- Human-level performance in 3D multiplayer games with population-based reinforcement learning
+	- Published: Science
+	- Time: May 31, 2019
+	- [[Paper](https://science.sciencemag.org/content/364/6443/859/tab-pdf)[[机器之心报道](https://www.jiqizhixin.com/articles/2019-06-01-2)
 
 ### 2. OpenAI
+
+- OpenAI Robotics Symposium 2019
+	- Time: April 27, 2019
+	- [[Video]](https://www.youtube.com/watch?v=WRsxoVB8Yng&t=28127s)
+- OpenAI 2019 Scholars Demo Day
+	- Time: May 14, 2019
+	- [[Blog]](https://openai.com/blog/openai-scholars-class-of-19/)[[Video]](https://www.youtube.com/watch?v=4u218xVkjmQ&t=2972s)
+
 
 ### 3. UC Berkeley
 
