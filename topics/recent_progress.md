@@ -12,7 +12,7 @@ title: Recent Progress
 - Human-level performance in 3D multiplayer games with population-based reinforcement learning
 	- Published: Science
 	- Time: May 31, 2019
-	- [[Paper](https://science.sciencemag.org/content/364/6443/859/tab-pdf)[[机器之心报道](https://www.jiqizhixin.com/articles/2019-06-01-2)
+	- [[Paper]](https://science.sciencemag.org/content/364/6443/859/tab-pdf)[[机器之心报道]](https://www.jiqizhixin.com/articles/2019-06-01-2)
 
 ### 2. OpenAI
 
