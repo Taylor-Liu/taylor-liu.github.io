@@ -10,18 +10,18 @@ title: Markdown基本知识学习
 - 为什么要用Markdown？
 - 如何使用Markdown？
 
-# 1. Markdown是什么？
+## 1. Markdown是什么？
 > Markdown is a lightweight markup language with plain text formatting syntax designed so that it can be converted to HTML and many other formats using a tool by the same name. (Wikipedia)
 
-# 2. 为什么要用Markdown？
+## 2. 为什么要用Markdown？
 可以看看使用Markdown有哪些好处：
 - 纯文本，所以兼容性极强，可以用所有文本编辑器打开
 - 让你专注于文字而不是排版
 - 格式转换方便，Markdown 的文本你可以轻松转换为 html、电子书等
 - Markdown 的标记语法有极好的可读性
 
-# 3. 如何使用Markdown？
-## 3.1 Markdown的基本语法
+## 3. 如何使用Markdown？
+### 3.1 Markdown的基本语法
 - 标题：#
 - 列表：-
 - 链接和图片
@@ -38,7 +38,7 @@ title: Markdown基本知识学习
 - 表格
 - 显示链接中带括号的图片
 
-## 3.2 Markdown的编辑器
+### 3.2 Markdown的编辑器
 - Windows平台推荐[MarkdownPad](http://markdownpad.com/)
 - Mac平台推荐[Mou](http://mouapp.com/)
 - 其它推荐[Atom](https://atom.io/)
@@ -54,7 +54,7 @@ Atom 与 Markdown 相关的插件
 > **atomic chrome**：让公众号使用markdown发表文章成为可能
 
 
-## 3.3 相关资源
+### 3.3 相关资源
 - [献给写作者的 Markdown 新手指南](http://www.jianshu.com/p/q81RER/)
 - [Markdown 语法说明 (简体中文版)](http://wowubuntu.com/markdown/)
 - [Learning-Markdown (Markdown 入门参考)](http://xianbai.me/learn-md/index.html)
@@ -67,5 +67,5 @@ Atom 与 Markdown 相关的插件
 - [Atom Flight Manual](http://flight-manual.atom.io/getting-started/sections/why-atom/)
 - [markdown-preview-plus (Github)](https://github.com/Galadirith/markdown-preview-plus)
 
-## 3.4 实战
+### 3.4 实战
 为了掌握Markdown语法，我选取了两个例子作为我的练习。一个是“[Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)”，主要是分析它的md文件；另一个是“[Markdown写作浅谈](http://www.jianshu.com/p/PpDNMG)”，主要是根据前面所学到的知识在简书上复现出这篇文章。
