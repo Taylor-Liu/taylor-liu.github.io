@@ -5,7 +5,7 @@ title: 关于写作益处的几篇博文
 
 **不同人对于写作带来的益处的思考**
 
-1. 书写是为了更好地思考 - 刘未鹏 [链接](http://mindhacks.cn/2009/02/09/writing-is-better-thinking/)
+### 1. 书写是为了更好地思考 - 刘未鹏 [链接](http://mindhacks.cn/2009/02/09/writing-is-better-thinking/)
 
 - 书写是对思维的备忘
 - 书写是对思维的缓存
@@ -13,7 +13,7 @@ title: 关于写作益处的几篇博文
 - 书写是与别人的交流
 - 有时候，语言自己也会思考
 
-2. 为什么你从现在开始就应该写博客 - 刘未鹏 [链接](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now)
+### 2. 为什么你从现在开始就应该写博客 - 刘未鹏 [链接](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now)
 
 - 能够交到很多志同道合的朋友
 - 书写是为了更好的思考
@@ -23,7 +23,7 @@ title: 关于写作益处的几篇博文
 - 学会持之以恒地做一件事情
 - 一个长期的价值博客是一份很好的简历
 
-3. 为什么你要写博客？ - 陈素封 [链接](https://zhuanlan.zhihu.com/p/19743861)
+### 3. 为什么你要写博客？ - 陈素封 [链接](https://zhuanlan.zhihu.com/p/19743861)
 
 - 重新认识自己
 - 提供持续学习的动力
@@ -38,8 +38,8 @@ title: 关于写作益处的几篇博文
 - 一个人在做一件属于自己的事
 - 互联网的身份识别
 
-4. 如何坚持每天写一千字 - 简叔 [链接](http://www.jianshu.com/p/53eea6022d58)
+### 4. 如何坚持每天写一千字 - 简叔 [链接](http://www.jianshu.com/p/53eea6022d58)
 
-5. 每天写一篇千字文靠谱吗？ - 王佩 [链接](http://www.jianshu.com/p/2ab3616a2ca5)
+### 5. 每天写一篇千字文靠谱吗？ - 王佩 [链接](http://www.jianshu.com/p/2ab3616a2ca5)
 
-6. 写作，烛光已不够用，快把松明点燃！ [链接](http://wangpei.me/2014-11-23/new-blog-new-journey.html)
+### 6. 写作，烛光已不够用，快把松明点燃！ [链接](http://wangpei.me/2014-11-23/new-blog-new-journey.html)
