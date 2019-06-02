@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Automous Driving
+title: Autonomous Driving
 ---
 
 <p style="text-align:center">
