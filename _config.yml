@@ -25,10 +25,12 @@ description: Taylor's personal web page
 navbar-links:
   Blog: ""
   Topic: 
+    - Recent Progress: "topics/recent_progress"
     - Automous Driving: "topics/automous_driving"
     - Character Animation: "topics/character_animation"
     - ML & DL: "topics/ml_dl"
     - RL: "topics/rl"
+  Research: "research"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
