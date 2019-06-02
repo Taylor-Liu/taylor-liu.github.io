@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Reinforcement Learning
-image: img/rl_framework.jpg
+image: /topics/img/rl_framework.jpg
 ---
 
