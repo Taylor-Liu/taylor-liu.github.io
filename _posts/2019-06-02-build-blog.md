@@ -12,7 +12,7 @@ title: 利用jekyll搭建个人博客
 - [matjek](https://github.com/ShawnTeoh/matjek)
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)
 
-### 基于[beautiful-jekyll](https://github.com/daattali/beautiful-jekyll)的个人网站
+### 基于`beautiful-jekyll`的个人网站
 
 | Website | Who | What |
 | :------ |:--- | :--- |
@@ -28,6 +28,10 @@ title: 利用jekyll搭建个人博客
 | [ocram85.com](https://ocram85.com) | Marco Blessing | A personal blog about PowerShell and automation |
 | [khanna.cc](https://khanna.cc/) | Harry Khanna | Law and software |
 
+### `beautiful-jekyll`使用
+
+- [Beautiful-Jekyll Theme 增加中文字体](https://www.jianshu.com/p/03eb4c318629)
+
 ### 绑定域名
 
 购买域名
@@ -38,7 +42,6 @@ title: 利用jekyll搭建个人博客
 参考资料：
 - [Github个人博客：绑定域名](https://blog.csdn.net/heimu24/article/details/81159099)
 - [Git Pages + Jekyll/Hexo搭建自己的博客](https://blog.csdn.net/muzilanlan/article/details/81542917)
-
 
 
 
