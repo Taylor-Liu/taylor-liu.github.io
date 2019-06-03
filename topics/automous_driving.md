@@ -65,7 +65,7 @@ Apollo3.5之前的版本采用ROS系统，并针对无人车的要求对ROS系�
 
 ROS在自动驾驶的探索和实践 [[Blog]](https://mp.weixin.qq.com/s?__biz=MzI5MjcyNTc1Mw==&mid=2247483975&idx=1&sn=7d946e3322710d7b7b1e6688c37f8f43&chksm=ec7db4d1db0a3dc7eda3e26ea35945da9aebaee32cbe28f91c5b8b9fc589fbec284887e1bc18&scene=21#wechat_redirect) [[Slide]](https://taylor-liu.github.io/topics/data/ROS在自动驾驶的探索和实践.pdf)
 
-Apollo3.5之后采用百度自家设计的Cyber RT系统
+Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 - [百度Apollo 3.5是如何设计Cyber RT计算框架的？(2019.02.02)](https://mp.weixin.qq.com/s/YKmn_oJFheq17hs8M2zkMw)
 - [让Cyber RT触手可及 专场问答第二弹！(2019.03.08)](https://mp.weixin.qq.com/s/g6Zc7szKfWn9wdZIPJpkSA)
