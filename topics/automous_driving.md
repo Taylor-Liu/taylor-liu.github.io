@@ -15,14 +15,13 @@ title: Autonomous Driving
 - [无人驾驶技术入门（十二）- 无人驾驶中的坐标转换](https://zhuanlan.zhihu.com/p/41263701)
 - [无人驾驶技术入门（十三）- 手把手教你写卡尔曼滤波器](https://zhuanlan.zhihu.com/p/45238681)
 - [无人驾驶技术入门（十八）- 手把手教你写扩展卡尔曼滤波器](https://zhuanlan.zhihu.com/p/63641680)
-
 - [解析百度Apollo自动驾驶平台](https://paul.pub/baidu-apollo/#id-prediction%E9%A2%84%E6%B5%8B)
 
 ### 2. Prediction
 
 - [自动驾驶公开课 - Apollo 2.5预测系统介绍](https://mp.weixin.qq.com/s/48DcWP1kAoze0Lv8jHY3Ow)
 - Apollo3.5预测模块官方介绍[[中文]](https://github.com/ApolloAuto/apollo/blob/master/modules/prediction/README_cn.md)[[英文]](https://github.com/ApolloAuto/apollo/blob/master/modules/prediction/README.md)
-- [自动驾驶中的障碍物行为预测](https://www.jiqizhixin.com/articles/2019-05-14-4?from=synced&keyword=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6)
+- [【美团技术解析】自动驾驶中的障碍物行为预测](https://www.jiqizhixin.com/articles/2019-05-14-4?from=synced&keyword=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6)
 
 
 ### 3. Planning and Control (PNC)
@@ -129,6 +128,18 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [Routing（路由）](https://github.com/ApolloAuto/apollo/tree/master/modules/routing)
 - [Planing（计划）](https://github.com/ApolloAuto/apollo/tree/master/modules/planning)
 - [Control（控制）](https://github.com/ApolloAuto/apollo/tree/master/modules/control)
+
+`相关博文：`
+
+- [技术文档 - Apollo 3.5学习指南高能上线，先睹为快！](https://mp.weixin.qq.com/s/0VHpdAi1PiHsj6DbdvcwvQ)
+- [技术文档 - Apollo3.5 软件架构](https://mp.weixin.qq.com/s/k5GNHhxEE6mIOnxXlCpKXg)
+- [沙龙回顾 - Apollo 3.5 技术架构详解](https://mp.weixin.qq.com/s/svcCQHIcQFIx-AifvbrP9Q)
+- [沙龙回顾 - Apollo障碍物感知5大板块，一文揭秘](https://mp.weixin.qq.com/s/NlTw6TEQ9oMyxRDohlKSQw)
+- [开发者说 - Apollo代码学习—模型预测控制（MPC)](https://mp.weixin.qq.com/s/UAPbNq_KNWCFd7p8U8HnYQ)
+- [开发者说 - Apollo代码学习—MPC与LQR比较](https://mp.weixin.qq.com/s/BFNaEBa8KwvRBK_mSunXjw)
+- [开发者说 - Apollo控制算法之LQR](https://mp.weixin.qq.com/s/WbTtBjeUmBeS3OQgaFG4eA)
+- [技术文档 - 二次规划（QP）样条路径](https://mp.weixin.qq.com/s/Ofn-p8NnnO4kLYqTlL0bJg)
+
 
 ### 8. 相关课程
 
