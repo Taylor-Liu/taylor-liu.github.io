@@ -30,6 +30,7 @@ navbar-links:
     - Character Animation: "topics/character_animation"
     - ML & DL: "topics/ml_dl"
     - RL: "topics/rl"
+    - Robotics: "topics/robotics"
   Research: "research"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
