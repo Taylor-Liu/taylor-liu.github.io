@@ -61,7 +61,7 @@ title: Autonomous Driving
 - 自动驾驶汽车的运动规划技术综述 [[Website]](https://mp.weixin.qq.com/s/BmpjnNMvpOywjPxt30p0bw)
 	- 2016 - A Review of Motion Planning Techniques forAutomated Vehicles
 - 算法 - 一篇读懂自动驾驶汽车决策层算法的新思路 [[Website]](https://mp.weixin.qq.com/s/4chZ52I3Qy34GmEqtDpHfw)
-- 自动驾驶中轨迹规划的探索和挑战 [[Website]](https://mp.weixin.qq.com/s/lsaDn6YfIdTMjXl-SxtbfA)
+- 自动驾驶中轨迹规划的探索和挑战 [[Website]](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
 	- 作者：Pony.ai Tech lead 梁亚雄
 
 `路径规划`
@@ -250,8 +250,12 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [无人驾驶数据集汇总](https://mp.weixin.qq.com/s/dY5rqVc2fQ0cbzyJIHtcqA)
 
 
+### 17. Pony.ai技术分享
 
-
+- [自动驾驶中轨迹规划的探索和挑战](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
+- [Pony.ai 的基础架构挑战与实践](https://mp.weixin.qq.com/s/fBmYxP0ALyil7crSFKWWEg)
+- [L4自动驾驶中感知系统遇到的挑战及解决方案](https://mp.weixin.qq.com/s/cqdi9V_BnY6pwRJl3dD0dA)
+- [高精地图和定位在自动驾驶的应用](https://mp.weixin.qq.com/s/QZ5W4YDD4rX8zM6qajQDtg)
 
 
 
