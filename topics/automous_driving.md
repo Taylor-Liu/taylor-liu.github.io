@@ -234,7 +234,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [盘点百度、阿里、腾讯、华为自动驾驶战略](https://mp.weixin.qq.com/s/3TLO4C2NgagS-ncl9kWQYA)
 - [自动驾驶商业化应用研究](https://mp.weixin.qq.com/s/AMcjRrjMuil8_g-TetKS2Q)
 - [福瑞泰克CTO沈骏强谈自动驾驶商业化：怎样解决安全、体验、成本和场景问题？](https://www.leiphone.com/news/201811/rsI08E8M2Z8kNN34.html)
-- [文远知行钟华：L4级别无人驾驶在中国的落地之路 | GTC 中国 2018](https://www.leiphone.com/news/201811/rjZSfPELbOeK89m4.html)
+- [文远知行钟华：L4级别无人驾驶在中国的落地之路 -- GTC 中国 2018](https://www.leiphone.com/news/201811/rjZSfPELbOeK89m4.html)
 
 ### 14. 观点
 
