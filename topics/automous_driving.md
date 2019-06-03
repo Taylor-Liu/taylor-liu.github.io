@@ -26,7 +26,7 @@ title: Autonomous Driving
 - [自动驾驶中的障碍物行为预测](https://www.jiqizhixin.com/articles/2019-05-14-4?from=synced&keyword=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6)
 
 
-### 3. Planning and Control
+### 3. Planning and Control (PNC)
 
 - [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/#id-publicroadplanner)
 - [直播回顾 - Apollo决策技术分享](https://mp.weixin.qq.com/s/KFjfhs5zdHdrukRnm52rsg)
@@ -46,7 +46,33 @@ title: Autonomous Driving
 - [Waymo: Software Engineer, Planner & Controls](https://waymo.com/joinus/928478/)
 - [文远知行：决策规划工程师 - ML/DL方向](https://app.mokahr.com/apply/jingchi/2138#/job/d2455c6c-8f2a-4c39-b2ff-e20fdd552836?_k=qxytrx)
 
-### 4. Apollo自动驾驶入门课程
+### 4. 操作系统
+
+### 5. Apollo项目
+
+硬件架构：
+
+<div align=center>
+    <img src="https://taylor-liu.github.io/topics/img/apollo_ardware_overview_3_5.png" >
+</div> 
+
+硬件之间的数据流：
+
+<div align=center>
+    <img src="https://taylor-liu.github.io/topics/img/apollo_hardware_connection_3_5_1.png" >
+</div> 
+
+模块的官方说明：
+
+- Perception（感知）
+- Prediction（预测）
+- Routing（路由）
+- Planing（计划）
+- Control（控制）
+
+### 6. 相关课程
+
+`Apollo自动驾驶入门课程`
 
 * [重磅 - Udacity X Apollo自动驾驶免费入门课程正式上线！](https://mp.weixin.qq.com/s/h_4EACy8rxW4yR1dkGvDRw)
 * [Apollo自动驾驶入门课程第①讲—无人驾驶概览](https://mp.weixin.qq.com/s/yO_Lc5Fo-8fBC9PwVCQBqA)
@@ -59,4 +85,11 @@ title: Autonomous Driving
 * [Apollo自动驾驶入门课程第⑧讲 — 规划（下）](https://mp.weixin.qq.com/s/1yA-kgS_rL4o9I4OWeI4-A)
 * [Apollo自动驾驶入门课程第⑨讲 — 控制（上）](https://mp.weixin.qq.com/s/8hLVHuv635fyHRNftXJQ4w)
 * [Apollo自动驾驶入门课程第⑩讲 — 控制（下）](https://mp.weixin.qq.com/s/AnWWnD3ScSW6GhrwRGpRDw)
+
+`Apollo自动驾驶进阶课程`
+
+
+
+
+
 
