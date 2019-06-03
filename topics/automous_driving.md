@@ -16,18 +16,29 @@ title: Autonomous Driving
 - [无人驾驶技术入门（十三）- 手把手教你写卡尔曼滤波器](https://zhuanlan.zhihu.com/p/45238681)
 - [无人驾驶技术入门（十八）- 手把手教你写扩展卡尔曼滤波器](https://zhuanlan.zhihu.com/p/63641680)
 
-
 ### 2. Overview
 
 - Creating Autonomous Vechicle Systems (刘少山) [[Slide]](/topics/data/CreatingAutonomousVechicleSystems.pdf) [[雷锋网报道]](https://www.leiphone.com/news/201707/Os8tY7kc6SOfnBmC.html)
 - DiDi: AI in Transportation (KDD2018 Tutorial) [[Slide]](/topics/data/DiDi_KDD2018_Tutorial.pdf)
 - JD X-Lab: Artificial Intelligence in Autonomous Vehicle Systems [[Slide]](/topics/data/JD_AI_in_autonomous_vehicle_systems.pdf)
 
+`相关博文`
+
+- [自动驾驶之路已走了多远？一文读懂研究现状](https://mp.weixin.qq.com/s/1Lj6DaY5m-sWb-Y7lnLeEw)
+	- 编译自2019年论文 Self-Driving Cars: A Survey [[Paper]](https://arxiv.org/abs/1901.04407)
+- [一个自动驾驶工程师眼中的自动驾驶](https://mp.weixin.qq.com/s/cgWJvhn6mclsKOv0gvaUcg)
+- [自动驾驶传感器，感知，地图定位和规划控制发展现状及热点研究](https://mp.weixin.qq.com/s/qyZS6ufN6f4dQRdG9diP0A)
+- [史上最全的自动驾驶研究报告（上）](https://mp.weixin.qq.com/s/fG_Oee0biudXyX-B-93THw)
+- [史上最全的自动驾驶研究报告（下）](https://mp.weixin.qq.com/s/Qe6ex06SFbI1ggq9ONZYFA)
+
 ### 3. Prediction
 
 - [自动驾驶公开课 - Apollo 2.5预测系统介绍](https://mp.weixin.qq.com/s/48DcWP1kAoze0Lv8jHY3Ow)
 - Apollo3.5预测模块官方介绍[[中文]](https://github.com/ApolloAuto/apollo/blob/master/modules/prediction/README_cn.md)[[英文]](https://github.com/ApolloAuto/apollo/blob/master/modules/prediction/README.md)
 - [【美团技术解析】自动驾驶中的障碍物行为预测](https://www.jiqizhixin.com/articles/2019-05-14-4?from=synced&keyword=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6)
+- [自动驾驶中行为预测的一些根本问题和最新方法](https://mp.weixin.qq.com/s/NH09Pvh8vKtOGrS6Lwq3Tw)
+	- 作者简介：战威，UC Berkeley博士在读，主要研究方向为自动驾驶中的预测、决策与规划
+- [自动驾驶中的驾驶行为建模和预测方法](https://mp.weixin.qq.com/s/FmqMg-j-Mf2nguHbuCyXAA)
 
 
 ### 4. Planning and Control (PNC)
@@ -45,6 +56,13 @@ title: Autonomous Driving
 - 自动驾驶大脑设计思路探析（智行者）[[Slide]](/topics/data/自动驾驶大脑设计思路探析.pdf)
 - 智能车控制决策系统开发（智行者）[[Slide]](/topics/data/智能车控制决策系统开发.pdf) [[雷锋网报道]](https://www.leiphone.com/news/201701/pCFzcs7O9UDn2ETl.html)
 - 同济大学：无人驾驶车辆行为决策系统研究（2018）[[Website]](https://mp.weixin.qq.com/s/PKez00qYG84I_61_74YUfQ) [[Paper]](/topics/data/2018-无人驾驶车辆行为决策系统研究.pdf)
+- 自动驾驶的“大脑”——决策规划篇 [[Website]](https://mp.weixin.qq.com/s/P-PR5CSDE0zKOUwXebN3xw)
+	- 选自《中国人工智能系列白皮书-智能驾驶2017》[[PDF]](/topics/data/2017-中国人工智能系列白皮书-智能驾驶.pdf)
+- 自动驾驶汽车的运动规划技术综述 [[Website]](https://mp.weixin.qq.com/s/BmpjnNMvpOywjPxt30p0bw)
+	- 2016 - A Review of Motion Planning Techniques forAutomated Vehicles
+- 算法 - 一篇读懂自动驾驶汽车决策层算法的新思路 [[Website]](https://mp.weixin.qq.com/s/4chZ52I3Qy34GmEqtDpHfw)
+- 自动驾驶中轨迹规划的探索和挑战 [[Website]](https://mp.weixin.qq.com/s/lsaDn6YfIdTMjXl-SxtbfA)
+	- 作者：Pony.ai Tech lead 梁亚雄
 
 `路径规划`
 
@@ -81,6 +99,8 @@ Apollo3.5之前的版本（1.0-3.0）采用ROS系统，并针对无人车的要�
 
 ROS在自动驾驶的探索和实践 [[Blog]](https://mp.weixin.qq.com/s?__biz=MzI5MjcyNTc1Mw==&mid=2247483975&idx=1&sn=7d946e3322710d7b7b1e6688c37f8f43&chksm=ec7db4d1db0a3dc7eda3e26ea35945da9aebaee32cbe28f91c5b8b9fc589fbec284887e1bc18&scene=21#wechat_redirect) [[Slide]](/topics/data/ROS在自动驾驶的探索和实践.pdf)
 
+[Cruise Automation：基于ROS构建无人驾驶汽车的经验总结](https://mp.weixin.qq.com/s/zXTAQd5JUtLPUW0xYr0qgA)
+
 Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 - [百度Apollo 3.5是如何设计Cyber RT计算框架的？(2019.02.02)](https://mp.weixin.qq.com/s/YKmn_oJFheq17hs8M2zkMw)
@@ -106,7 +126,19 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 * 2016 - Nvidia - End to End Learning for Self-Driving Cars
 * 2018 - Intel - Learning End-to-end Autonomous Driving using Guided Auxiliary Supervision 
 
-### 7. 基于学习的方法（PNC方面）
+2018 - Waymo - ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst
+- 不是完全的端到端模型
+- [Waymo找到了无人车运动规划的新方法！机器学习模型还有巨大潜力](https://mp.weixin.qq.com/s/6cx4SiwNkDTd12lPIBPUaw)
+- [谷歌ChauffeurNet:训练能够鲁棒地驾驶实车的网络](https://mp.weixin.qq.com/s/enUyu6nJI5olRUQehmu6UA)
+
+### 7. 基于强化学习的方法（在PNC方面）
+
+- [对抗强化学习最新研究：可用于自动驾驶汽车「碰撞避免机制」检测](https://mp.weixin.qq.com/s/dx2zbPN4ZIUCUHbIXhjAKg)
+- [IEEE IV 2018：基于深度增强学习的高层驾驶决策研究](https://mp.weixin.qq.com/s/ODFKIIS5Z-WA2gDXxO1z9A)
+- [Wayve：强化学习教汽车学会自动驾驶](https://mp.weixin.qq.com/s/ky8qsOlO--DzMQKd9fX-5Q)
+- [知乎：强化学习在自动驾驶上有哪些应用？](https://www.zhihu.com/question/299700072?utm_source=wechat_search&utm_medium=organic)
+
+- [面试题：如何设计一个端到端的自动驾驶模型？ & 如何设计一个基于增强学习的自动驾驶决策系统？](https://mp.weixin.qq.com/s/7mu-n13H2YxbCFrVJ0fD1A)
 
 ### 8. Apollo项目
 
@@ -176,6 +208,53 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 `MIT 6.S094: Deep Learning for Self-Driving Car`
 
 - [HomePage](https://selfdrivingcars.mit.edu/)
+
+### 10. 个人成长经验分享
+
+- [陆奇演讲：如何成为一个优秀的自动驾驶工程师（2018年）](https://mp.weixin.qq.com/s/acsBTZfCDHx-EcTjaK31Dw)
+
+### 11. 硬件
+
+- [百度王石峰：自动驾驶汽车硬件系统概述](https://mp.weixin.qq.com/s/Q8_4G-rxNqQVynNoBdZQWA)
+- [全面解读毫米波雷达](https://mp.weixin.qq.com/s/0CtchlQlSpeB5VQtwxYYAQ)
+- [谷歌Waymo的整车传感器配置方案](https://mp.weixin.qq.com/s/V4ZxKVBUtmOqzxZlqrYQvg)
+- [特斯拉的整车传感器配置方案](https://mp.weixin.qq.com/s/Gs6kERBHLul9Dc4llrXAyw)
+
+### 12. 仿真
+
+- [自动驾驶车辆仿真模拟软件盘点](https://mp.weixin.qq.com/s/Qhx7TTZEgpFFjyBWyUkOgA)
+- [回顾：Drive.ai 、文远知行WeRide、51VR，三大视角解读自动驾驶仿真](https://www.leiphone.com/news/201812/LrT2QsJvYSAv7khF.html)
+- [Live回顾：文远知行WeRide自动驾驶仿真论——真实、闭环、规模、整合](https://www.leiphone.com/news/201812/PqnyCW6ngG0ikJFJ.html)
+
+### 13. 商业落地
+
+- [盘点百度、阿里、腾讯、华为自动驾驶战略](https://mp.weixin.qq.com/s/3TLO4C2NgagS-ncl9kWQYA)
+- [自动驾驶商业化应用研究](https://mp.weixin.qq.com/s/AMcjRrjMuil8_g-TetKS2Q)
+- [福瑞泰克CTO沈骏强谈自动驾驶商业化：怎样解决安全、体验、成本和场景问题？](https://www.leiphone.com/news/201811/rsI08E8M2Z8kNN34.html)
+- [文远知行钟华：L4级别无人驾驶在中国的落地之路 | GTC 中国 2018](https://www.leiphone.com/news/201811/rjZSfPELbOeK89m4.html)
+
+### 14. 观点
+
+- [哥伦比亚大学AI实验室主任Hod Lipson：阻碍无人驾驶技术发展的7个误区](https://mp.weixin.qq.com/s/A0PPdK55WLTNU0rvDfIWng)
+- [Waymo 首席科学家在MIT自动驾驶课上开讲：如何解决自动驾驶的长期挑战](https://mp.weixin.qq.com/s/EmOnA4K-LApsAihOtdqIMQ)
+
+### 15. 相关实验室
+
+- [【盘点】智能车实验室盘点-欧洲篇](https://mp.weixin.qq.com/s/l7y9d9puzdGW467q4DPfzw)
+
+### 16. 数据集
+
+- [无人驾驶数据集汇总](https://mp.weixin.qq.com/s/dY5rqVc2fQ0cbzyJIHtcqA)
+
+
+
+
+
+
+
+
+
+
 
 
 

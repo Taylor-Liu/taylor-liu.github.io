@@ -8,6 +8,7 @@ Where to find papers?
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 - [Arxiv](https://arxiv.org/)
 
+
 Where to find posters?
 - [postersession.ai](https://postersession.ai/)
 	- contain: ICLR2019 posters
@@ -19,3 +20,4 @@ Research suggestions from [Simon Peyton Jones](https://www.microsoft.com/en-us/r
 - [How to write a great grant proposal](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/)
 
 
+MIT计算机大牛：如何写好一篇顶会论文 [[Slide]](/topics/data/write_a_good_paper.pdf)
