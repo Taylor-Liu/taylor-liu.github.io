@@ -25,7 +25,7 @@ Questions:
 #### 参考资料
 
 - 2016 - MIT - A Survey of Motion Planning and ControlTechniques for Self-Driving Urban Vehicles
-- 《Creating Autonomous Vehicle Systems》Chapter 07: Decision,Planning and Control [[English]](/topics/data/decision-planning-control.pdf) [[Chinese]](/topics/data/无人驾驶的规划与控制.pdf) 
+- 《Creating Autonomous Vehicle Systems》Chapter 07: Decision,Planning and Control [[English]](/topics/data/decision-planning-control.pdf) [[Chinese]](/topics/data/无人驾驶的规划与控制.pdf) [[Mindnote]](/topics/data/pnc-mindnote.pdf)
 
 <p style="text-align:center">
 	<img src="/topics/img/pnc.png" />
