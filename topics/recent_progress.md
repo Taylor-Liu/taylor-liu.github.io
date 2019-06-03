@@ -6,11 +6,11 @@ title: Recent Progress
 ### 1. DeepMind
 
 - Reinforcement Learning, Fast and Slow
-	- Published: Trends In Cognitive Sciences
+	- Published: `Trends In Cognitive Sciences`
 	- Time: April 16, 2019
 	- [[Paper]](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30061-0)[[雷锋网报道]](https://mp.weixin.qq.com/s/Z3I6-rdCFLG8Dh7LhbbIbw)
 - Human-level performance in 3D multiplayer games with population-based reinforcement learning
-	- Published: Science
+	- Published: `Science`
 	- Time: May 31, 2019
 	- [[Paper]](https://science.sciencemag.org/content/364/6443/859/tab-pdf)[[机器之心报道]](https://www.jiqizhixin.com/articles/2019-06-01-2)
 
