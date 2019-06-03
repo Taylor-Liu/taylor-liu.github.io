@@ -16,3 +16,4 @@ Questions:
 - 什么时候会有行为层(behavioral layer)? 
 - Apollo中是否有行为层？
 - 哪些模块可以用学习的方法（如：RL, DL）得到？
+- PNC目前存在的难点是什么？

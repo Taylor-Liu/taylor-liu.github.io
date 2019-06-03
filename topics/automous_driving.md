@@ -10,12 +10,18 @@ title: Autonomous Driving
 
 [Apollo自动驾驶工程师技能图谱V2.0](/topics/data/apollo-v2.pdf)
 
-### 1. 基础知识
+### 0. Basics
 
 - [无人驾驶技术入门（十二）- 无人驾驶中的坐标转换](https://zhuanlan.zhihu.com/p/41263701)
 - [无人驾驶技术入门（十三）- 手把手教你写卡尔曼滤波器](https://zhuanlan.zhihu.com/p/45238681)
 - [无人驾驶技术入门（十八）- 手把手教你写扩展卡尔曼滤波器](https://zhuanlan.zhihu.com/p/63641680)
-- [解析百度Apollo自动驾驶平台](https://paul.pub/baidu-apollo/#id-prediction%E9%A2%84%E6%B5%8B)
+
+
+### 1. Overview
+
+- Creating Autonomous Vechicle Systems (刘少山) [[Slide]](/topics/data/CreatingAutonomousVechicleSystems.pdf)
+- DiDi: AI in Transportation (KDD2018 Tutorial) [[Slide]](/topics/data/DiDi_KDD2018_Tutorial.pdf)
+- JD X-Lab: Artificial Intelligence in Autonomous Vehicle Systems [[Slide]](/topics/data/JD_AI_in_autonomous_vehicle_systems.pdf)
 
 ### 2. Prediction
 
@@ -138,6 +144,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 `相关博文：`
 
+- [解析百度Apollo自动驾驶平台](https://paul.pub/baidu-apollo/#id-prediction%E9%A2%84%E6%B5%8B)
 - [技术文档 - Apollo 3.5学习指南高能上线，先睹为快！](https://mp.weixin.qq.com/s/0VHpdAi1PiHsj6DbdvcwvQ)
 - [技术文档 - Apollo3.5 软件架构](https://mp.weixin.qq.com/s/k5GNHhxEE6mIOnxXlCpKXg)
 - [沙龙回顾 - Apollo 3.5 技术架构详解](https://mp.weixin.qq.com/s/svcCQHIcQFIx-AifvbrP9Q)
