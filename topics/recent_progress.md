@@ -31,3 +31,10 @@ title: Recent Progress
 
 ### 4. Others
 
+- [Learning Legged Locomotion Workshop @ ICRA 2019](https://sites.google.com/view/learning-legged-locomotion/)
+
+
+
+
+
+
