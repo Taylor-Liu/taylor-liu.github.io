@@ -50,9 +50,55 @@ title: Autonomous Driving
 
 ### 4. 操作系统
 
-- ROS在自动驾驶的探索和实践 [[Blog]](https://mp.weixin.qq.com/s?__biz=MzI5MjcyNTc1Mw==&mid=2247483975&idx=1&sn=7d946e3322710d7b7b1e6688c37f8f43&chksm=ec7db4d1db0a3dc7eda3e26ea35945da9aebaee32cbe28f91c5b8b9fc589fbec284887e1bc18&scene=21#wechat_redirect) [[Slide]](https://taylor-liu.github.io/topics/data/ROS在自动驾驶的探索和实践.pdf)
+要解决的问题：不同模块之间如何进行通信？
 
-### 5. Apollo项目
+Apollo3.5之前的版本采用ROS系统，并针对无人车的要求对ROS系统进行了改进，主要包括下面三个方面：
+
+- 通信性能优化
+	- 通过共享内存来减少数据拷贝，以提升通信性能
+- 去中心化网络拓扑
+	- 主要解决ROS中只包含单主节点的问题（单主节点发生故障后容易导致系统崩溃）
+	- 使用RTPS（Real-Time Publish-Subscribe）服务发现协议实现完全的P2P网络拓扑
+- 数据兼容性扩展
+	- 不使用ROS用来描述文件定义模块间的消息接口msg
+	- 改用Google的Protocol Buffers格式数据
+
+ROS在自动驾驶的探索和实践 [[Blog]](https://mp.weixin.qq.com/s?__biz=MzI5MjcyNTc1Mw==&mid=2247483975&idx=1&sn=7d946e3322710d7b7b1e6688c37f8f43&chksm=ec7db4d1db0a3dc7eda3e26ea35945da9aebaee32cbe28f91c5b8b9fc589fbec284887e1bc18&scene=21#wechat_redirect) [[Slide]](https://taylor-liu.github.io/topics/data/ROS在自动驾驶的探索和实践.pdf)
+
+Apollo3.5之后采用百度自家设计的Cyber RT系统
+
+- [百度Apollo 3.5是如何设计Cyber RT计算框架的？(2019.02.02)](https://mp.weixin.qq.com/s/YKmn_oJFheq17hs8M2zkMw)
+- [让Cyber RT触手可及 专场问答第二弹！(2019.03.08)](https://mp.weixin.qq.com/s/g6Zc7szKfWn9wdZIPJpkSA)
+- [技术文档 - Cyber RT 协程技术解读 (2019.04.08)](https://mp.weixin.qq.com/s/6LdFTZrTiRZfF_gv1NJhzg)
+- [技术文档 - Apollo Cyber调度器 (2019.04.16)](https://mp.weixin.qq.com/s/uRmNDmpUiPC7pRykR3zBeg)
+- [技术文档 - Cyber RT 进程间通信 (2019.04.22)](https://mp.weixin.qq.com/s/aL5T1HIlr2rNBrNOX4Xbjw)
+- [沙龙回顾 - Apollo Cyber RT计算框架详解 (2019.05.16)](https://mp.weixin.qq.com/s/d4sLuJFiyFyL6NRhyx-i8A)
+
+### 5. 端到端方法（从感知到控制）
+
+`相关博文`
+
+- [【美团技术解析】无人车端到端驾驶模型概述](https://mp.weixin.qq.com/s/5yH8aXDrPYjGJdv0npHkig)
+
+`相关论文`
+
+* 2015 - Princeton - ICCV - DeepDriving：Learning Affordance for Direct Perception in Autonomous Driving
+* 2017 - Berkeley - CVPR - End-to-end Learning of Driving Models from Large-scale Video Datasets
+* 2018 - Intel - ICRA - End-to-end  Driving  via  Conditional  Imitation  Learning
+* 2015 - NYU - DAVE_Off-Road Obstacle Avoidance through End-to-End Learning
+* 2016 - Comma.ai - Learning a Driving Simulator
+* 2016 - Nvidia - End to End Learning for Self-Driving Cars
+* 2018 - Intel - Learning End-to-end Autonomous Driving using Guided Auxiliary Supervision 
+
+### 6. 基于学习的方法（PNC方面）
+
+### 7. Apollo项目
+
+`Apollo3.5整体架构：`
+
+<p style="text-align:center">
+	<img src="https://taylor-liu.github.io/topics/img/apollo/apollo_3_5_Architecture.png" />
+</p>
 
 `硬件架构：`
 
@@ -80,7 +126,7 @@ title: Autonomous Driving
 - [Planing（计划）](https://github.com/ApolloAuto/apollo/tree/master/modules/planning)
 - [Control（控制）](https://github.com/ApolloAuto/apollo/tree/master/modules/control)
 
-### 6. 相关课程
+### 8. 相关课程
 
 `Apollo自动驾驶入门课程`
 
