@@ -10,6 +10,7 @@ title: Autonomous Driving
 
 [Apollo自动驾驶工程师技能图谱V2.0](/topics/data/apollo-v2.pdf)
 
+[Apollo自动驾驶工程师技能图谱V2.0](/topics/data/apollo-v2.pdf)
 
 ### 1. 基础知识
 
