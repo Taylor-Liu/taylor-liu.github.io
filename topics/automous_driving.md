@@ -10,8 +10,6 @@ title: Autonomous Driving
 
 [Apollo自动驾驶工程师技能图谱V2.0](/topics/data/apollo-v2.pdf)
 
-[Apollo自动驾驶工程师技能图谱V2.0](/topics/data/apollo-v2.pdf)
-
 ### 1. 基础知识
 
 - [无人驾驶技术入门（十二）- 无人驾驶中的坐标转换](https://zhuanlan.zhihu.com/p/41263701)
@@ -69,7 +67,7 @@ Apollo3.5之前的版本（1.0-3.0）采用ROS系统，并针对无人车的要�
 	- 不使用ROS用来描述文件定义模块间的消息接口msg
 	- 改用Google的Protocol Buffers格式数据
 
-ROS在自动驾驶的探索和实践 [[Blog]](https://mp.weixin.qq.com/s?__biz=MzI5MjcyNTc1Mw==&mid=2247483975&idx=1&sn=7d946e3322710d7b7b1e6688c37f8f43&chksm=ec7db4d1db0a3dc7eda3e26ea35945da9aebaee32cbe28f91c5b8b9fc589fbec284887e1bc18&scene=21#wechat_redirect) [[Slide]](https://taylor-liu.github.io/topics/data/ROS在自动驾驶的探索和实践.pdf)
+ROS在自动驾驶的探索和实践 [[Blog]](https://mp.weixin.qq.com/s?__biz=MzI5MjcyNTc1Mw==&mid=2247483975&idx=1&sn=7d946e3322710d7b7b1e6688c37f8f43&chksm=ec7db4d1db0a3dc7eda3e26ea35945da9aebaee32cbe28f91c5b8b9fc589fbec284887e1bc18&scene=21#wechat_redirect) [[Slide]](/topics/data/ROS在自动驾驶的探索和实践.pdf)
 
 Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
@@ -103,25 +101,25 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 `Apollo3.5整体架构：`
 
 <p style="text-align:center">
-	<img src="https://taylor-liu.github.io/topics/img/apollo/apollo_3_5_Architecture.png" />
+	<img src="/topics/img/apollo/apollo_3_5_Architecture.png" />
 </p>
 
 `硬件架构：`
 
 <p style="text-align:center">
-	<img src="https://taylor-liu.github.io/topics/img/apollo/apollo_ardware_overview_3_5.png" />
+	<img src="/topics/img/apollo/apollo_ardware_overview_3_5.png" />
 </p>
 
 `硬件之间的数据流：`
 
 <p style="text-align:center">
-	<img src="https://taylor-liu.github.io/topics/img/apollo/apollo_hardware_connection_3_5_1.png" />
+	<img src="/topics/img/apollo/apollo_hardware_connection_3_5_1.png" />
 </p>
 
 `软件架构（导航模式）：`
 
 <p style="text-align:center">
-	<img src="https://taylor-liu.github.io/topics/img/apollo/apollo_3_5_software_architecture.png" />
+	<img src="/topics/img/apollo/apollo_3_5_software_architecture.png" />
 </p>
 
 `模块的官方说明：`
