@@ -28,3 +28,17 @@ title: 利用jekyll搭建个人博客
 | [ocram85.com](https://ocram85.com) | Marco Blessing | A personal blog about PowerShell and automation |
 | [khanna.cc](https://khanna.cc/) | Harry Khanna | Law and software |
 
+### 绑定域名
+
+购买域名
+- [阿里云](https://wanwang.aliyun.com/domain/?spm=5176.8006371.1007.dnetcndomain.q1ys4x)
+- [腾讯云](https://cloud.tencent.com/act/domainsales?fromSource=gwzcw.2046461.2046461.2046461&utm_medium=cpc&utm_id=gwzcw.2046461.2046461.2046461)
+- [华为云](https://www.huaweicloud.com/product/domain.html?utm_source=baidu-b&utm_medium=cpc&utm_campaign=CP-YMYWZ-%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C&utm_content=CP-YMYWZ-%E5%9F%9F%E5%90%8D%E6%B3%A8%E5%86%8C-%E8%B4%AD%E4%B9%B0&utm_term=%E5%9F%9F%E5%90%8D%E8%B4%AD%E4%B9%B0#anchor_domain)
+
+参考资料：
+- [Github个人博客：绑定域名](https://blog.csdn.net/heimu24/article/details/81159099)
+
+
+
+
+
