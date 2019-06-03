@@ -96,6 +96,12 @@ title: Autonomous Driving
 
 `Apollo自动驾驶进阶课程`
 
+`MIT 6.S094: Deep Learning for Self-Driving Car`
+
+- [HomePage](https://selfdrivingcars.mit.edu/)
+
+
+
 
 
 
