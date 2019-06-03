@@ -5,6 +5,10 @@ title: Planning and Control in Self-Driving Cars
 
 Illustration of the hierarchy of decision-making processes. A destination is passed to a **route planner** that generates a route through the road network. A **behavioral layer** reasons about the environment and generates a motion specification to progress along the selected route. A **motion planner** then solves for a feasible motion accomplishing the specification. A **feedback control** adjusts actuation variables to correct errors in executing the reference path.
 
+<p style="text-align:center">
+	<img src="/topics/img/decision-making.png" />
+</p>
+
 Questions:
 
 - 根据什么来决定此时的行为？（超车？跟车？变道？）
@@ -17,3 +21,7 @@ Questions:
 - Apollo中是否有行为层？
 - 哪些模块可以用学习的方法（如：RL, DL）得到？
 - PNC目前存在的难点是什么？
+
+### 参考资料
+
+- 2016 - MIT - A Survey of Motion Planning and ControlTechniques for Self-Driving Urban Vehicles
