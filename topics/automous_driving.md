@@ -33,6 +33,12 @@ title: Autonomous Driving
 - [自动驾驶中有哪些路径规划框架?](https://zhuanlan.zhihu.com/p/43405664)
 - [PythonRobotics: Python sample codes for robotics algorithms](https://atsushisakai.github.io/PythonRobotics/)
 
+`相关分享`
+
+- 自动驾驶大脑设计思路探析（智行者）[Slide](/topics/data/自动驾驶大脑设计思路探析.pdf)
+- 智能车控制决策系统开发（智行者）[Slide](/topics/data/智能车控制决策系统开发.pdf)
+- 同济大学：无人驾驶车辆行为决策系统研究（2018）[[Website]](https://mp.weixin.qq.com/s/PKez00qYG84I_61_74YUfQ) [[Paper]](/topics/data/2018-无人驾驶车辆行为决策系统研究.pdf)
+
 `路径规划`
 
 - [路径搜索可视化](http://qiao.github.io/PathFinding.js/visual/)
