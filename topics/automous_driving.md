@@ -19,7 +19,7 @@ title: Autonomous Driving
 
 ### 1. Overview
 
-- Creating Autonomous Vechicle Systems (刘少山) [[Slide]](/topics/data/CreatingAutonomousVechicleSystems.pdf)
+- Creating Autonomous Vechicle Systems (刘少山) [[Slide]](/topics/data/CreatingAutonomousVechicleSystems.pdf) [[雷锋网报道]](https://www.leiphone.com/news/201707/Os8tY7kc6SOfnBmC.html)
 - DiDi: AI in Transportation (KDD2018 Tutorial) [[Slide]](/topics/data/DiDi_KDD2018_Tutorial.pdf)
 - JD X-Lab: Artificial Intelligence in Autonomous Vehicle Systems [[Slide]](/topics/data/JD_AI_in_autonomous_vehicle_systems.pdf)
 
