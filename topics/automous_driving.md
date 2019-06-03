@@ -4,7 +4,7 @@ title: Autonomous Driving
 ---
 
 <p style="text-align:center">
-<img src="/topics/img/waymo.png" />
+	<img src="/topics/img/waymo.png" />
 </p>
 
 
@@ -35,13 +35,15 @@ title: Autonomous Driving
 - [自动驾驶中有哪些路径规划框架?](https://zhuanlan.zhihu.com/p/43405664)
 - [PythonRobotics: Python sample codes for robotics algorithms](https://atsushisakai.github.io/PythonRobotics/)
 
-路径规划
+`路径规划`
+
 - [路径搜索可视化](http://qiao.github.io/PathFinding.js/visual/)
 - [路径规划之 A* 算法](https://paul.pub/a-star-algorithm/#id-%E7%AE%97%E6%B3%95%E5%8F%98%E7%A7%8D)
 - [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 - Baidu Apollo EM Motion Planner[[Paper-18年发表]](https://arxiv.org/pdf/1807.08048.pdf)
 
-企业招聘要求
+`企业招聘要求`
+
 - [Waymo: Software / Research Engineer, Planning and Motion Control](https://waymo.com/joinus/1305655/)
 - [Waymo: Software Engineer, Planner & Controls](https://waymo.com/joinus/928478/)
 - [文远知行：决策规划工程师 - ML/DL方向](https://app.mokahr.com/apply/jingchi/2138#/job/d2455c6c-8f2a-4c39-b2ff-e20fdd552836?_k=qxytrx)
@@ -50,25 +52,31 @@ title: Autonomous Driving
 
 ### 5. Apollo项目
 
-硬件架构：
+`硬件架构：`
 
-<div align=center>
-    <img src="https://taylor-liu.github.io/topics/img/apollo_ardware_overview_3_5.png" >
-</div> 
+<p style="text-align:center">
+	<img src="https://taylor-liu.github.io/topics/img/apollo/apollo_ardware_overview_3_5.png" />
+</p>
 
-硬件之间的数据流：
+`硬件之间的数据流：`
 
-<div align=center>
-    <img src="https://taylor-liu.github.io/topics/img/apollo_hardware_connection_3_5_1.png" >
-</div> 
+<p style="text-align:center">
+	<img src="https://taylor-liu.github.io/topics/img/apollo/apollo_hardware_connection_3_5_1.png" />
+</p>
 
-模块的官方说明：
+`软件架构（导航模式）：`
 
-- Perception（感知）
-- Prediction（预测）
-- Routing（路由）
-- Planing（计划）
-- Control（控制）
+<p style="text-align:center">
+	<img src="https://taylor-liu.github.io/topics/img/apollo/apollo_3_5_software_architecture.png" />
+</p>
+
+`模块的官方说明：`
+
+- [Perception（感知）](https://github.com/ApolloAuto/apollo/tree/master/modules/perception)
+- [Prediction（预测）](hhttps://github.com/ApolloAuto/apollo/tree/master/modules/prediction)
+- [Routing（路由）](https://github.com/ApolloAuto/apollo/tree/master/modules/routing)
+- [Planing（计划）](https://github.com/ApolloAuto/apollo/tree/master/modules/planning)
+- [Control（控制）](https://github.com/ApolloAuto/apollo/tree/master/modules/control)
 
 ### 6. 相关课程
 
