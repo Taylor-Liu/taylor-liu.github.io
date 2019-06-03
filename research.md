@@ -8,7 +8,7 @@ Where to find papers?
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 - [Arxiv](https://arxiv.org/)
 
-Where to find poster?
+Where to find posters?
 - [postersession.ai](https://postersession.ai/)
 	- contain: ICLR2019 posters
 
