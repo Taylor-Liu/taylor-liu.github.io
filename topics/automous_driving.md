@@ -8,6 +8,9 @@ title: Autonomous Driving
 </p>
 
 
+[Apollo自动驾驶工程师技能图谱V2.0](https://taylor-liu.github.io/topics/data/apollo-v2.pdf)
+
+
 ### 1. 基础知识
 
 - [无人驾驶技术入门（十二）- 无人驾驶中的坐标转换](https://zhuanlan.zhihu.com/p/41263701)
