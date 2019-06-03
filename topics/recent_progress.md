@@ -36,7 +36,7 @@ title: Recent Progress
 - Composing Complex Skills by Learning Transition Policies
 	- Published: `ICLR2019`
 	- University of Southern California
-	- [[Project page]](https://youngwoon.github.io/transition/)[[Paper]](https://openreview.net/pdf?id=rygrBhC5tQ)[[Github]](https://github.com/youngwoon/transition)[[Poster]](https://taylor-liu.github.io/topics/data/2019-iclr-composition.pdf)
+	- [[Project page]](https://youngwoon.github.io/transition/)[[Paper]](https://openreview.net/pdf?id=rygrBhC5tQ)[[Github]](https://github.com/youngwoon/transition)[[Poster]](/topics/data/2019-iclr-composition.pdf)
 
 
 
