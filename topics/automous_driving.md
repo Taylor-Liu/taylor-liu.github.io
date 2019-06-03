@@ -43,7 +43,7 @@ title: Autonomous Driving
 `相关分享`
 
 - 自动驾驶大脑设计思路探析（智行者）[[Slide]](/topics/data/自动驾驶大脑设计思路探析.pdf)
-- 智能车控制决策系统开发（智行者）[[Slide]](/topics/data/智能车控制决策系统开发.pdf)
+- 智能车控制决策系统开发（智行者）[[Slide]](/topics/data/智能车控制决策系统开发.pdf) [[雷锋网报道]](https://www.leiphone.com/news/201701/pCFzcs7O9UDn2ETl.html)
 - 同济大学：无人驾驶车辆行为决策系统研究（2018）[[Website]](https://mp.weixin.qq.com/s/PKez00qYG84I_61_74YUfQ) [[Paper]](/topics/data/2018-无人驾驶车辆行为决策系统研究.pdf)
 
 `路径规划`
