@@ -37,6 +37,7 @@ title: 利用jekyll搭建个人博客
 
 参考资料：
 - [Github个人博客：绑定域名](https://blog.csdn.net/heimu24/article/details/81159099)
+- [Git Pages + Jekyll/Hexo搭建自己的博客](https://blog.csdn.net/muzilanlan/article/details/81542917)
 
 
 
