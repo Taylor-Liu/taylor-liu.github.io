@@ -22,7 +22,8 @@ Questions:
 - 哪些模块可以用学习的方法（如：RL, DL）得到？
 - PNC目前存在的难点是什么？
 
-#### 参考资料
+
+### 参考资料
 
 - 2016 - MIT - A Survey of Motion Planning and ControlTechniques for Self-Driving Urban Vehicles
 - 《Creating Autonomous Vehicle Systems》Chapter 07: Decision,Planning and Control [[English]](/topics/data/decision-planning-control.pdf) [[Chinese]](/topics/data/无人驾驶的规划与控制.pdf) [[Mindnote]](/topics/data/pnc-mindnote.pdf)
