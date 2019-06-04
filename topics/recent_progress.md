@@ -22,6 +22,9 @@ title: Recent Progress
 - OpenAI 2019 Scholars Demo Day
 	- Time: May 14, 2019
 	- [[Blog]](https://openai.com/blog/openai-scholars-class-of-19/)[[Video]](https://www.youtube.com/watch?v=4u218xVkjmQ&t=2972s)
+- OpenAI Spinning Up Workshop
+	- Time: February, 2019
+	- [[Blog]](https://openai.com/blog/spinning-up-in-deep-rl-workshop-review/)[[Materials]](https://github.com/openai/spinningup-workshop)
 
 
 ### 3. UC Berkeley
