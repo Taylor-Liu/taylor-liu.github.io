@@ -99,7 +99,7 @@ Apollo3.5之前的版本（1.0-3.0）采用ROS系统，并针对无人车的要�
 
 ROS在自动驾驶的探索和实践 [[Blog]](https://mp.weixin.qq.com/s?__biz=MzI5MjcyNTc1Mw==&mid=2247483975&idx=1&sn=7d946e3322710d7b7b1e6688c37f8f43&chksm=ec7db4d1db0a3dc7eda3e26ea35945da9aebaee32cbe28f91c5b8b9fc589fbec284887e1bc18&scene=21#wechat_redirect) [[Slide]](/topics/data/ROS在自动驾驶的探索和实践.pdf)
 
-[Cruise Automation：基于ROS构建无人驾驶汽车的经验总结](https://mp.weixin.qq.com/s/zXTAQd5JUtLPUW0xYr0qgA)
+Cruise Automation：基于ROS构建无人驾驶汽车的经验总结 (ROSCon2018 Talk) [[Blog]](https://mp.weixin.qq.com/s/zXTAQd5JUtLPUW0xYr0qgA) [[Slide]](https://roscon.ros.org/2018/presentations/ROSCon2018_LessonsLearnedSelfDriving.pdf) [[Video]](https://vimeo.com/292693011)
 
 Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
