@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reinforcement Learning
-subtitle: sim-to-real, rl in real world, distributed rl, model-based rl, hierarchical rl
+subtitle: Sim-to-Real, RL in Real World, Distributed RL, Model-based RL, Hierarchical RL
 ---
 
 <p style="text-align:center">
