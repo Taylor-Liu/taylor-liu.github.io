@@ -16,3 +16,7 @@ title:  Access to Information
 - [UC Berkeley: Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/blog/?refresh=1)
 
 微信公众号
+- 机器之心
+- 新智元
+- 智车科技
+- Apollo
