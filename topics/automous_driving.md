@@ -254,6 +254,9 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - IEEE Intelligent Vehicles Symposium (IV)
 - IEEE International Conference on Intelligent Transportation Systems (ITSC)
 
+期刊
+- IEEE Transactions on Intelligent Transportation Systems
+
 相关博文
 - [自动驾驶领域顶级会议有哪些？](http://m.elecfans.com/article/688175.html)
 
