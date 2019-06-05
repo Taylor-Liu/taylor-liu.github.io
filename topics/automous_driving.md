@@ -246,7 +246,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [【盘点】智能车实验室盘点-欧洲篇](https://mp.weixin.qq.com/s/l7y9d9puzdGW467q4DPfzw)
 
 - UC Berkeley: Mechanical Systems Control Lab
-	- [[Home]](https://msc.berkeley.edu/) [[Research Topic: Autonomous Driving](https://msc.berkeley.edu/research/autonomous-vehicle.html)
+	- [[Home]](https://msc.berkeley.edu/) [[Research Topic: Autonomous Driving]](https://msc.berkeley.edu/research/autonomous-vehicle.html)
 
 ### 16. 期刊/会议（智能车领域）
 
