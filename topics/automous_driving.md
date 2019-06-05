@@ -245,12 +245,25 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 - [【盘点】智能车实验室盘点-欧洲篇](https://mp.weixin.qq.com/s/l7y9d9puzdGW467q4DPfzw)
 
-### 16. 数据集
+- UC Berkeley: Mechanical Systems Control Lab
+	- [[Home]](https://msc.berkeley.edu/) [[Research Topic: Autonomous Driving](https://msc.berkeley.edu/research/autonomous-vehicle.html)
+
+### 16. 期刊/会议（智能车领域）
+
+会议
+- IEEE Intelligent Vehicles Symposium (IV)
+- IEEE International Conference on Intelligent Transportation Systems (ITSC)
+
+相关博文
+- [自动驾驶领域顶级会议有哪些？](http://m.elecfans.com/article/688175.html)
+
+
+### 17. 数据集
 
 - [无人驾驶数据集汇总](https://mp.weixin.qq.com/s/dY5rqVc2fQ0cbzyJIHtcqA)
 
 
-### 17. Pony.ai技术分享
+### 18. Pony.ai技术分享
 
 - [自动驾驶中轨迹规划的探索和挑战](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
 - [Pony.ai 的基础架构挑战与实践](https://mp.weixin.qq.com/s/fBmYxP0ALyil7crSFKWWEg)
