@@ -20,4 +20,5 @@ Research suggestions from [Simon Peyton Jones](https://www.microsoft.com/en-us/r
 - [How to write a great grant proposal](https://www.microsoft.com/en-us/research/academic-program/how-to-write-a-great-research-proposal/)
 
 
-MIT计算机大牛：如何写好一篇顶会论文 [[Slide]](/topics/data/write_a_good_paper.pdf)
+Bill Freeman (MIT CSAIL)
+- How to write a good CVPR submission [[Slide]](/topics/data/write_a_good_paper.pdf)
