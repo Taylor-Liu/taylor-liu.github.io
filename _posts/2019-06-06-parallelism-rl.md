@@ -7,7 +7,7 @@ Questions
 
 - When to use CPU?
 - When to use GPU?
-- What can we parallelize in rl?
+- What can we parallelize in RL?
 
 ---
 
