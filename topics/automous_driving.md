@@ -4,7 +4,7 @@ title: Autonomous Driving
 ---
 
 <p style="text-align:center">
-	<img src="/topics/img/waymo.png" />
+	<img src="/topics/img/waymo.jpg" />
 </p>
 
 
