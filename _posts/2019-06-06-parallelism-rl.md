@@ -13,7 +13,7 @@ Questions
 
 Share some great slides.
 
-### 1. Parallelism in RL [[Slide]]()
+`1. Parallelism in RL` [[Slide]]()
 
 - From: 2017 - UC Berkeley - CS294_112 - Lecture_16
 - Speaker: Sergey Levine
@@ -27,7 +27,7 @@ Outline
 	- Understand standard strategies for parallelization
 	- Tradeoffs of different parallel methods
 
-### 2. Distributed RL
+`2. Distributed RL`
 
 - From: 2018 - UC Berkeley - CS294_112 - lecture_21
 - Richard Liaw, Eric Liang
