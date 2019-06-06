@@ -41,6 +41,15 @@ title: Recent Progress
 	- University of Southern California
 	- [[Project page]](https://youngwoon.github.io/transition/)[[Paper]](https://openreview.net/pdf?id=rygrBhC5tQ)[[Github]](https://github.com/youngwoon/transition)[[Poster]](/topics/data/2019-iclr-composition.pdf)
 
+- Hierarchical Reinforcement Learning for Quadruped Locomotion
+	- Robotics at Google
+	- [arXiv:1905.08926v1](https://arxiv.org/pdf/1905.08926v1)
+
+- Hierarchical Reinforcement Learning for Multi-agent MOBA Game
+	- vivo AI Lab
+	- [arXiv:1901.08004v4](https://arxiv.org/pdf/1901.08004v4)
+
+
 
 
 
