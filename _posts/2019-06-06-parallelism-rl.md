@@ -66,7 +66,7 @@ Outline
 	- Batch Size
 	- Update Rule
 
-### 4. Doing More with More- Recent Achievements in Large-Scale Deep Reinforcement Learning
+### 4. Doing More with More: Recent Achievements in Large-Scale Deep Reinforcement Learning
 
 - From: GTC2019 - UC Berkeley
 - Adam Stooke, Pieter Abbeel
