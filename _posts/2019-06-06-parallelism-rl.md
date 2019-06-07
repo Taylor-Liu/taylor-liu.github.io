@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parallelism in RL
-image: /topics/img/rl_framework.jpg
+share-img: /topics/img/rl_framework.jpg
 ---
 
 Questions
