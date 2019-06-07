@@ -32,7 +32,7 @@ Outline
 
 - From: 2018 - UC Berkeley - CS294_112 - lecture_21
 - Richard Liaw, Eric Liang
-- [[Slide]]()
+- [[Slide]](http://rail.eecs.berkeley.edu/deeprlcourse/static/slides/lec-21.pdf)
 
 Outline
 - Common Computational Patterns for RL
@@ -51,7 +51,7 @@ Outline
 
 - From: GTC2018 - UC Berkeley
 - Adam Stooke, Pieter Abbeel
-- [[Slide]]()
+- [[Slide]](http://on-demand.gputechconf.com/gtc/2018/presentation/s8272-multi-gpu-accelerated-methods-in-deep-reinforcement-learning.pdf)
 
 Outline
 - Background
@@ -70,7 +70,7 @@ Outline
 
 - From: GTC2019 - UC Berkeley
 - Adam Stooke, Pieter Abbeel
-- [[Slide]]()
+- [[Slide]](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9786-doing-more-with-more-recent-achievements-in-large-scale-deep-reinforcement-learning.pdf)
 
 Outline
 - Algorithms & Frameworks (Atari Legacy)
