@@ -17,7 +17,7 @@ Share some great slides.
 
 - From: 2017 - UC Berkeley - CS294_112 - Lecture_16
 - Sergey Levine
-- [[Slide]]()
+- [[Slide]](/topics/data/rl/parallelism_in_rl.pdf)
 
 Outline
 - What can we parallelize?
