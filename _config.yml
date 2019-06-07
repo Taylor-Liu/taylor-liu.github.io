@@ -32,8 +32,6 @@ navbar-links:
     - RL: "topics/rl"
     - Robotics: "topics/robotics"
   Research: "research"
-  Automous Driving:
-    - 
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
