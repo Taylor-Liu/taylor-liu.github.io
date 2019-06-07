@@ -31,7 +31,6 @@ navbar-links:
     - ML & DL: "topics/ml_dl"
     - RL: "topics/rl"
     - Robotics: "topics/robotics"
-      - Test: "topics/rl"
   Research: "research"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
