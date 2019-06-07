@@ -205,6 +205,8 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 `Apollo自动驾驶进阶课程`
 
+- [进阶课程㉑丨Apollo规划技术详解——Basic Motion Planning and Overview](https://mp.weixin.qq.com/s/_4P_eEZzxj87sv5MALDM-A)
+
 `MIT 6.S094: Deep Learning for Self-Driving Car`
 
 - [HomePage](https://selfdrivingcars.mit.edu/)
