@@ -13,9 +13,9 @@ title: Robotics
 `ROS2`
 
 - In ROSCon2018
-	- Hands-on ROS 2: A Walkthrough [[Video]](https://vimeo.com/292693129)[Slide](https://roscon.ros.org/2018/presentations/ROSCon2018_ROS2HandsOn.pdf)
+	- Hands-on ROS 2: A Walkthrough [[Video]](https://vimeo.com/292693129)[[Slide]](https://roscon.ros.org/2018/presentations/ROSCon2018_ROS2HandsOn.pdf)
 		- In this talk we show the current state of ROS 2 features through hands-on demonstrations. We guide the developer through a set of features and functionalities of ROS 2 beginning with creating a simple “hello world” package and consecutively increasing functionality. We show how to launch multiple nodes, how lifecycle nodes can be used to bootstrap a complete system, through to how the ROS 2 security features can be utilized to secure applications. This talk is meant to highlight the newly available features and tools of ROS 2 and aims to incline developers to start working with it.
-	- ROS 2 on Autonomous Driving Vehicles [[Video]](https://vimeo.com/292695688)[Slide](https://roscon.ros.org/2018/presentations/ROSCon2018_ROS2onAutonomousDrivingVehicles.pdf)
+	- ROS 2 on Autonomous Driving Vehicles [[Video]](https://vimeo.com/292695688)[[Slide]](https://roscon.ros.org/2018/presentations/ROSCon2018_ROS2onAutonomousDrivingVehicles.pdf)
 		- Over the past 10 years, ROS 1 has proven itself to be the framework of choice for prototyping and developing large robotic applications. Many limitations preventing ROS 1 from being used in production applications have been discovered over the years, and after significant prototyping, ROS 2 makes great headway in making ROS 2 suitable for production. Autonomous driving is the next great technology waiting to be realized and transform our society. A full autonomous driving stack is inarguably a large robotic system, and consequently ROS 2 is the right framework upon which to develop a full autonomous driving stack. To prove this, we have developed a part of the autonomous driving stack based on ROS 2.
 
 ## Conferences
