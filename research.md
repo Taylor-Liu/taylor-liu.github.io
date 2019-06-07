@@ -23,6 +23,7 @@ Research suggestions from [Simon Peyton Jones](https://www.microsoft.com/en-us/r
 Bill Freeman (MIT CSAIL)
 - How to write a good CVPR submission [[Slide]](/topics/data/write_a_good_paper.pdf)
 
+How to read a paper? [[Slide]](/topics/data/how_to_read_a_paper.pdf)
 
 <p style="text-align:center">
 <img src="/topics/img/how_to_read_a_paper.png" />
