@@ -25,5 +25,5 @@ Bill Freeman (MIT CSAIL)
 
 
 <p style="text-align:center">
-<img src="/topics/img/how_to_read_a_paper.jpg" />
+<img src="/topics/img/how_to_read_a_paper.png" />
 </p>
