@@ -18,7 +18,16 @@ title: Recent Progress
 
 - OpenAI Robotics Symposium 2019
 	- Time: April 27, 2019
-	- [[Video]](https://www.youtube.com/watch?v=WRsxoVB8Yng&t=28127s)
+	- [[Blog]](https://openai.com/blog/symposium-2019/)[[Video]](https://www.youtube.com/watch?v=WRsxoVB8Yng&t=28127s)
+	- Learning Dexterity (Wojciech Zaremba, OpenAI) [[Video]](https://youtu.be/WRsxoVB8Yng?t=3442)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/woj.pdf)
+	- Learning From Play (Pierre Sermanet, Google Brain) [[Video]](https://youtu.be/WRsxoVB8Yng?t=7948)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/pierre.pdf)
+	- Doing for Our Robots What Nature Did for Us (Leslie Kaelbling, MIT) [[Video]](https://youtu.be/WRsxoVB8Yng?t=10932)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/leslie.pdf)
+	- Treating People as Optimizers in Human-Robot Interaction (Anca Dragan, UC Berkeley) [[Video]](https://youtu.be/WRsxoVB8Yng?t=17784)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/anca.pdf)
+	- Social-Emotional Intelligence in Human-Robot Interactions (Jin Joo Lee, MIT / Amazon) [[Video]](https://youtu.be/WRsxoVB8Yng?t=20890)
+	- What Should Be Learned (Chris Atkeson, CMU) [[Video]](https://youtu.be/WRsxoVB8Yng?t=25550)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/chris.pdf)
+	- Robots That Adapt Like Natural Animals (Jeff Clune, Uber AI / University of Wyoming) [[Video]](https://youtu.be/WRsxoVB8Yng?t=28077)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/jeff.pdf)
+
+
 - OpenAI 2019 Scholars Demo Day
 	- Time: May 14, 2019
 	- [[Blog]](https://openai.com/blog/openai-scholars-class-of-19/)[[Video]](https://www.youtube.com/watch?v=4u218xVkjmQ&t=2972s)
