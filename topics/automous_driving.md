@@ -137,6 +137,8 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [IEEE IV 2018：基于深度增强学习的高层驾驶决策研究](https://mp.weixin.qq.com/s/ODFKIIS5Z-WA2gDXxO1z9A)
 - [Wayve：强化学习教汽车学会自动驾驶](https://mp.weixin.qq.com/s/ky8qsOlO--DzMQKd9fX-5Q)
 - [知乎：强化学习在自动驾驶上有哪些应用？](https://www.zhihu.com/question/299700072?utm_source=wechat_search&utm_medium=organic)
+- [深度强化学习在自动驾驶技术中的应用](https://mp.weixin.qq.com/s/SVR_P8dj-G68Aq5PN-FkcA) 
+	- [[Slide]](/topics/data/2018-深度强化学习在自动驾驶技术中的应用.pdf)
 
 - [面试题：如何设计一个端到端的自动驾驶模型？ & 如何设计一个基于增强学习的自动驾驶决策系统？](https://mp.weixin.qq.com/s/7mu-n13H2YxbCFrVJ0fD1A)
 
