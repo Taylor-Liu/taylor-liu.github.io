@@ -14,5 +14,5 @@ The overall approach to the pick and place task is shown schematically in Figure
 
 ### References
 
-- Chitta, Sachin, et al. "Perception, planning, and execution for mobile manipulation in unstructured environments." IEEE Robotics and Automation Magazine, Special Issue on Mobile Manipulation 19.2 (2012): 58-71.[[Paper]](https://www.willowgarage.com/sites/default/files/chitta_ram_2011.pdf)
+- Chitta, Sachin, et al. "Perception, planning, and execution for mobile manipulation in unstructured environments." IEEE Robotics and Automation Magazine, Special Issue on Mobile Manipulation 19.2 (2012): 58-71. [[Paper]](https://www.willowgarage.com/sites/default/files/chitta_ram_2011.pdf)
 - Researcher: Sachin Chitta [[Mobile Manipulation]](https://www.sachinchitta.org/mobile-manipulation.html)
