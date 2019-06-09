@@ -7,9 +7,12 @@ The overall approach to the pick and place task is shown schematically in Figure
 
 <p style="text-align:center">
 	<img src="/topics/img/manipulation/pick_and_place_framework.png" width="500" />
-	<br /> Figure 1: High-level system architecture for our approach to executing pick and place tasks.
+	<br /> Figure 1: High-level system architecture for our approach to 
+	<br /> executing pick and place tasks.
 </p>
 
 
-References
+### References
+
 - Chitta, Sachin, et al. "Perception, planning, and execution for mobile manipulation in unstructured environments." IEEE Robotics and Automation Magazine, Special Issue on Mobile Manipulation 19.2 (2012): 58-71.[[Paper]](https://www.willowgarage.com/sites/default/files/chitta_ram_2011.pdf)
+- Researcher: Sachin Chitta [[Mobile Manipulation]](https://www.sachinchitta.org/mobile-manipulation.html)
