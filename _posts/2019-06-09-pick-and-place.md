@@ -11,7 +11,7 @@ The overall approach to the pick and place task is shown schematically in Figure
 	<br /> executing pick and place tasks.
 </p>
 
-#### Motion Planning and Execution
+### Motion Planning and Execution
 
 An overall schematic representation of our motion planning and execution framework used for the robot’s arms is shown in Figure 2. The particular implementation we describe here is intended for use with robotic arms. Motion planning and execution for the base is decoupled from that for the arms, and is described in Section IV-B3. Future work will involve the development of components for whole-body planning and control. Our approach to motion planning and execution follows a traditional sense-plan-act paradigm but also incorporates an online monitoring component, allowing our system to abort execution and replan quickly if necessary when new obstacles move into the planned path of the robot.  
 
