@@ -23,6 +23,11 @@ Research suggestions from [Simon Peyton Jones](https://www.microsoft.com/en-us/r
 Bill Freeman (MIT CSAIL)
 - How to write a good CVPR submission [[Slide]](/topics/data/write_a_good_paper.pdf)
 
+Others
+- [清华刘知远：如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
+- 清华刘洋：机器翻译学术论⽂写作⽅法和技巧 [[Slide]](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
+
+
 How to read a paper? [[Slide]](/topics/data/how_to_read_a_paper.pdf)
 
 <p style="text-align:center">
