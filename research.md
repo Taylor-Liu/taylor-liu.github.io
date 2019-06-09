@@ -28,7 +28,7 @@ Others
 - 清华刘洋：机器翻译学术论⽂写作⽅法和技巧 [[Slide]](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 
 
-How to read a paper? [[Slide]](/topics/data/how_to_read_a_paper.pdf)
+Gregory Kahn: How to read a paper? [[Slide]](/topics/data/how_to_read_a_paper.pdf)
 
 <p style="text-align:center">
 <img src="/topics/img/how_to_read_a_paper.png" />
