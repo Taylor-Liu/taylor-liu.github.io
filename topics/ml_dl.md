@@ -8,6 +8,7 @@ title: Machine Learning and Deep Learning
 - [官网教程：Get started with Tensorflow2.0](https://www.tensorflow.org/alpha)
 - cs231n_2019_stanford/CS231N_TensorFlow_Tutorial.ipynb
 
+
 ### Pytorch实践
 
 - [PyTorch最佳实践，怎样才能写出一手风格优美的代码 (2019.04.29)](https://www.jiqizhixin.com/articles/2019-04-29-5?from=synced&keyword=pytorch)
@@ -19,6 +20,8 @@ title: Machine Learning and Deep Learning
 - [机器学习43条军规：解密谷歌机器学习工程最佳实践 (2018.05.22)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652019085&idx=5&sn=5334888e2ed921c5bd6605ae69feed46&scene=0#wechat_redirect)
 - [从六大概念总结吴恩达新书：做好工程实践应该这样走 (2019.03.03)](https://www.jiqizhixin.com/articles/2019-03-03-2?from=synced&keyword=%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5)
 	- [机器学习训练秘籍](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
+
+- [深度学习模型大合集：GitHub趋势榜第一，两天斩获2000星](https://mp.weixin.qq.com/s/NdMBNTgqWWFQjLhlGQb56A)
 
 ### 强化学习实践
 
