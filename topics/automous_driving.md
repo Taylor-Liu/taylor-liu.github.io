@@ -309,8 +309,19 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [L4自动驾驶中感知系统遇到的挑战及解决方案](https://mp.weixin.qq.com/s/cqdi9V_BnY6pwRJl3dD0dA)
 - [高精地图和定位在自动驾驶的应用](https://mp.weixin.qq.com/s/QZ5W4YDD4rX8zM6qajQDtg)
 
+### 19. 安全报告
 
+国内
+- Apollo(2018) [[PDF]](/topics/data/safety-report/2018-Apollo-safety-report.pdf)
 
+国外
+- Waymo(2017) [[PDF]](/topics/data/safety-report/2017-Waymo-on_the_road_to_fully_self-driving.pdf)
+- GM(2018) [[PDF]](/topics/data/safety-report/2018-GM-safety-report.pdf)[[Appendix]](2018-GM-safety-report-appendix.pdf)
+- Ford(2018) [[PDF]](/topics/data/safety-report/2018-Ford-safety-report.pdf)
+- Nuro(2018) [[PDF]](/topics/data/safety-report/2018-Nuro-delivering_safety_nuros_approach.pdf)[[解读]](https://mp.weixin.qq.com/s/U0q1I32EU5PVLYe8ZgpqQQ)
+- Nvidia(2018) [[PDF]](/topics/data/2018-NVIDIA-Self-Driving-Safety-Report.pdf)
+- Uber(2018) [[PDF]](/topics/data/2018-Uber-ATGSafety-Report.pdf)
+- Apple(2019) [[PDF]](/topics/data/2019-Apple-ADS-Safety.pdf)
 
 
 
