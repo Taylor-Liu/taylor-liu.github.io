@@ -284,6 +284,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [Live回顾：文远知行WeRide自动驾驶仿真论——真实、闭环、规模、整合](https://www.leiphone.com/news/201812/PqnyCW6ngG0ikJFJ.html)
 - [社群分享 - Apollo仿真平台如何Hold住99.9999%的复杂场景？](https://mp.weixin.qq.com/s/j4faPastB3nFmgH_nhVW6g)
 	- [Apollo直答号 - 真实场景数据是怎么应用到仿真环境中的？](https://mp.weixin.qq.com/s/Pn8Kp-6MlQkjwO35FNBrRg)
+- [Apollo高精地图服务介绍及云端仿真平台应用](/topics/data/2017-Apollo高精地图服务介绍及云端仿真平台应用.pdf)
 
 
 - 2019中国自动驾驶仿真技术蓝皮书 [[PDF]](/topics/data/2019-中国自动驾驶仿真技术蓝皮书.pdf)
