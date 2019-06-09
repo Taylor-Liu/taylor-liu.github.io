@@ -9,7 +9,6 @@ title: 百度Apollo仿真场景库
 
 <p style="text-align:center">
 	<img src="/topics/img/apollo/apollo-scenarios.png" width="400" />
-	<br /> Apollo Scenarios
 </p>
 
 
