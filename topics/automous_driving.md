@@ -9,7 +9,7 @@ title: Autonomous Driving
 
 ### Content
 
-* [1. Basics](#1.-basics)
+* 1. Basics
 * 2. Overview
 * 3. Prediction
 * 4. Planning and Control (PNC)
@@ -27,7 +27,7 @@ title: Autonomous Driving
 * 16. 期刊/会议（智能车领域）
 * 17. 数据集
 * 18. Pony.ai技术分享
-* [19. 安全报告](#19.-安全报告)
+* 19. 安全报告
 
 [Apollo自动驾驶工程师技能图谱V2.0](/topics/data/apollo-v2.pdf)
 
