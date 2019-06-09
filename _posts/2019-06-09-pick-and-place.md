@@ -18,7 +18,7 @@ An overall schematic representation of our motion planning and execution framewo
 <p style="text-align:center">
 	<img src="/topics/img/manipulation/motion_planning_and_execution.jpg" width="600" />
 	<br /> Figure 2. System architecture for motion planning and execution. 
-	<br /> *Move Arm* is the software component that serves as the interface 
+	<br /> Move Arm is the software component that serves as the interface 
 	<br /> to motion planning and execution. 
 </p>
 
