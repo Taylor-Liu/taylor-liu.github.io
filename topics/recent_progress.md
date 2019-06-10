@@ -43,6 +43,7 @@ title: Recent Progress
 ### 3. UC Berkeley
 
 - Robots that Learn to Adapt [[Blog]](https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/)[[雷锋网报道]](https://www.toutiao.com/a6692931039179833869/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1558325963&app=explore_article&utm_source=weixin&utm_medium=toutiao_ios&req_id=201905201219220100180591415495B70&group_id=6692931039179833869)
+
 - (Xue Bin Peng) MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies [[Project page]](https://xbpeng.github.io/projects/MCP/index.html)
 
 ### 4. Others
@@ -54,6 +55,11 @@ title: Recent Progress
 	- University of Southern California
 	- [[Project page]](https://youngwoon.github.io/transition/)[[Paper]](https://openreview.net/pdf?id=rygrBhC5tQ)[[Github]](https://github.com/youngwoon/transition)[[Poster]](/topics/data/2019-iclr-composition.pdf)
 
+- Policy Transfer with Strategy Optimization
+	- - Published: `ICLR2019`
+	- Georgia Institute of Technology
+	- [[Paper]](https://openreview.net/pdf?id=H1g6osRcFQ)[[Code]](https://github.com/VincentYu68/policy_transfer)
+
 - Hierarchical Reinforcement Learning for Quadruped Locomotion
 	- Robotics at Google
 	- [arXiv:1905.08926v1](https://arxiv.org/pdf/1905.08926v1)
@@ -61,6 +67,12 @@ title: Recent Progress
 - Hierarchical Reinforcement Learning for Multi-agent MOBA Game
 	- vivo AI Lab
 	- [arXiv:1901.08004v4](https://arxiv.org/pdf/1901.08004v4)
+
+- Learning to Walk via Deep Reinforcement Learning
+	- Google, UC Berkeley
+	- [arXiv:1812.11103](https://arxiv.org/abs/1812.11103)
+
+
 
 
 
