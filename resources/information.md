@@ -36,6 +36,8 @@ Twitter
 	- CS PhD student at UC Berkeley
 - [Erwin Coumans](https://twitter.com/erwincoumans)
 	- Creator of Bullet Physics. Google Brain Team member.
+- [Michiel van de Panne](https://twitter.com/Mvandepanne)
+	- UBC Computer Science; physics-based models of human movement; machine learning; animation; robotics;
 
 微信公众号
 - 机器之心
