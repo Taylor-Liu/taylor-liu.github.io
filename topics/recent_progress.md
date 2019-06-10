@@ -26,7 +26,7 @@ title: Recent Progress
 
 - OpenAI Robotics Symposium 2019
 	- Time: April 27, 2019
-	- [[Blog]](https://openai.com/blog/symposium-2019/)[[Video]](https://www.youtube.com/watch?v=WRsxoVB8Yng&t=28127s)
+	- [[Blog]](https://openai.com/blog/symposium-2019/)[[Video]](https://www.youtube.com/watch?v=WRsxoVB8Yng&t=28127s)[[Schedule]](/topics/img/openai_symposium_schedule.jpg)
 	- Learning Dexterity (Wojciech Zaremba, OpenAI) [[Video]](https://youtu.be/WRsxoVB8Yng?t=3442)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/woj.pdf)
 	- Learning From Play (Pierre Sermanet, Google Brain) [[Video]](https://youtu.be/WRsxoVB8Yng?t=7948)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/pierre.pdf)[[Google Docs]](https://docs.google.com/presentation/d/145wBH7TEJoEclVzE1YKTihqIXWMljeNIA6ozwMZLb3Q/edit?usp=sharing)
 	- Doing for Our Robots What Nature Did for Us (Leslie Kaelbling, MIT) [[Video]](https://youtu.be/WRsxoVB8Yng?t=10932)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/leslie.pdf)
