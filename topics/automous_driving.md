@@ -160,6 +160,10 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [知乎：强化学习在自动驾驶上有哪些应用？](https://www.zhihu.com/question/299700072?utm_source=wechat_search&utm_medium=organic)
 - [深度强化学习在自动驾驶技术中的应用](https://mp.weixin.qq.com/s/SVR_P8dj-G68Aq5PN-FkcA) 
 	- [[Slide]](/topics/data/2018-深度强化学习在自动驾驶技术中的应用.pdf)
+- [伯克利新研究：在人类司机中引入10%自动驾驶车，车流量提升超3成](https://mp.weixin.qq.com/s/4io4E4iobNtVWEO52e1Wng)
+
+- Flow [HomePage](https://flow-project.github.io/usingFlow.html)
+	- Flow is a deep reinforcement learning framework for mixed autonomy traffic. Flow is a traffic control benchmarking framework and it provides a suite of traffic control scenarios (benchmarks), tools for designing custom traffic scenarios, and integration with deep reinforcement learning and traffic microsimulation libraries.
 
 - [面试题：如何设计一个端到端的自动驾驶模型？ & 如何设计一个基于增强学习的自动驾驶决策系统？](https://mp.weixin.qq.com/s/7mu-n13H2YxbCFrVJ0fD1A)
 
@@ -285,8 +289,14 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [社群分享 - Apollo仿真平台如何Hold住99.9999%的复杂场景？](https://mp.weixin.qq.com/s/j4faPastB3nFmgH_nhVW6g)
 	- [Apollo直答号 - 真实场景数据是怎么应用到仿真环境中的？](https://mp.weixin.qq.com/s/Pn8Kp-6MlQkjwO35FNBrRg)
 - Apollo高精地图服务介绍及云端仿真平台应用[[Slide]](/topics/data/2017-Apollo高精地图服务介绍及云端仿真平台应用.pdf)
+- [快讯 - 51VR受邀出席中国汽车重庆论坛，五大案例详解仿真最新实践](https://mp.weixin.qq.com/s/G6pcpWHREntP5Lnvc07NeQ)
+- [51VR鲍世强：自动驾驶仿真不但注重技术细节，更需培育生态工具链](https://mp.weixin.qq.com/s/HPSHHi9jI516NaONcKLMJw)
 
 - 2019中国自动驾驶仿真技术蓝皮书 [[PDF]](/topics/data/2019-中国自动驾驶仿真技术蓝皮书.pdf)
+
+`场景构建`
+
+- [自动驾驶测试中的场景构建](https://mp.weixin.qq.com/s/4vLIdxjcV5YZv03kP72h8Q)
 
 ### 13. 商业落地
 
