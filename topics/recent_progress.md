@@ -16,6 +16,14 @@ title: Recent Progress
 
 ### 2. OpenAI
 
+- OpenAI Scholars Spring 2019: Final Projects
+	- Time: May 23, 2019
+	- [[Blog]](https://openai.com/blog/openai-scholars-spring-2019-final-projects/)
+
+- OpenAI 2019 Scholars Demo Day
+	- Time: May 14, 2019
+	- [[Blog]](https://openai.com/blog/openai-scholars-class-of-19/)[[Video]](https://www.youtube.com/watch?v=4u218xVkjmQ&t=2972s)
+
 - OpenAI Robotics Symposium 2019
 	- Time: April 27, 2019
 	- [[Blog]](https://openai.com/blog/symposium-2019/)[[Video]](https://www.youtube.com/watch?v=WRsxoVB8Yng&t=28127s)
@@ -27,10 +35,6 @@ title: Recent Progress
 	- What Should Be Learned (Chris Atkeson, CMU) [[Video]](https://youtu.be/WRsxoVB8Yng?t=25550)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/chris.pdf)
 	- Robots That Adapt Like Natural Animals (Jeff Clune, Uber AI / University of Wyoming) [[Video]](https://youtu.be/WRsxoVB8Yng?t=28077)[[Slide]](https://d4mucfpksywv.cloudfront.net/symposium-2019/jeff.pdf)
 
-
-- OpenAI 2019 Scholars Demo Day
-	- Time: May 14, 2019
-	- [[Blog]](https://openai.com/blog/openai-scholars-class-of-19/)[[Video]](https://www.youtube.com/watch?v=4u218xVkjmQ&t=2972s)
 - OpenAI Spinning Up Workshop
 	- Time: February, 2019
 	- [[Blog]](https://openai.com/blog/spinning-up-in-deep-rl-workshop-review/)[[Materials]](https://github.com/openai/spinningup-workshop)
