@@ -42,9 +42,15 @@ title: Recent Progress
 
 ### 3. UC Berkeley
 
-- Robots that Learn to Adapt [[Blog]](https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/)[[雷锋网报道]](https://www.toutiao.com/a6692931039179833869/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1558325963&app=explore_article&utm_source=weixin&utm_medium=toutiao_ios&req_id=201905201219220100180591415495B70&group_id=6692931039179833869)
+- Robots that Learn to Adapt [[Blog]](https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/)[[Paper]](https://arxiv.org/abs/1803.11347)[[Github]](https://github.com/iclavera/learning_to_adapt)[[雷锋网报道]](https://www.toutiao.com/a6692931039179833869/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1558325963&app=explore_article&utm_source=weixin&utm_medium=toutiao_ios&req_id=201905201219220100180591415495B70&group_id=6692931039179833869)
 
-- (Xue Bin Peng) MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies [[Project page]](https://xbpeng.github.io/projects/MCP/index.html)
+- MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies, by Xue Bin Peng [[Project page]](https://xbpeng.github.io/projects/MCP/index.html)
+
+- Adversarial Policies: Attacking Deep Reinforcement Learning [[Project page]](https://adversarialpolicies.github.io/)[[Paper]](https://arxiv.org/abs/1905.10615)[[Github]](https://github.com/HumanCompatibleAI/adversarial-policies)
+
+<p style="text-align:center">
+	<img src="/topics/img/adversarial_policies.jpg" width="600" />
+</p>
 
 ### 4. Others
 
