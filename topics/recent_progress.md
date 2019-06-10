@@ -56,7 +56,7 @@ title: Recent Progress
 	- [[Project page]](https://youngwoon.github.io/transition/)[[Paper]](https://openreview.net/pdf?id=rygrBhC5tQ)[[Github]](https://github.com/youngwoon/transition)[[Poster]](/topics/data/2019-iclr-composition.pdf)
 
 - Policy Transfer with Strategy Optimization
-	- - Published: `ICLR2019`
+	- Published: `ICLR2019`
 	- Georgia Institute of Technology
 	- [[Paper]](https://openreview.net/pdf?id=H1g6osRcFQ)[[Code]](https://github.com/VincentYu68/policy_transfer)
 
