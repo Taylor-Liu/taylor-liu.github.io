@@ -3,6 +3,14 @@ layout: page
 title: Recent Progress
 ---
 
+### New!
+
+- ICML2019 Tutorial
+	- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning
+		- Presented by Chelsea Finn and Sergey Levine
+		- [[Slide]](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view)
+	- [ICML2019 Videos](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
+
 ### 1. DeepMind
 
 - Reinforcement Learning, Fast and Slow
