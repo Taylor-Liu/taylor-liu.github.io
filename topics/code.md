@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: page
 title: Code
 ---
 
-#### 5月份GitHub上最热门的几个开源项目(转自：池建强, MacTalk)
+> 5月份GitHub上最热门的几个开源项目(转自：池建强, MacTalk)
 
 1、terminal
 [https://github.com/microsoft/terminal](https://github.com/microsoft/terminal) Star 42377
