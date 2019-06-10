@@ -67,7 +67,7 @@ title: Recent Progress
 - Policy Transfer with Strategy Optimization
 	- Published: `ICLR2019`
 	- Georgia Institute of Technology
-	- [[Paper]](https://openreview.net/pdf?id=H1g6osRcFQ)[[Code]](https://github.com/VincentYu68/policy_transfer)
+	- [[Paper]](https://openreview.net/pdf?id=H1g6osRcFQ)[[Code]](https://github.com/VincentYu68/policy_transfer)[[Poster]](https://s3.amazonaws.com/postersession.ai/da8630fb-2c84-46d0-aaa0-fd831bbad266.pdf)
 
 - Hierarchical Reinforcement Learning for Quadruped Locomotion
 	- Robotics at Google
