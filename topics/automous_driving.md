@@ -281,6 +281,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [全面解读毫米波雷达](https://mp.weixin.qq.com/s/0CtchlQlSpeB5VQtwxYYAQ)
 - [谷歌Waymo的整车传感器配置方案](https://mp.weixin.qq.com/s/V4ZxKVBUtmOqzxZlqrYQvg)
 - [特斯拉的整车传感器配置方案](https://mp.weixin.qq.com/s/Gs6kERBHLul9Dc4llrXAyw)
+- [沙龙回顾丨Apollo 开发套件加速自动驾驶研发](https://mp.weixin.qq.com/s/22fOZv0Vxd4phebxh0fAIA)
 
 ### 12. 仿真
 
