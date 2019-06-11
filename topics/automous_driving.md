@@ -161,6 +161,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [深度强化学习在自动驾驶技术中的应用](https://mp.weixin.qq.com/s/SVR_P8dj-G68Aq5PN-FkcA) 
 	- [[Slide]](/topics/data/2018-深度强化学习在自动驾驶技术中的应用.pdf)
 - [伯克利新研究：在人类司机中引入10%自动驾驶车，车流量提升超3成](https://mp.weixin.qq.com/s/4io4E4iobNtVWEO52e1Wng)
+	- [[BAIR Blog]](https://bair.berkeley.edu/blog/2019/06/03/benchmarks/)
 
 - Flow [HomePage](https://flow-project.github.io/usingFlow.html)
 	- Flow is a deep reinforcement learning framework for mixed autonomy traffic. Flow is a traffic control benchmarking framework and it provides a suite of traffic control scenarios (benchmarks), tools for designing custom traffic scenarios, and integration with deep reinforcement learning and traffic microsimulation libraries.
