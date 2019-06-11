@@ -6,9 +6,10 @@ title: Recent Progress
 ### New!
 
 - ICML2019 Tutorial [[Videos]](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
-	- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning
+	- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning [[Homepage]](https://sites.google.com/view/icml19metalearning)
 		- Presented by Chelsea Finn and Sergey Levine
 		- [[Slide]](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view)[[Video Part1]](https://www.facebook.com/icml.imls/videos/400619163874853/)[[Video Part2]](https://www.facebook.com/icml.imls/videos/2970931166257998/)
+		- [[Compiled List of References]](tinyurl.com/meta-reading)
 	- A Tutorial on Attention in Deep Learning 
 		- [[Slide]](http://alex.smola.org/talks/ICML19-attention.pdf)[[Keynote]](http://alex.smola.org/talks/ICML19-attention.key)[[Video]](https://www.facebook.com/icml.imls/videos/382464939283864/)
 
