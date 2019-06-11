@@ -5,11 +5,11 @@ title: Recent Progress
 
 ### New!
 
-- ICML2019 Tutorial
+- ICML2019 Tutorial [[Videos]](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
 	- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning
 		- Presented by Chelsea Finn and Sergey Levine
-		- [[Slide]](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view)
-	- [ICML2019 Videos](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
+		- [[Slide]](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view)[[Video Part1]](https://www.facebook.com/icml.imls/videos/400619163874853/)[[Video Part2]](https://www.facebook.com/icml.imls/videos/2970931166257998/)
+	- 
 
 ### 1. DeepMind
 
@@ -49,6 +49,13 @@ title: Recent Progress
 
 
 ### 3. UC Berkeley
+
+- Learning to Learn with Probabilistic Task Embeddings
+	- Kate Rakelly; Jun 10, 2019
+	- [[Blog]](https://bair.berkeley.edu/blog/2019/06/10/pearl/)[[Paper]](https://arxiv.org/abs/1903.08254)[[Github]](https://github.com/katerakelly/oyster)
+
+- REPLAB: A Reproducible Low-Cost Arm Benchmark Platform For Robotic Learning
+	- [[Project page]](https://sites.google.com/view/replab/)[[Technical Report]](https://arxiv.org/abs/1905.07447)[[Github]](https://github.com/bhyang/replab)
 
 - Robots that Learn to Adapt [[Blog]](https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/)[[雷锋网报道]](https://www.toutiao.com/a6692931039179833869/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1558325963&app=explore_article&utm_source=weixin&utm_medium=toutiao_ios&req_id=201905201219220100180591415495B70&group_id=6692931039179833869)
 	- ICLR'19: Learning to Adapt in Dynamic, Real-World Environments Through Meta-Reinforcement Learning [[Paper]](https://arxiv.org/abs/1803.11347)[[Github]](https://github.com/iclavera/learning_to_adapt)[[Poster]](/topics/data/rl/Learning_to_Adapt.pdf)
