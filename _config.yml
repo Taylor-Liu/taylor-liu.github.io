@@ -25,7 +25,7 @@ description: Taylor's personal web page
 navbar-links:
   Blog: ""
   Topic: 
-    - Information: "resources/information"
+    - Information: "topics/information"
     - Recent Progress: "topics/recent_progress"
     - Automous Driving: "topics/automous_driving"
     - Character Animation: "topics/character_animation"
