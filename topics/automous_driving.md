@@ -238,6 +238,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 `Apollo自动驾驶进阶课程`
 
 - [进阶课程㉑丨Apollo规划技术详解——Basic Motion Planning and Overview](https://mp.weixin.qq.com/s/_4P_eEZzxj87sv5MALDM-A)
+- [进阶课程㉒丨Apollo规划技术详解——Motion Planning with Autonomous Driving](https://mp.weixin.qq.com/s/HyacYh2FcGPW4-8SOECCtA)
 
 `知乎专栏：无人驾驶干货铺`
 
