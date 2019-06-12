@@ -78,7 +78,7 @@ title: Recent Progress
 
 - ICLR'19: Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL [[Paper]](https://openreview.net/pdf?id=HyxAfnA5tm)[[Poster]](/topics/data/rl/Deep_Online_Learning_via_Meta-Learning.pdf)[[Project page]](https://sites.google.com/berkeley.edu/onlineviameta)
 
-- MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies, by Xue Bin Peng [[Project page]](https://xbpeng.github.io/projects/MCP/index.html)[[Paper]](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf)
+- MCP: Learning Composable Hierarchical Control with Multiplicative Compositional Policies, by Xue Bin Peng [[Project page]](https://xbpeng.github.io/projects/MCP/index.html)[[Paper]](https://xbpeng.github.io/projects/MCP/2019_MCP.pdf)[[Slide]](/topics/data/mcp_slide.pdf)
 
 - Adversarial Policies: Attacking Deep Reinforcement Learning [[Project page]](https://adversarialpolicies.github.io/)[[Paper]](https://arxiv.org/abs/1905.10615)[[Github]](https://github.com/HumanCompatibleAI/adversarial-policies)
 
