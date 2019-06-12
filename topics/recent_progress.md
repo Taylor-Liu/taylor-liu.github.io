@@ -19,6 +19,12 @@ title: Recent Progress
 		- [[Homepage]](https://sites.google.com/site/neltutorialicml19/)
 		- [[Slide]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuZWx0dXRvcmlhbGljbWwxOXxneDo1ZTRhMGQ3OGM5NzI0NjFm)
 
+- Workshop: Learning for Dynamics and Control (L4DC)
+	- Location: MIT
+	- Time: May 30 & 31, 2019
+	- [[Homepage]](https://l4dc.mit.edu/)
+	- [[Videos]](https://l4dc.mit.edu/videos/)
+
 ### 1. DeepMind
 
 - Reinforcement Learning, Fast and Slow
@@ -105,6 +111,15 @@ title: Recent Progress
 - Learning to Walk via Deep Reinforcement Learning
 	- Google, UC Berkeley
 	- [arXiv:1812.11103](https://arxiv.org/abs/1812.11103)
+
+
+- Scalable Muscle-actuated Human Simulation and Control
+	- Published: `SIGGRAPH 2019`
+	- [[Paper]]()[[Github]](https://github.com/lsw9021/MASS)
+
+<p style="text-align:center">
+	<img src="https://github.com/lsw9021/MASS/blob/master/png/Teaser.png" />
+</p>
 
 
 
