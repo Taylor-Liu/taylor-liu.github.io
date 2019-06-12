@@ -6,12 +6,18 @@ title: Recent Progress
 ### New!
 
 - ICML2019 Tutorial [[Videos]](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
-	- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning [[Homepage]](https://sites.google.com/view/icml19metalearning)
+	- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning 
 		- Presented by Chelsea Finn and Sergey Levine
+		- [[Homepage]](https://sites.google.com/view/icml19metalearning)
 		- [[Slide]](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view)[[Video Part1]](https://www.facebook.com/icml.imls/videos/400619163874853/)[[Video Part2]](https://www.facebook.com/icml.imls/videos/2970931166257998/)
 		- [[Compiled List of References]](tinyurl.com/meta-reading)
-	- A Tutorial on Attention in Deep Learning 
+	- Attention in Deep Learning 
 		- [[Slide]](http://alex.smola.org/talks/ICML19-attention.pdf)[[Keynote]](http://alex.smola.org/talks/ICML19-attention.key)[[Video]](https://www.facebook.com/icml.imls/videos/382464939283864/)
+	- Population-Based Methods for Training Deep Neural Networks: Novelty Search, Quality Diversity, Open-Ended Search Algorithms, & Indirect Encoding
+		- [[Slide]](http://www.cs.uwyo.edu/~jeffclune/share/2019_06_10_ICML_Tutorial.pdf)
+	- Never-Ending Learning
+		- [[Homepage]](https://sites.google.com/site/neltutorialicml19/)
+		- [[Slide]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuZWx0dXRvcmlhbGljbWwxOXxneDo1ZTRhMGQ3OGM5NzI0NjFm)
 
 ### 1. DeepMind
 
