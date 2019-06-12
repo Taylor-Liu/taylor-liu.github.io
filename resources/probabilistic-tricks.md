@@ -4,95 +4,95 @@ title: Probabilistic Tricks
 ---
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_01" />
+	<img src="/resources/prob-tricks/prob-trick_Page_01.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_02" />
+	<img src="/resources/prob-tricks/prob-trick_Page_02.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_03" />
+	<img src="/resources/prob-tricks/prob-trick_Page_03.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_04" />
+	<img src="/resources/prob-tricks/prob-trick_Page_04.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_05" />
+	<img src="/resources/prob-tricks/prob-trick_Page_05.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_06" />
+	<img src="/resources/prob-tricks/prob-trick_Page_06.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_07" />
+	<img src="/resources/prob-tricks/prob-trick_Page_07.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_08" />
+	<img src="/resources/prob-tricks/prob-trick_Page_08.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_09" />
+	<img src="/resources/prob-tricks/prob-trick_Page_09.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_10" />
+	<img src="/resources/prob-tricks/prob-trick_Page_10.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_11" />
+	<img src="/resources/prob-tricks/prob-trick_Page_11.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_12" />
+	<img src="/resources/prob-tricks/prob-trick_Page_12.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_13" />
+	<img src="/resources/prob-tricks/prob-trick_Page_13.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_14" />
+	<img src="/resources/prob-tricks/prob-trick_Page_14.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_15" />
+	<img src="/resources/prob-tricks/prob-trick_Page_15.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_16" />
+	<img src="/resources/prob-tricks/prob-trick_Page_16.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_17" />
+	<img src="/resources/prob-tricks/prob-trick_Page_17.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_18" />
+	<img src="/resources/prob-tricks/prob-trick_Page_18.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_19" />
+	<img src="/resources/prob-tricks/prob-trick_Page_19.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_20" />
+	<img src="/resources/prob-tricks/prob-trick_Page_20.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_21" />
+	<img src="/resources/prob-tricks/prob-trick_Page_21.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_22" />
+	<img src="/resources/prob-tricks/prob-trick_Page_22.jpg" />
 </p>
 
 <p style="text-align:center">
-	<img src="/resources/prob-tricks/prob-trick_Page_23" />
+	<img src="/resources/prob-tricks/prob-trick_Page_23.jpg" />
 </p>
 
 
