@@ -38,6 +38,8 @@ Twitter
 	- Creator of Bullet Physics. Google Brain Team member.
 - [Michiel van de Panne](https://twitter.com/Mvandepanne)
 	- UBC Computer Science; physics-based models of human movement; machine learning; animation; robotics;
+- [Jeff Clune](https://twitter.com/jeffclune)
+	- Research: AI, ML, Deep RL, Deep Learning. Senior Research Manager, Uber AI Labs. Harris Associate Professor, University of Wyoming. [JeffClune.com](http://JeffClune.com)
 
 微信公众号
 - 机器之心
