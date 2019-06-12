@@ -115,7 +115,9 @@ title: Recent Progress
 
 - Scalable Muscle-actuated Human Simulation and Control
 	- Published: `SIGGRAPH 2019`
-	- [[Paper]]()[[Github]](https://github.com/lsw9021/MASS)
+	- Seoul National University, Seoul National University Bundang Hosiptial
+	- [[Project page]](http://mrl.snu.ac.kr/research/ProjectScalable/Page.htm)
+	- [[Video]](https://www.youtube.com/watch?v=a3jfyJ9JVeM&feature=youtu.be)[[Paper]](http://mrl.snu.ac.kr/research/ProjectScalable/Paper.pdf)[[Github]](https://github.com/lsw9021/MASS)
 
 <p style="text-align:center">
 	<img src="https://github.com/lsw9021/MASS/blob/master/png/Teaser.png" />
