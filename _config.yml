@@ -33,9 +33,9 @@ navbar-links:
     - RL: "topics/rl"
     - Robotics: "topics/robotics"
     - Code: "topics/code"
+  Research: "research"
   Math:
     - Probabilistic Tricks: "math/probabilistic-tricks"
-  Research: "research"
   About: "aboutme"
 
 
