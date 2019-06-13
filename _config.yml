@@ -33,12 +33,9 @@ navbar-links:
     - RL: "topics/rl"
     - Robotics: "topics/robotics"
     - Code: "topics/code"
+  Math:
+    - Probabilistic Tricks: "math/probabilistic-tricks"
   Research: "research"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-    - Probabilistic Tricks: "resources/probabilistic-tricks"
   About: "aboutme"
 
 
