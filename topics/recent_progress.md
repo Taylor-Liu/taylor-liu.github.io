@@ -18,6 +18,10 @@ title: Recent Progress
 	- Never-Ending Learning
 		- [[Homepage]](https://sites.google.com/site/neltutorialicml19/)
 		- [[Slide]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuZWx0dXRvcmlhbGljbWwxOXxneDo1ZTRhMGQ3OGM5NzI0NjFm)
+- ICML2019 Workshop
+	- Workshop on Multi-Task and Lifelong Reinforcement Learning
+		- Time: June 15, 2019
+		- [[Homepage]](https://sites.google.com/view/mtlrl/home#h.p_NO8hwBi2McLF)
 
 - Workshop: Learning for Dynamics and Control (L4DC)
 	- Location: MIT
