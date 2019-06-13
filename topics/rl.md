@@ -5,7 +5,7 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 ---
 
 <p style="text-align:center">
-<img src="/topics/img/rl_framework.jpg" />
+<img src="/topics/img/rl_framework.jpg" width="500" />
 </p>
 
 ### RL in Real World
