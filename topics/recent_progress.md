@@ -12,7 +12,6 @@ title: Recent Progress
 	- Time: Jun 10-15, 2019
 	- [Paper List](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 	- [Schedule Multitrack](https://icml.cc/Conferences/2019/ScheduleMultitrack?session=&event_type=&day=2019-06-11)
-	
 	- Tutorial [[Videos]](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
 		- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning 
 			- Presented by Chelsea Finn and Sergey Levine
@@ -26,7 +25,6 @@ title: Recent Progress
 		- Never-Ending Learning
 			- [[Homepage]](https://sites.google.com/site/neltutorialicml19/)
 			- [[Slide]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuZWx0dXRvcmlhbGljbWwxOXxneDo1ZTRhMGQ3OGM5NzI0NjFm)
-	
 	- Workshop
 		- Multi-Task and Lifelong Reinforcement Learning
 			- Time: June 15, 2019
