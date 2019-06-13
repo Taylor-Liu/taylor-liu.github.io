@@ -5,29 +5,47 @@ title: Recent Progress
 
 ### New!
 
-- ICML2019 Tutorial [[Videos]](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
-	- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning 
-		- Presented by Chelsea Finn and Sergey Levine
-		- [[Homepage]](https://sites.google.com/view/icml19metalearning)
-		- [[Slide]](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view)[[Video Part1]](https://www.facebook.com/icml.imls/videos/400619163874853/)[[Video Part2]](https://www.facebook.com/icml.imls/videos/2970931166257998/)
-		- [[Compiled List of References]](tinyurl.com/meta-reading)
-	- Attention in Deep Learning 
-		- [[Slide]](http://alex.smola.org/talks/ICML19-attention.pdf)[[Keynote]](http://alex.smola.org/talks/ICML19-attention.key)[[Video]](https://www.facebook.com/icml.imls/videos/382464939283864/)
-	- Population-Based Methods for Training Deep Neural Networks: Novelty Search, Quality Diversity, Open-Ended Search Algorithms, & Indirect Encoding
-		- [[Slide]](http://www.cs.uwyo.edu/~jeffclune/share/2019_06_10_ICML_Tutorial.pdf)
-	- Never-Ending Learning
-		- [[Homepage]](https://sites.google.com/site/neltutorialicml19/)
-		- [[Slide]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuZWx0dXRvcmlhbGljbWwxOXxneDo1ZTRhMGQ3OGM5NzI0NjFm)
-- ICML2019 Workshop
-	- Workshop on Multi-Task and Lifelong Reinforcement Learning
-		- Time: June 15, 2019
-		- [[Homepage]](https://sites.google.com/view/mtlrl/home#h.p_NO8hwBi2McLF)
+- IV2019
+	- Time: Jun 9-12, 2019
 
-- Workshop: Learning for Dynamics and Control (L4DC)
+- ICML2019 
+	- Time: Jun 10-15, 2019
+	- [Paper List](https://icml.cc/Conferences/2019/Schedule?type=Poster)
+	- [Schedule Multitrack](https://icml.cc/Conferences/2019/ScheduleMultitrack?session=&event_type=&day=2019-06-11)
+	
+	- Tutorial [[Videos]](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
+		- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning 
+			- Presented by Chelsea Finn and Sergey Levine
+			- [[Homepage]](https://sites.google.com/view/icml19metalearning)
+			- [[Slide]](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view)[[Video Part1]](https://www.facebook.com/icml.imls/videos/400619163874853/)[[Video Part2]](https://www.facebook.com/icml.imls/videos/2970931166257998/)
+			- [[Compiled List of References]](tinyurl.com/meta-reading)
+		- Attention in Deep Learning 
+			- [[Slide]](http://alex.smola.org/talks/ICML19-attention.pdf)[[Keynote]](http://alex.smola.org/talks/ICML19-attention.key)[[Video]](https://www.facebook.com/icml.imls/videos/382464939283864/)
+		- Population-Based Methods for Training Deep Neural Networks: Novelty Search, Quality Diversity, Open-Ended Search Algorithms, & Indirect Encoding
+			- [[Slide]](http://www.cs.uwyo.edu/~jeffclune/share/2019_06_10_ICML_Tutorial.pdf)
+		- Never-Ending Learning
+			- [[Homepage]](https://sites.google.com/site/neltutorialicml19/)
+			- [[Slide]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuZWx0dXRvcmlhbGljbWwxOXxneDo1ZTRhMGQ3OGM5NzI0NjFm)
+	
+	- Workshop
+		- Multi-Task and Lifelong Reinforcement Learning
+			- Time: June 15, 2019
+			- [[Homepage]](https://sites.google.com/view/mtlrl/home#h.p_NO8hwBi2McLF)
+
+- Learning for Dynamics and Control (L4DC)
 	- Location: MIT
 	- Time: May 30 & 31, 2019
 	- [[Homepage]](https://l4dc.mit.edu/)
 	- [[Videos]](https://l4dc.mit.edu/videos/)
+
+- ICRA2019 
+	- Time: May 20-24, 2019
+	- [Paper List](https://github.com/Taylor-Liu/ICRA2019-paper-list)
+
+- ICLR2019
+	- Time: May 6-9, 2019
+	- [Paper List](https://github.com/shaohua0116/ICLR2019-OpenReviewData)
+	- [Poster](https://postersession.ai/)
 
 ### 1. DeepMind
 
