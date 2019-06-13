@@ -221,6 +221,10 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 - [HomePage](https://selfdrivingcars.mit.edu/)
 
+`DALI 2018 Workshop on Autonomous Driving`
+
+- [Homepage](http://dalimeeting.org/dali2018/autonomous-driving.html)
+
 `Apollo自动驾驶入门课程`
 
 * [重磅 - Udacity X Apollo自动驾驶免费入门课程正式上线！](https://mp.weixin.qq.com/s/h_4EACy8rxW4yR1dkGvDRw)
