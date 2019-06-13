@@ -70,7 +70,8 @@ title: Recent Progress
 
 - Learning to Learn with Probabilistic Task Embeddings
 	- Kate Rakelly; Jun 10, 2019
-	- [[Blog]](https://bair.berkeley.edu/blog/2019/06/10/pearl/)[[Paper]](https://arxiv.org/abs/1903.08254)[[Github]](https://github.com/katerakelly/oyster)
+	- Based on the ICML'19 paper: `Efficient Off-Policy Meta-RL via Probabilistic Context Variables`
+	- [[Blog]](https://bair.berkeley.edu/blog/2019/06/10/pearl/)[[Paper]](https://arxiv.org/abs/1903.08254)[[Github]](https://github.com/katerakelly/oyster)[[Slide]](https://icml.cc/media/Slides/icml/2019/hallb(12-11-00)-12-12-15-4607-efficient_off-p.pdf)
 
 
 - REPLAB: A Reproducible Low-Cost Arm Benchmark Platform For Robotic Learning
