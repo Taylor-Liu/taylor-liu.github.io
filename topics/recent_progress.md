@@ -44,6 +44,16 @@ title: Recent Progress
 	- Time: May 6-9, 2019
 	- [Paper List](https://github.com/shaohua0116/ICLR2019-OpenReviewData)
 	- [Poster](https://postersession.ai/)
+	- Workshop
+		- Structure & Priors in Reinforcement Learning (SPiRL)
+			- [[Homepage]](https://iclr.cc/Conferences/2019/Schedule?showEvent=634)
+			- [[Video]](https://slideslive.com/iclr/iclr-2019-r04-structure-priors-in-reinforcement-learning-spirl)
+		- Task-Agnostic Reinforcement Learning (TARL)
+			- [[Homepage]](https://tarl2019.github.io/)
+			- [[Video]](https://slideslive.com/iclr/iclr-2019-r09-taskagnostic-reinforcement-learning-tarl)
+		- Reproducibility in Machine Learning
+			- [[Homepage]](https://sites.google.com/view/icml-reproducibility-workshop/home)
+			- [[Video]](https://slideslive.com/iclr/iclr-2019-r08-reproducibility-in-machine-learning)
 
 ### 1. DeepMind
 
