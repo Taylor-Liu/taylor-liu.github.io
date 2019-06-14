@@ -16,7 +16,8 @@ title: Recent Progress
 	- Time: Jun 10-15, 2019
 	- [Paper List](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 	- [Schedule Multitrack](https://icml.cc/Conferences/2019/ScheduleMultitrack?session=&event_type=&day=2019-06-11)
-	- Tutorial [[Videos]](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
+	- [Videos](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
+	- `Tutorial` 
 		- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning 
 			- Presented by Chelsea Finn and Sergey Levine
 			- [[Homepage]](https://sites.google.com/view/icml19metalearning)
@@ -29,10 +30,16 @@ title: Recent Progress
 		- Never-Ending Learning
 			- [[Homepage]](https://sites.google.com/site/neltutorialicml19/)
 			- [[Slide]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuZWx0dXRvcmlhbGljbWwxOXxneDo1ZTRhMGQ3OGM5NzI0NjFm)
-	- Workshop
+	- `Workshop`
 		- Multi-Task and Lifelong Reinforcement Learning
 			- Time: June 15, 2019
 			- [[Homepage]](https://sites.google.com/view/mtlrl/home#h.p_NO8hwBi2McLF)
+		- Reinforcement Learning for Real Life
+			- Time: June 14, 2019
+			- [[Homepage]](https://sites.google.com/view/RL4RealLife)
+		- Real-world Sequential Decision Making: Reinforcement Learning and Beyond
+			- Time: June 14, 2019
+			- [[Homepage]](https://realworld-sdm.github.io/)
 
 - Learning for Dynamics and Control (L4DC)
 	- Location: MIT
@@ -48,7 +55,7 @@ title: Recent Progress
 	- Time: May 6-9, 2019
 	- [Paper List](https://github.com/shaohua0116/ICLR2019-OpenReviewData)
 	- [Poster](https://postersession.ai/)
-	- Workshop
+	- `Workshop`
 		- Structure & Priors in Reinforcement Learning (SPiRL)
 			- [[Homepage]](https://iclr.cc/Conferences/2019/Schedule?showEvent=634)
 			- [[Video]](https://slideslive.com/iclr/iclr-2019-r04-structure-priors-in-reinforcement-learning-spirl)
