@@ -49,3 +49,25 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 <p style="text-align:center">
 <img src="/topics/img/rl/sac-02.jpg" width="650" />
 </p>
+
+
+### Exploration
+
+Ian Osband (DeepMind)
+- [Homepage](https://iosband.github.io/)
+- Phd Thesis (2016): Deep Exploration via Randomized Value Functions
+	- [[Thesis]](https://searchworks.stanford.edu/view/11891201)[[Video]](https://www.youtube.com/watch?v=ck4GixLs4ZQ)[[Slide]](https://docs.google.com/presentation/d/1lis0yBGT-uIXnAsi0vlP3SuWD2svMErJWy_LYtfzMOA/edit#slide=id.p)
+	- Statistically efficient RL requires "deep exploration". Previous approaches to deep exploration have not been computationally tractable beyond small scale problems. This dissertation presents an alternative approach through the use of randomized value functions. 
+- ICML2016: Generalization and Exploration via Randomized Value Functions
+	- [[Paper]](https://arxiv.org/abs/1402.0635)[[Talk]](http://techtalks.tv/talks/generalization-and-exploration-via-randomized-value-functions/62467/)[[Poster]](https://iosband.github.io/docs/ICML2016_RLSVI_Poster.pdf)[[Slide]](https://docs.google.com/presentation/d/1OkJjM1EGEHbcJM--98hWTc9fZdlMnegY8NFUToYcrLQ/edit?usp=sharing)
+
+
+
+
+
+
+
+
+
+
+
