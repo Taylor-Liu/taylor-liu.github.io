@@ -40,6 +40,9 @@ title: Recent Progress
 		- Real-world Sequential Decision Making: Reinforcement Learning and Beyond
 			- Time: June 14, 2019
 			- [[Homepage]](https://realworld-sdm.github.io/)
+		- Exploration in RL
+			- Time: June 15, 2019
+			- [[Homepage]](https://sites.google.com/view/erl-2019/)
 
 - Learning for Dynamics and Control (L4DC)
 	- Location: MIT
