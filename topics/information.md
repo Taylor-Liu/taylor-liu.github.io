@@ -17,6 +17,7 @@ title:  Access to Information
 - [DeepMind](https://deepmind.com/blog/)
 - [OpenAI](https://openai.com/blog/)
 - [UC Berkeley: Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/blog/?refresh=1)
+- [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
 
 Twitter
 
@@ -40,6 +41,8 @@ Twitter
 	- UBC Computer Science; physics-based models of human movement; machine learning; animation; robotics;
 - [Jeff Clune](https://twitter.com/jeffclune)
 	- Research: AI, ML, Deep RL, Deep Learning. Senior Research Manager, Uber AI Labs. Harris Associate Professor, University of Wyoming. [JeffClune.com](http://JeffClune.com)
+- [Yuandong Tian](https://twitter.com/tydsh?lang=en)
+	- Research Scientist and Manager in FAIR (Facebook AI Research)
 
 微信公众号
 - 机器之心
