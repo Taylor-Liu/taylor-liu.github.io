@@ -31,18 +31,24 @@ title: Recent Progress
 			- [[Homepage]](https://sites.google.com/site/neltutorialicml19/)
 			- [[Slide]](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxuZWx0dXRvcmlhbGljbWwxOXxneDo1ZTRhMGQ3OGM5NzI0NjFm)
 	- `Workshop`
-		- Multi-Task and Lifelong Reinforcement Learning
-			- Time: June 15, 2019
-			- [[Homepage]](https://sites.google.com/view/mtlrl/home#h.p_NO8hwBi2McLF)
 		- Reinforcement Learning for Real Life
 			- Time: June 14, 2019
 			- [[Homepage]](https://sites.google.com/view/RL4RealLife)
 		- Real-world Sequential Decision Making: Reinforcement Learning and Beyond
 			- Time: June 14, 2019
 			- [[Homepage]](https://realworld-sdm.github.io/)
-		- Exploration in RL
+		- Generative Modeling and Model-Based Reasoning for Robotics and AI
+			- Time: June 14, 2019
+			- [[Homepage]](https://sites.google.com/view/mbrl-icml2019)
+		- Multi-Task and Lifelong Reinforcement Learning
+			- Time: June 15, 2019
+			- [[Homepage]](https://sites.google.com/view/mtlrl/home#h.p_NO8hwBi2McLF)
+		- Exploration in Reinforcement Learning
 			- Time: June 15, 2019
 			- [[Homepage]](https://sites.google.com/view/erl-2019/)
+		- AI for autonomous driving
+			- Time: June 15, 2019
+			- [[Homepage]](https://sites.google.com/view/icml2019aiad/home)
 
 - Learning for Dynamics and Control (L4DC)
 	- Location: MIT
