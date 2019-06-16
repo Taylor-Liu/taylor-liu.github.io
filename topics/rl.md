@@ -11,7 +11,9 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 ### RL in Real World
 
 - Challenges of Real-World Reinforcement Learning [[Paper]](https://arxiv.org/pdf/1904.12901.pdf)
-	- 2019 - Google Brain & DeepMind
+	- Gabriel Dulac-Arnold, Daniel Mankowitz, Todd Hester
+	- Google Brain, DeepMind
+	- 2019
 
 ### Sim-to-Real
 
@@ -22,7 +24,9 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 ### RL Paper Slide and Code
 
 - (SAC) Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor
-	- 2018 - UC Berkeley - ICML
+	- Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine
+	- UC Berkeley
+	- ICML'18
 	- [[Slide]](https://drive.google.com/file/d/1rm49ouRtEH4Usjiem3VGDXKrLScSlSBH/view)[[Github]](https://github.com/haarnoja/sac)[[Blog]](https://bair.berkeley.edu/blog/2018/12/14/sac/)
 
 <p style="text-align:center">
