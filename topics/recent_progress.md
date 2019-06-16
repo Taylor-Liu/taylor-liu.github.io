@@ -46,6 +46,9 @@ title: Recent Progress
 		- Exploration in Reinforcement Learning
 			- Time: June 15, 2019
 			- [[Homepage]](https://sites.google.com/view/erl-2019/)
+		- Self-Supervised Learning
+			- Time: June 15, 2019
+			- [[Homepage]](https://sites.google.com/view/self-supervised-icml2019)
 		- AI for autonomous driving
 			- Time: June 15, 2019
 			- [[Homepage]](https://sites.google.com/view/icml2019aiad/home)
