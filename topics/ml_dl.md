@@ -37,6 +37,10 @@ title: Machine Learning and Deep Learning
 - [美团深度学习系统的工程实践 (2018.10.26)](https://www.jiqizhixin.com/articles/2018-10-26?from=synced&keyword=%E5%B9%B6%E8%A1%8C)
 - [一文读懂分布式深度学习](https://mp.weixin.qq.com/s/YufvfnuEfiB8f9zVCOvNbQ)
 
+### Self Supervised Learning
+
+lecture notebook by Andrew Zisserman from Deepmind: [https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)
+
 ### IDE
 
 VS Code
