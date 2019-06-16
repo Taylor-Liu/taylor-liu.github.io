@@ -11,7 +11,7 @@ title: Recent Progress
 
 - CVPR2019
 	- Time: June 16-20, 2019
-	- [Homepage](http://cvpr2019.thecvf.com/)
+	- [[Homepage]](http://cvpr2019.thecvf.com/)
 
 ### New!
 
