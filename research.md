@@ -14,6 +14,21 @@ Where to find posters?
 	- contain: ICLR2019 posters
 
 
+Twitter
+
+| People | Information|
+| :------ |:--- |
+| [Pieter Abbeel](https://twitter.com/pabbeel) | Professor at [bair.berkeley.edu](https://bair.berkeley.edu), Founder of [covariant.ai](http://covariant.ai), [berkeleyopenarms.org](https://www.berkeleyopenarms.org/), and [gradescope.com](http://gradescope.com)|
+| [Sergey Levine](https://twitter.com/svlevine) | Assistant Professor at UC Berkeley|
+| [Chelsea Finn](https://twitter.com/chelseabfinn) | |
+| [Jason Peng](https://twitter.com/xbpeng4) | CS PhD student at UC Berkeley|
+| [Erwin Coumans](https://twitter.com/erwincoumans) | Creator of Bullet Physics. Google Brain Team member.|
+| [Michiel van de Panne](https://twitter.com/Mvandepanne) | UBC Computer Science; physics-based models of human movement; machine learning; animation; robotics | 
+| [Jeff Clune](https://twitter.com/jeffclune) | Research: AI, ML, Deep RL, Deep Learning. Senior Research Manager, Uber AI Labs. Harris Associate Professor, University of Wyoming. [JeffClune.com](http://JeffClune.com) |
+| [Yuandong Tian](https://twitter.com/tydsh?lang=en) | Research Scientist and Manager in FAIR (Facebook AI Research)|
+
+
+
 Research suggestions from [Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/) (Microsoft Research in Cambridge)
 - [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
 - [How to give a great research talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)
