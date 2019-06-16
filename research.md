@@ -29,7 +29,16 @@ Twitter
 | [Jeff Clune](https://twitter.com/jeffclune) | Research: AI, ML, Deep RL, Deep Learning. Senior Research Manager, Uber AI Labs. Harris Associate Professor, University of Wyoming. [JeffClune.com](http://JeffClune.com) |
 | [Yuandong Tian](https://twitter.com/tydsh?lang=en) | Research Scientist and Manager in FAIR (Facebook AI Research)|
 | [Jack Clark](https://twitter.com/jackclarkSF) | Policy Director @openai & @indexingai Newsletter: [jack-clark.net ](http://www.jack-clark.net)  Past: @business Neural Net Reporter. @theregister Distributed Systems Reporter. |
+| [Andrej Karpathy](https://twitter.com/karpathy) | Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets. |
+| [hardmaru](https://twitter.com/hardmaru) | research scientist at google brain tokyo |
 
+
+Blog
+
+- [DeepMind](https://deepmind.com/blog/)
+- [OpenAI](https://openai.com/blog/)
+- [UC Berkeley: Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/blog/?refresh=1)
+- [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
 
 Research suggestions from [Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/) (Microsoft Research in Cambridge)
 - [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
