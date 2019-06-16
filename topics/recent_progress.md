@@ -21,10 +21,10 @@ title: Recent Progress
 		- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning 
 			- Presented by Chelsea Finn and Sergey Levine
 			- [[Homepage]](https://sites.google.com/view/icml19metalearning)
-			- [[Slide]](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view)[[Video Part1]](https://www.facebook.com/icml.imls/videos/400619163874853/)[[Video Part2]](https://www.facebook.com/icml.imls/videos/2970931166257998/)
+			- [[Slide]](https://drive.google.com/file/d/1DuHyotdwEAEhmuHQWwRosdiVBVGm8uYx/view) [[Video Part1]](https://www.facebook.com/icml.imls/videos/400619163874853/) [[Video Part2]](https://www.facebook.com/icml.imls/videos/2970931166257998/)
 			- [[Compiled List of References]](tinyurl.com/meta-reading)
 		- Attention in Deep Learning 
-			- [[Slide]](http://alex.smola.org/talks/ICML19-attention.pdf)[[Keynote]](http://alex.smola.org/talks/ICML19-attention.key)[[Video]](https://www.facebook.com/icml.imls/videos/382464939283864/)
+			- [[Slide]](http://alex.smola.org/talks/ICML19-attention.pdf) [[Keynote]](http://alex.smola.org/talks/ICML19-attention.key) [[Video]](https://www.facebook.com/icml.imls/videos/382464939283864/)
 		- Population-Based Methods for Training Deep Neural Networks: Novelty Search, Quality Diversity, Open-Ended Search Algorithms, & Indirect Encoding
 			- [[Slide]](http://www.cs.uwyo.edu/~jeffclune/share/2019_06_10_ICML_Tutorial.pdf)
 		- Never-Ending Learning
@@ -33,25 +33,29 @@ title: Recent Progress
 	- `Workshop`
 		- Reinforcement Learning for Real Life
 			- Time: June 14, 2019
-			- [[Homepage]](https://sites.google.com/view/RL4RealLife)
+			- [[Homepage]](https://sites.google.com/view/RL4RealLife) [[Video-Slideslive]](https://slideslive.com/icml/icml-2019-seaside-ballroom-live)
 		- Real-world Sequential Decision Making: Reinforcement Learning and Beyond
 			- Time: June 14, 2019
-			- [[Homepage]](https://realworld-sdm.github.io/)
+			- [[Homepage]](https://realworld-sdm.github.io/) [[Video-Slideslive]](https://slideslive.com/icml/icml-2019-seaside-ballroom-live)
 		- Generative Modeling and Model-Based Reasoning for Robotics and AI
 			- Time: June 14, 2019
 			- [[Homepage]](https://sites.google.com/view/mbrl-icml2019)
+		
 		- Multi-Task and Lifelong Reinforcement Learning
 			- Time: June 15, 2019
-			- [[Homepage]](https://sites.google.com/view/mtlrl/home#h.p_NO8hwBi2McLF)
+			- [[Homepage]](https://sites.google.com/view/mtlrl/home#h.p_NO8hwBi2McLF) [[Video-Slideslive]](https://slideslive.com/icml/icml-2019-room-102-live)
+		- Adaptive and Multitask Learning: Algorithms & Systems
+			- Time: June 15, 2019
+			- [[Homepage]](https://www.amtl-workshop.org/) [[Video-Slideslive]](https://slideslive.com/icml/icml-2019-seaside-ballroom-live)
 		- Exploration in Reinforcement Learning
 			- Time: June 15, 2019
-			- [[Homepage]](https://sites.google.com/view/erl-2019/)
+			- [[Homepage]](https://sites.google.com/view/erl-2019/) 
 		- Self-Supervised Learning
-			- Time: June 15, 2019
+			- Time: June 15, 2019 
 			- [[Homepage]](https://sites.google.com/view/self-supervised-icml2019)
 		- AI for autonomous driving
 			- Time: June 15, 2019
-			- [[Homepage]](https://sites.google.com/view/icml2019aiad/home)
+			- [[Homepage]](https://sites.google.com/view/icml2019aiad/home) [[Video-Slideslive]](https://slideslive.com/icml/icml-2019-room-101-live)
 
 - Learning for Dynamics and Control (L4DC)
 	- Location: MIT
