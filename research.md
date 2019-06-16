@@ -32,6 +32,12 @@ Twitter
 | [Andrej Karpathy](https://twitter.com/karpathy) | Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets. |
 | [hardmaru](https://twitter.com/hardmaru) | research scientist at google brain tokyo |
 
+Reddit
+
+- [Reinforcement Learning](https://www.reddit.com/r/reinforcementlearning/)
+- [Meta Learning](https://www.reddit.com/r/metalearning/)
+- [Self-Driving Cars](https://www.reddit.com/r/SelfDrivingCars/)
+
 
 Blog
 
@@ -39,6 +45,7 @@ Blog
 - [OpenAI](https://openai.com/blog/)
 - [UC Berkeley: Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/blog/?refresh=1)
 - [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
+
 
 Research suggestions from [Simon Peyton Jones](https://www.microsoft.com/en-us/research/people/simonpj/) (Microsoft Research in Cambridge)
 - [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)
