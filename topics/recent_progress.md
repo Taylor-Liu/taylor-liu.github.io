@@ -16,7 +16,7 @@ title: Recent Progress
 	- Time: Jun 10-15, 2019
 	- [Paper List](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 	- [Schedule Multitrack](https://icml.cc/Conferences/2019/ScheduleMultitrack?session=&event_type=&day=2019-06-11)
-	- [Videos](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
+	- [Videos-Facebook](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
 	- `Tutorial` 
 		- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning 
 			- Presented by Chelsea Finn and Sergey Levine
