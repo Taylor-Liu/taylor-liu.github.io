@@ -24,7 +24,7 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 ### RL Paper Slide and Code
 
 - (SAC) Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor
-	- Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine
+	- [Tuomas Haarnoja](https://people.eecs.berkeley.edu/~haarnoja/), Aurick Zhou, Pieter Abbeel, Sergey Levine
 	- UC Berkeley
 	- ICML'18
 	- [[Slide]](https://drive.google.com/file/d/1rm49ouRtEH4Usjiem3VGDXKrLScSlSBH/view)[[Github]](https://github.com/haarnoja/sac)[[Blog]](https://bair.berkeley.edu/blog/2018/12/14/sac/)
