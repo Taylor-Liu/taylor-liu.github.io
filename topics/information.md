@@ -27,6 +27,7 @@ title:  Information
 | [C.Karen Liu](https://cs.stanford.edu/~karenliu/Home.html) | Associate Professor at Stanford |
 | [Shixiang (Shane) Gu](https://sites.google.com/view/gugurus/home) | Research Scientist at Google Brain |
 | [Anusha Nagabandi](https://people.eecs.berkeley.edu/~nagaban2/papers.html) | CS PhD student at UC Berkeley |
+| [Ben Eysenbach](https://ben-eysenbach.github.io/) | PhD Student at CMU & Student Researcher at Google Brain |
 | [Ian Goodfellow](http://www.iangoodfellow.com/slides/) | Deep learner. Inventor of GANs. Lead author of [deeplearningbook.org](http://www.deeplearningbook.org) |
 | [Hung-yi Lee 李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | Associate Professor at National Taiwan University |
 
