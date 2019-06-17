@@ -20,6 +20,7 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 - Blog
 	- [Domain Randomization for Sim2Real Transfer (May, 2019)](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)
 	- [Reliability in Reinforcement Learning (June 6, 2019; Microsoft Research Blog)](https://www.microsoft.com/en-us/research/blog/reliability-in-reinforcement-learning/)
+	- [Abstraction and RL: Literature Overview (Mar. 9, 2019)](https://david-abel.github.io/blog/posts/rl_abstr.html)
 
 ### RL Paper Slide and Code
 
@@ -28,6 +29,9 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 	- UC Berkeley
 	- ICML'18
 	- [[Slide]](https://drive.google.com/file/d/1rm49ouRtEH4Usjiem3VGDXKrLScSlSBH/view)[[Github]](https://github.com/haarnoja/sac)[[Blog]](https://bair.berkeley.edu/blog/2018/12/14/sac/)
+	- Other Paper
+		- ICML'18: Latent Space Policies for Hierarchical Reinforcement Learning
+			- [[Website]](https://sites.google.com/view/latent-space-deep-rl) [[Paper]](https://arxiv.org/abs/1804.02808) [[Github]](https://github.com/haarnoja/sac/) [[Talk]](https://vimeo.com/312265271)
 
 <p style="text-align:center">
 <img src="/topics/img/rl/sac-01.jpg" width="650" />
