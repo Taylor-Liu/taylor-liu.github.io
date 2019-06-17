@@ -5,13 +5,18 @@ title: Recent Progress
 
 ### Coming!
 
+- CVPR2019
+	- Time: June 16-20, 2019
+	- [[Homepage]](http://cvpr2019.thecvf.com/)
+
 - Robotics: Science and Systems (RSS)
 	- Time: June 22-26, 2019
 	- [[Homepage]](http://www.roboticsconference.org/)
 
-- CVPR2019
-	- Time: June 16-20, 2019
-	- [[Homepage]](http://cvpr2019.thecvf.com/)
+- IJCAI2019
+	- Time: August 10-16 2019
+	- Location: Macao, China
+	- [[Homepage]](https://ijcai19.org/)
 
 ### New!
 
