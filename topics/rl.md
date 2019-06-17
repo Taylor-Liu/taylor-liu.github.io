@@ -55,6 +55,8 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 - [ICML2018: Exploration in RL](https://sites.google.com/view/erl-2018/)
 	- with slides and videos
 
+- [ICML2019: Exploration in RL](https://sites.google.com/view/erl-2019/)
+	- with slides and videos
 
 ### Exploration
 
