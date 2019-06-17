@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Access to Information
+title:  Information
 ---
 
 **Blog**
@@ -9,6 +9,27 @@ title:  Access to Information
 - [OpenAI](https://openai.com/blog/)
 - [UC Berkeley: Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/blog/?refresh=1)
 - [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
+
+**Reddit**
+
+- [Reinforcement Learning](https://www.reddit.com/r/reinforcementlearning/)
+- [Meta Learning](https://www.reddit.com/r/metalearning/)
+- [Self-Driving Cars](https://www.reddit.com/r/SelfDrivingCars/)
+
+**Personal Homepage**
+
+| People | Information|
+| :------ |:--- |
+| [Karol Hausman](https://karolhausman.github.io/) | Researcher in robotics 
+and machine learning at Google Brain |
+| [Chelsea Finn](http://people.eecs.berkeley.edu/~cbfinn/) | a research scientist at Google Brain, a post-doc at Berkeley AI Research Lab (BAIR), and an acting assistant professor at Stanford. |
+| [Jason Peng](https://xbpeng.github.io/) | CS PhD student at UC Berkeley |
+| [Libin Liu](http://libliu.com/) | Chief Scientist at DeepMotion Inc.| 
+| [C.Karen Liu](https://cs.stanford.edu/~karenliu/Home.html) | Associate Professor at Stanford |
+| [Shixiang (Shane) Gu](https://sites.google.com/view/gugurus/home) | Research Scientist at Google Brain |
+| [Anusha Nagabandi](https://people.eecs.berkeley.edu/~nagaban2/papers.html) | CS PhD student at UC Berkeley |
+| [Ian Goodfellow](http://www.iangoodfellow.com/slides/) | Deep learner. Inventor of GANs. Lead author of [deeplearningbook.org](http://www.deeplearningbook.org) |
+| [Hung-yi Lee 李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | Associate Professor at National Taiwan University |
 
 **Twitter**
 
@@ -26,11 +47,6 @@ title:  Access to Information
 | [Andrej Karpathy](https://twitter.com/karpathy) | Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets. |
 | [hardmaru](https://twitter.com/hardmaru) | research scientist at google brain tokyo |
 
-**Reddit**
-
-- [Reinforcement Learning](https://www.reddit.com/r/reinforcementlearning/)
-- [Meta Learning](https://www.reddit.com/r/metalearning/)
-- [Self-Driving Cars](https://www.reddit.com/r/SelfDrivingCars/)
 
 **Others**
 
