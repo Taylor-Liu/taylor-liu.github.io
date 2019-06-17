@@ -29,6 +29,12 @@ title: Autonomous Driving
 18. Pony.ai技术分享
 19. 安全报告
 
+### 前沿进展
+
+- Waymo
+	- CVPR2019发布大型自动驾驶数据库 [机器之心报道](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650764187&idx=4&sn=14995d261c92df057db1b2ce3ce6aa9f&chksm=871ab7e5b06d3ef360b3f148b216c36972c890fe2260417be8a3f8896c8ddfafe529d9714cf0&mpshare=1&scene=1&srcid=#rd)
+
+
 [Apollo自动驾驶工程师技能图谱V2.0](/topics/data/apollo-v2.pdf)
 
 ### 1. Basics
