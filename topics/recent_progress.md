@@ -18,6 +18,11 @@ title: Recent Progress
 	- Location: Macao, China
 	- [[Homepage]](https://ijcai19.org/)
 
+- NIPS2019
+	- Time: Dec 10-12, 2019
+	- Location: Vancouver, Canada
+	- [[Homepage]](https://nips.cc/)
+
 ### New!
 
 - IV2019
