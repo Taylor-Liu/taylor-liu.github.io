@@ -5,6 +5,10 @@ title: Related Researchers about Model-based RL and Their Works
 
 ### Timothy Lillicrap (DeepMind)
 
+<p style="text-align:center">
+	<img src="/topics/img/people/timothy_lillicrap.png" width="500" />
+</p>
+
 Homepage: [http://contrastiveconvergence.net/~timothylillicrap/index.php](http://contrastiveconvergence.net/~timothylillicrap/index.php)
 
 ### Oriol Vinyals (DeepMind)
