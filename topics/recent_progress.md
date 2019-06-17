@@ -6,22 +6,26 @@ title: Recent Progress
 ### Coming!
 
 - CVPR2019
-	- Time: June 16-20, 2019
+	- Time: `June 16-20, 2019`
 	- [[Homepage]](http://cvpr2019.thecvf.com/)
 
 - Robotics: Science and Systems (RSS)
-	- Time: June 22-26, 2019
+	- Time: `June 22-26, 2019`
 	- [[Homepage]](http://www.roboticsconference.org/)
 
 - IJCAI2019
-	- Time: August 10-16 2019
+	- Time: `August 10-16 2019`
 	- Location: Macao, China
 	- [[Homepage]](https://ijcai19.org/)
 
 - NIPS2019
-	- Time: Dec 10-12, 2019
+	- Time: `Dec 10-12, 2019`
 	- Location: Vancouver, Canada
 	- [[Homepage]](https://nips.cc/)
+
+- ICRA2019 Workshop: Learning Legged Locomotion Workshop
+	- [[Homepage]](https://sites.google.com/view/learning-legged-locomotion/)
+	- Recordings of the talks & PDFs of the posters will be uploaded in the next couple of days. 
 
 ### New!
 
@@ -33,6 +37,7 @@ title: Recent Progress
 	- [Paper List](https://icml.cc/Conferences/2019/Schedule?type=Poster)
 	- [Schedule Multitrack](https://icml.cc/Conferences/2019/ScheduleMultitrack?session=&event_type=&day=2019-06-11)
 	- [Videos-Facebook](https://www.facebook.com/pg/icml.imls/videos/?ref=page_internal)
+	- Notes by David Abel [[PDF]](https://david-abel.github.io/notes/icml_2019.pdf?fbclid=IwAR1CMMHBA718ScRWeUPshkhqD6YXfNKs_HgC4NukPFxak5_k5J2uT3tiSq8)
 	- `Tutorial` 
 		- Meta-Learning: From Few-Shot Learning to Rapid Reinforcement Learning 
 			- Presented by Chelsea Finn and Sergey Levine
@@ -89,14 +94,11 @@ title: Recent Progress
 	- [Poster](https://postersession.ai/)
 	- `Workshop`
 		- Structure & Priors in Reinforcement Learning (SPiRL)
-			- [[Homepage]](https://iclr.cc/Conferences/2019/Schedule?showEvent=634)
-			- [[Video-Slideslive]](https://slideslive.com/iclr/iclr-2019-r04-structure-priors-in-reinforcement-learning-spirl)
+			- [[Homepage]](https://iclr.cc/Conferences/2019/Schedule?showEvent=634) [[Video-Slideslive]](https://slideslive.com/iclr/iclr-2019-r04-structure-priors-in-reinforcement-learning-spirl)
 		- Task-Agnostic Reinforcement Learning (TARL)
-			- [[Homepage]](https://tarl2019.github.io/)
-			- [[Video-Slideslive]](https://slideslive.com/iclr/iclr-2019-r09-taskagnostic-reinforcement-learning-tarl)
+			- [[Homepage]](https://tarl2019.github.io/) [[Video-Slideslive]](https://slideslive.com/iclr/iclr-2019-r09-taskagnostic-reinforcement-learning-tarl)
 		- Reproducibility in Machine Learning
-			- [[Homepage]](https://sites.google.com/view/icml-reproducibility-workshop/home)
-			- [[Video-Slideslive]](https://slideslive.com/iclr/iclr-2019-r08-reproducibility-in-machine-learning)
+			- [[Homepage]](https://sites.google.com/view/icml-reproducibility-workshop/home) [[Video-Slideslive]](https://slideslive.com/iclr/iclr-2019-r08-reproducibility-in-machine-learning)
 
 ### 1. DeepMind
 
