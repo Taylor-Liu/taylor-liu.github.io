@@ -29,6 +29,7 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 	- UC Berkeley
 	- ICML'18
 	- [[Slide]](https://drive.google.com/file/d/1rm49ouRtEH4Usjiem3VGDXKrLScSlSBH/view)[[Github]](https://github.com/haarnoja/sac)[[Blog]](https://bair.berkeley.edu/blog/2018/12/14/sac/)
+	- Previous Post: [Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning (Oct 6, 2017)](https://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/) 
 	- Other Paper
 		- ICML'18: Latent Space Policies for Hierarchical Reinforcement Learning
 			- [[Website]](https://sites.google.com/view/latent-space-deep-rl) [[Paper]](https://arxiv.org/abs/1804.02808) [[Github]](https://github.com/haarnoja/sac/) [[Talk]](https://vimeo.com/312265271)
