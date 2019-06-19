@@ -6,7 +6,7 @@ title: ICML2019 | 腾讯AI Lab强化学习论文
 **Grid-Wise Control for Multi-Agent Reinforcement Learning in Video Game AI**
 
 - Lei Han · Peng Sun · Yali Du · Jiechao Xiong · Qing Wang · Xinghai Sun · Han Liu · Tong Zhang
-- [Paper](http://proceedings.mlr.press/v97/han19a/han19a.pdf) [Slide](https://icml.cc/media/Slides/icml/2019/201(11-11-00)-11-11-30-4821-grid-wise_contr.pdf)
+- [[Paper]](http://proceedings.mlr.press/v97/han19a/han19a.pdf) [[Slide]](https://icml.cc/media/Slides/icml/2019/201(11-11-00)-11-11-30-4821-grid-wise_contr.pdf)
 
 本文由腾讯AI Lab主导，与悉尼科技大学合作完成，研究了游戏AI中的多智能体强化学习问题，其中智能体分布在网格世界环境中，并且智能体的数量可以在游戏中任意变化。上述问题的难点在于灵活地处理变化数量的智能体，并且同时实现智能体之间的高质量合作。目前已有的强化学习方法通常需要在这两个关注点之间做取舍。
 
@@ -21,7 +21,9 @@ title: ICML2019 | 腾讯AI Lab强化学习论文
 
 研究者在《星际争霸II》的战斗场景中做了大量的实验并进行了详尽的分析，结果表明该方法十分有效。下面是一段演示视频：
 
-<iframe width="600" src="https://www.youtube.com/embed/Ilg3gGewQ5U" frameborder="0" allowfullscreen></iframe>
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=LTcr01iTgZA&feature=youtu.be" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 `应用价值：`本文对基于网格世界的多智能体强化学习问题提出了一种新的学习架构，可以灵活处理数量变化的智能体个数，可以有效的应用在视频游戏AI和真实世界多种场景中。
 
