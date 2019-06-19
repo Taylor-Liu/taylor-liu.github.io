@@ -27,5 +27,5 @@ title: ICML2019 | 腾讯AI Lab强化学习论文
 
 ### 参考资料
 
-- [ICML 2018 | 腾讯AI Lab详解16篇入选论文](https://mp.weixin.qq.com/s?__biz=MzIzOTg4MjEwNw==&mid=2247483807&idx=1&sn=d90e8996f7533dcc9e83f9f171bb4525&scene=21#wechat_redirect)
-- [ICML 2019 | 腾讯AI Lab入选论文详解：从协同通道剪枝到多智能体强化学习](https://mp.weixin.qq.com/s?__biz=MzIzOTg4MjEwNw==&mid=2247484146&idx=1&sn=7b5d38201a597d76ea22fba87083249e&chksm=e92218e6de5591f0082436635bde71450f998bfec3878722b5d67e3932dce3120d7aa7ef7778&mpshare=1&scene=1&srcid=#rd)
+- [ICML 2018: 腾讯AI Lab详解16篇入选论文](https://mp.weixin.qq.com/s?__biz=MzIzOTg4MjEwNw==&mid=2247483807&idx=1&sn=d90e8996f7533dcc9e83f9f171bb4525&scene=21#wechat_redirect)
+- [ICML 2019: 腾讯AI Lab入选论文详解：从协同通道剪枝到多智能体强化学习](https://mp.weixin.qq.com/s?__biz=MzIzOTg4MjEwNw==&mid=2247484146&idx=1&sn=7b5d38201a597d76ea22fba87083249e&chksm=e92218e6de5591f0082436635bde71450f998bfec3878722b5d67e3932dce3120d7aa7ef7778&mpshare=1&scene=1&srcid=#rd)
