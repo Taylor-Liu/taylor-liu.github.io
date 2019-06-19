@@ -21,7 +21,7 @@ title: ICML2019 | 腾讯AI Lab强化学习论文
 
 研究者在《星际争霸II》的战斗场景中做了大量的实验并进行了详尽的分析，结果表明该方法十分有效。下面是一段演示视频：
 
-<iframe width="650" src="https://www.youtube.com/embed/LTcr01iTgZA" frameborder="0" allowfullscreen></iframe>
+<iframe height="500" width="650" src="https://www.youtube.com/embed/LTcr01iTgZA" frameborder="0" allowfullscreen></iframe>
 
 `应用价值：`本文对基于网格世界的多智能体强化学习问题提出了一种新的学习架构，可以灵活处理数量变化的智能体个数，可以有效的应用在视频游戏AI和真实世界多种场景中。
 
