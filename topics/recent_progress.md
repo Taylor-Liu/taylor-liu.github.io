@@ -5,10 +5,6 @@ title: Recent Progress
 
 ### Coming!
 
-- CVPR2019
-	- Time: `June 16-20, 2019`
-	- [[Homepage]](http://cvpr2019.thecvf.com/)
-
 - Robotics: Science and Systems (RSS)
 	- Time: `June 22-26, 2019`
 	- [[Homepage]](http://www.roboticsconference.org/)
@@ -28,6 +24,14 @@ title: Recent Progress
 	- Recordings of the talks & PDFs of the posters will be uploaded in the next couple of days. 
 
 ### New!
+
+- CVPR2019
+	- Time: `June 16-20, 2019`
+	- [[Homepage]](http://cvpr2019.thecvf.com/)
+	- `Workshop`
+		- 3D Humanoids 2019
+			- Time: June 16, 2019
+			- [[Homepage]](https://sites.google.com/view/humans3d/3d-humans-workshop)
 
 - IV2019
 	- Time: June 9-12, 2019
