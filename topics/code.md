@@ -3,6 +3,19 @@ layout: page
 title: Code
 ---
 
+### IDE
+
+VS Code
+- [Visual Studio Code官网教程](https://code.visualstudio.com/docs?start=true)
+
+### C++
+
+- [LearnCpp.com](https://www.learncpp.com/)
+
+### Python
+
+### Blog
+
 > 5月份GitHub上最热门的几个开源项目(转自：池建强, MacTalk)
 
 1、terminal
