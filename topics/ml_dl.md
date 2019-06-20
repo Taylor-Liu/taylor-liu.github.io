@@ -28,6 +28,7 @@ title: Machine Learning and Deep Learning
 
 - [如何在TensorFlow 2.0中构建强化学习智能体 (2019.01.21)](https://www.jiqizhixin.com/articles/2019-01-21-15?from=synced&keyword=%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
   - [英文原版](http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/)
+- [OpenAI Spinning Up](http://spinningup.openai.com/en/latest/index.html)
 
 ### 分布式训练
 
@@ -46,3 +47,5 @@ lecture notebook by Andrew Zisserman from Deepmind: [https://project.inria.fr/pa
 
 - [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 - [A Tutorial on Variational Autoencoders with a Concise Keras Implementation](https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/)
+
+### 
