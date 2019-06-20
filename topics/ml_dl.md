@@ -41,13 +41,8 @@ title: Machine Learning and Deep Learning
 
 lecture notebook by Andrew Zisserman from Deepmind: [https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)
 
-### IDE
 
-VS Code
-- [Visual Studio Code官网教程](https://code.visualstudio.com/docs?start=true)
+### VAE实践
 
-### C++
-
-- [LearnCpp.com](https://www.learncpp.com/)
-
-### Python
+- [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+- [A Tutorial on Variational Autoencoders with a Concise Keras Implementation](https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/)
