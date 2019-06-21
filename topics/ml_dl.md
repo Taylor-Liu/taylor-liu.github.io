@@ -53,4 +53,3 @@ title: Machine Learning and Deep Learning
 - [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 - [A Tutorial on Variational Autoencoders with a Concise Keras Implementation](https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/)
 
-### 
