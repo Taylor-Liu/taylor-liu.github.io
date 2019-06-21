@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ICML2019 Workshop | Generative Modeling and Model-Based Reasoning for Robotics and AI
+subtitle: ICML2019 Workshop | Generative Modeling and Model-Based Reasoning for Robotics and AI
 ---
 
 Homepage: [https://sites.google.com/view/mbrl-icml2019](https://sites.google.com/view/mbrl-icml2019)
@@ -19,15 +19,19 @@ Model-based methods are expected to be more efficient. Given accurate models, tr
 
 ### Schedule
 
-- Yann LeCun: 
-- Jessica Hamrick
+- Yann LeCun: Self Supevised Learning
+- Jessica Hamrick: Mental Simulation, Imagination, and Model-Based Deep RL
 - Spotlights: Session 1
-- Stefan Schaal
-- Contributed Talks : 1, 2, & 3
-- David Silver : Value-Focused Models: Implicit Models, Implicit Planning
+- Stefan Schaal: What Should Be Learned?
+- Contributed Talks 1: When to Trust Your Model__Model-Based Policy Optimization
+	- [Homepage](https://people.eecs.berkeley.edu/~janner/mbpo/)
+- Contributed Talks 2: Model Based Planning with Energy Bassed Models
+- Contributed Talks 3: A Perspective on Objects and Systematic Generalization in Model-Based RL
+- David Silver : Value-Focused Models
 - Spotlights: Session 2
-- Byron Boots
-- Contributed Talks : 4 & 5
-- Chelsea Finn
-- Abhinav Gupta
+- Byron Boots: Online Learning for Adaptive Robotic Systems
+- Contributed Talks 4: An Inference Perspective on Model-Based Reinforcement Learning
+- Contributed Talks 5: SVRE__New Method for Training GANs
+- Chelsea Finn: Complexity without Losing Generality__The Role of Supervision and Composition
+- Abhinav Gupta: Self-supervised Learning for Exploration & Representation
 
