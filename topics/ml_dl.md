@@ -45,7 +45,7 @@ title: Machine Learning and Deep Learning
 
 ### Self Supervised Learning
 
-lecture notebook by Andrew Zisserman from Deepmind: [https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)
+- lecture notebook by Andrew Zisserman from Deepmind: [https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf)
 
 
 ### VAE实践
