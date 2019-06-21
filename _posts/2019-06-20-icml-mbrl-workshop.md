@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: ICML2019 Workshop
 subtile: Generative Modeling and Model-Based Reasoning for Robotics and AI
 ---
