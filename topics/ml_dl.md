@@ -52,4 +52,5 @@ title: Machine Learning and Deep Learning
 
 - [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 - [A Tutorial on Variational Autoencoders with a Concise Keras Implementation](https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/)
+- VAE理论推导：李宏毅[ML17](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)课件 [[PDF]](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/GAN%20(v3).pdf) [[PPTX]](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/GAN%20(v3).pptx)
 
