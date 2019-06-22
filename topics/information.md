@@ -34,6 +34,13 @@ title:  Information
 | [Hung-yi Lee 李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | Associate Professor at National Taiwan University |
 | [Michiel van de Panne](https://www.cs.ubc.ca/~van/papers/index.html) | UBC Computer Science; physics-based models of human movement; machine learning; animation; robotics |
 
+**Facebook**
+
+| People | Information|
+| :------ |:--- |
+| [Montreal.IA](https://www.facebook.com/MontrealAI) | Intelligence Artificielle Montreal |
+
+
 **Twitter**
 
 | People | Information|
@@ -49,6 +56,7 @@ title:  Information
 | [Jack Clark](https://twitter.com/jackclarkSF) | Policy Director @openai & @indexingai Newsletter: [jack-clark.net ](http://www.jack-clark.net)  Past: @business Neural Net Reporter. @theregister Distributed Systems Reporter. |
 | [Andrej Karpathy](https://twitter.com/karpathy) | Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets. |
 | [hardmaru](https://twitter.com/hardmaru) | research scientist at google brain tokyo |
+| [Montreal.IA](https://twitter.com/Montreal_IA) | Intelligence Artificielle Montreal |
 
 
 **Others**
