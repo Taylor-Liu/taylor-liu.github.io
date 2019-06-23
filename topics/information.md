@@ -57,6 +57,7 @@ title:  Information
 | [Andrej Karpathy](https://twitter.com/karpathy) | Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets. |
 | [hardmaru](https://twitter.com/hardmaru) | research scientist at google brain tokyo |
 | [Montreal.IA](https://twitter.com/Montreal_IA) | Intelligence Artificielle Montreal |
+| [François Chollet](https://twitter.com/fchollet) |Creator of Keras, neural networks library. Author of 'Deep Learning with Python'. | 
 
 
 **Others**
