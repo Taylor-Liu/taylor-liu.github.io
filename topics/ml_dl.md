@@ -54,3 +54,7 @@ title: Machine Learning and Deep Learning
 - [A Tutorial on Variational Autoencoders with a Concise Keras Implementation](https://tiao.io/post/tutorial-on-variational-autoencoders-with-a-concise-keras-implementation/)
 - VAE理论推导：李宏毅[ML17](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)课件 [[PDF]](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/GAN%20(v3).pdf) [[PPTX]](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/GAN%20(v3).pptx)
 
+### 生成模型
+
+- Deep Learning Indaba 2018: Generative Models [[Slide]](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/indaba-genmodels-shakir.pdf)
+
