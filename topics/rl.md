@@ -24,7 +24,7 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 ### RL Paper Slide and Code
 
-- (SAC) Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor
+- **(SAC) Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor**
 	- [Tuomas Haarnoja](https://people.eecs.berkeley.edu/~haarnoja/), Aurick Zhou, Pieter Abbeel, Sergey Levine
 	- UC Berkeley
 	- ICML'18
@@ -41,6 +41,16 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 <p style="text-align:center">
 <img src="/topics/img/rl/sac-02.jpg" width="650" />
 </p>
+
+- **(TD3) Addressing Function Approximation Error in Actor-Critic Methods**
+	- Scott Fujimoto, Herke van Hoof, David Meger
+	- McGill University, University of Amsterdam (阿姆斯特丹大学)
+	- ICML'18
+	- [[Paper]](http://proceedings.mlr.press/v80/fujimoto18a/fujimoto18a.pdf) [[Github-Pytorch]](https://github.com/sfujim/TD3) [[Talk]](https://vimeo.com/312360735)
+	- Other Paper
+		- ICML'19: Off-Policy Deep Reinforcement Learning without Exploration
+			- Scott Fujimoto · David Meger · Doina Precup
+			- [[Slide]](https://icml.cc/media/Slides/icml/2019/hallb(11-11-00)-11-12-05-4583-off-policy_deep.pdf) [[Github]](https://github.com/sfujim/BCQ)
 
 
 ### DRL Workshop
