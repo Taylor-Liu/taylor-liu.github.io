@@ -58,6 +58,7 @@ title:  Information
 | [hardmaru](https://twitter.com/hardmaru) | research scientist at google brain tokyo |
 | [Montreal.IA](https://twitter.com/Montreal_IA) | Intelligence Artificielle Montreal |
 | [François Chollet](https://twitter.com/fchollet) |Creator of Keras, neural networks library. Author of 'Deep Learning with Python'. | 
+| [Antonin Raffin](https://twitter.com/araffin2) | Researcher in robotics and machine learning (Reinforcement Learning). Member of Stable-Baselines team: [github.com/hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) |
 
 
 **Others**
