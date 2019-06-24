@@ -33,6 +33,7 @@ title:  Information
 | [Ian Goodfellow](http://www.iangoodfellow.com/slides/) | Deep learner. Inventor of GANs. Lead author of [deeplearningbook.org](http://www.deeplearningbook.org) |
 | [Hung-yi Lee 李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | Associate Professor at National Taiwan University |
 | [Michiel van de Panne](https://www.cs.ubc.ca/~van/papers/index.html) | UBC Computer Science; physics-based models of human movement; machine learning; animation; robotics |
+| [Josh Tobin](http://josh-tobin.com/) | Research Scientist at OpenAI | 
 
 **Facebook**
 
