@@ -36,6 +36,7 @@ navbar-links:
   Research: "research"
   Math:
     - Probabilistic Tricks: "math/probabilistic-tricks"
+    - Mathematics for Machine Learning: "math/math-resources"
   About: "aboutme"
 
 
