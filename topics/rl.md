@@ -88,18 +88,12 @@ Ian Osband (DeepMind)
 ### 深度文章
 
 - [深度强化学习的 18 个关键问题](https://zhuanlan.zhihu.com/p/32153603)
-
 - [知乎专栏：强化学习路在何方？](https://zhuanlan.zhihu.com/p/39999667)
-
 - [The Promise of Hierarchical Reinforcement Learning (Mar. 2019, by Yannis Flet-Berliac)](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
-
 - [Reinforcement learning’s foundational flaw (Jul. 2018, by Andrey Kurenkov)](https://thegradient.pub/why-rl-is-flawed/)
 	- [AI科技评论译文 - 论强化学习的根本缺陷](https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247491939&idx=1&sn=4f67123ee48635672185e6a17c3a2104&chksm=ec5456e4db23dff28ac55411e9012ceee118bee98fb9f9a908a94887fc3f0ecbe9ef9f26074b&mpshare=1&scene=1&srcid=0726AM1AhQc0b552WGcrzCxF#rd)
-
 - [How to fix reinforcement learning (Jul. 2018, by Andrey Kurenkov)](https://thegradient.pub/how-to-fix-rl/)
-
 - [Lessons Learned Reproducing a Deep Reinforcement Learning Paper (Apr. 2018, by Amid Fish)](http://amid.fish/reproducing-deep-rl)
-
 - [Deep Reinforcement Learning Doesn't Work Yet (Feb. 2018, by Alexirpan)](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 	- [机器之心译文 - 变革尚未成功：深度强化学习研究的短期悲观与长期乐观](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650739470&idx=1&sn=8556f0261844848c62cae514cfa89103&chksm=871ad770b06d5e66d2b52cf985e70ad4995a1cec5fea7390335356eaa20cd94accad5cab8c4c&mpshare=1&scene=1&srcid=0419H6yX1ITVgMi11tHte6Ll#rd)
 
