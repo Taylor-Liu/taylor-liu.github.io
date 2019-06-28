@@ -35,6 +35,7 @@ title:  Information
 | [Michiel van de Panne](https://www.cs.ubc.ca/~van/papers/index.html) | UBC Computer Science; physics-based models of human movement; machine learning; animation; robotics |
 | [Josh Tobin](http://josh-tobin.com/) | Research Scientist at OpenAI | 
 | [Lilian Weng' Log](https://lilianweng.github.io/lil-log/) | Robotics @OpenAI |
+| [Shakir Mohamed](https://shakirm.com/) | `Research Scientist in Statistical Machine Learning and AI` | 
 
 **Facebook**
 
