@@ -34,6 +34,7 @@ title:  Information
 | [Hung-yi Lee 李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) | Associate Professor at National Taiwan University |
 | [Michiel van de Panne](https://www.cs.ubc.ca/~van/papers/index.html) | UBC Computer Science; physics-based models of human movement; machine learning; animation; robotics |
 | [Josh Tobin](http://josh-tobin.com/) | Research Scientist at OpenAI | 
+| [Lilian Weng' Log](https://lilianweng.github.io/lil-log/) | Robotics @OpenAI |
 
 **Facebook**
 
@@ -61,6 +62,7 @@ title:  Information
 | [François Chollet](https://twitter.com/fchollet) |Creator of Keras, neural networks library. Author of 'Deep Learning with Python'. | 
 | [Antonin Raffin](https://twitter.com/araffin2) | Researcher in robotics and machine learning (Reinforcement Learning). Member of Stable-Baselines team: [github.com/hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) |
 | [Papers with Code](https://twitter.com/paperswithcode) | A free resource for researchers and practitioners to find and follow the latest state-of-the-art ML papers and code. |
+| [Lilian Weng](https://twitter.com/lilianweng/) | Robotics @OpenAI |
 
 
 **Others**
