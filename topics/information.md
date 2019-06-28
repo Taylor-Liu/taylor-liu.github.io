@@ -64,6 +64,7 @@ title:  Information
 | [Antonin Raffin](https://twitter.com/araffin2) | Researcher in robotics and machine learning (Reinforcement Learning). Member of Stable-Baselines team: [github.com/hill-a/stable-baselines](https://github.com/hill-a/stable-baselines) |
 | [Papers with Code](https://twitter.com/paperswithcode) | A free resource for researchers and practitioners to find and follow the latest state-of-the-art ML papers and code. |
 | [Lilian Weng](https://twitter.com/lilianweng/) | Robotics @OpenAI |
+| [Shakir Mohamed](https://twitter.com/shakir_za) | `Research Scientist in Statistical Machine Learning and AI` | 
 
 
 **Others**
