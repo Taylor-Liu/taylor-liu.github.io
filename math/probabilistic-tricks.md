@@ -3,6 +3,8 @@ layout: page
 title: Probabilistic Tricks
 ---
 
+Slide: [https://www.shakirm.com/slides/MLSS2018-Madrid-ProbThinking.pdf](https://www.shakirm.com/slides/MLSS2018-Madrid-ProbThinking.pdf)
+
 <p style="text-align:center">
 	<img src="/math/prob-tricks/prob-trick_Page_01.jpg" />
 </p>
