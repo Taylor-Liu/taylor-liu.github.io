@@ -3,7 +3,7 @@ layout: page
 title: Mathematics for Machine Learning
 ---
 
-**数学与机器学习基础**
+### 数学与机器学习基础
 
 - From 《强化学习精要：核心算法与TensorFlow实现》
 - [[PDF]](/math/math-resources/数学与机器学习基础.pdf)
@@ -20,7 +20,7 @@ title: Mathematics for Machine Learning
 	- 机器学习的基本概念
 	- 机器学习的目标函数
 
-**优化算法**
+### 优化算法
 
 - From 《强化学习精要：核心算法与TensorFlow实现》
 - [[PDF]](/math/math-resources/优化算法.pdf)
@@ -40,7 +40,7 @@ title: Mathematics for Machine Learning
 		- Fisher信息矩阵
 		- 自然梯度法目标公式
 
-**基于置信域策略优化的强化学习方法**
+### 基于置信域策略优化的强化学习方法
 
 - From 《深入浅出强化学习》
 - [[PDF]](/math/math-resources/基于置信域策略优化的强化学习方法.pdf)
@@ -51,7 +51,7 @@ title: Mathematics for Machine Learning
 		- 优化方法
 
 
-**基于引导策略搜索的强化学习方法**
+### 基于引导策略搜索的强化学习方法
 
 - From 《深入浅出强化学习》
 - [[PDF]](/math/math-resources/基于引导策略搜索的强化学习方法.pdf)
