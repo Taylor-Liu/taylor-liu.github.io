@@ -32,6 +32,8 @@ navbar-links:
     - ML & DL: "topics/ml_dl"
     - RL: "topics/rl"
     - Robotics: "topics/robotics"
+    - NLP: "topics/nlp"
+    - Computer Vision: "topics/cv"
     - Code: "topics/code"
   Research: "research"
   Math:
