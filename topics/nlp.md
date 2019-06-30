@@ -17,8 +17,7 @@ title:  NLP
 
 ### Topics
 
-#### 注意力机制
-
+注意力机制
 - [深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
 
 ### Github
