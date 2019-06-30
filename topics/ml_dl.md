@@ -31,6 +31,8 @@ title: Machine Learning and Deep Learning
 - 在线书籍：[Deep Learning with Python](https://livebook.manning.com/#!/book/deep-learning-with-python/about-this-book/0)
 	- Keras之父François Chollet撰写
 
+- 在线书籍：[动手学深度学习](https://zh.d2l.ai/index.html)
+
 ### 强化学习实践
 
 - [如何在TensorFlow 2.0中构建强化学习智能体 (2019.01.21)](https://www.jiqizhixin.com/articles/2019-01-21-15?from=synced&keyword=%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
