@@ -15,6 +15,12 @@ title:  NLP
 - [Bert时代的创新（应用篇）：Bert在NLP各领域的应用进展](https://zhuanlan.zhihu.com/p/68446772)
 - [XLNet:运行机制及和Bert的异同比较](https://zhuanlan.zhihu.com/p/70257427)
 
+### Topics
+
+#### 注意力机制
+
+- [深度学习中的注意力模型（2017版）](https://zhuanlan.zhihu.com/p/37601161)
+
 ### Github
 
 - [CyberZHG/keras-bert](https://github.com/CyberZHG/keras-bert)
@@ -22,11 +28,14 @@ title:  NLP
 
 ### Talk
 
-
 将门分享14-刘洋-基于深度学习的机器翻译update.pdf
 
-BERT
+### Course
 
-BERT-Keras
+- Stanford, Winter 2019
+	- [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/index.html)
+- CMU CS 11-747, Spring 2019
+	- [Neural Networks for NLP](http://phontron.com/class/nn4nlp2019/#)
+
 
 
