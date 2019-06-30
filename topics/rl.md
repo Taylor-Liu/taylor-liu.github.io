@@ -8,6 +8,10 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 <img src="/topics/img/rl_framework.jpg" width="500" />
 </p>
 
+### 专栏
+
+- [知乎专栏：强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
+
 ### RL in Real World
 
 - Challenges of Real-World Reinforcement Learning [[Paper]](https://arxiv.org/pdf/1904.12901.pdf)
