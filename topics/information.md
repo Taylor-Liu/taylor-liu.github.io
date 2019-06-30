@@ -79,6 +79,7 @@ title:  Information
 		- 分享机器人控制和AI领域里的一些知识和感想，偏学术。由来自UC Berkeley, Stanford, CMU的研究者们原创撰稿。
 - [雷锋网：新智驾](https://www.leiphone.com/category/transportation)
 - [专知](http://www.zhuanzhi.ai/)
+- [将门创投资源（持续更新）](https://mp.weixin.qq.com/s/4n39W9JWAxDyxPYVvR3dBw)
 
 - 微信公众号
 	- 机器之心
