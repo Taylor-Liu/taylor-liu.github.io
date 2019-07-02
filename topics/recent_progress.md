@@ -143,6 +143,10 @@ title: Recent Progress
 
 ### 3. UC Berkeley
 
+- Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model
+	- Alex X. Lee, Anusha Nagabandi, Pieter Abbeel, Sergey Levine
+	- [[Project Home]](https://alexlee-gk.github.io/slac/) [[Github]](https://github.com/alexlee-gk/slac) [[Paper]](http://arxiv.org/abs/1907.00953) 
+
 - Learning to Learn with Probabilistic Task Embeddings
 	- Kate Rakelly; Jun 10, 2019
 	- Based on the ICML'19 paper: `Efficient Off-Policy Meta-RL via Probabilistic Context Variables`
