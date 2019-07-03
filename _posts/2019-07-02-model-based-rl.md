@@ -17,14 +17,14 @@ title: Model-based RL
 - [[Github]](https://github.com/iclavera/learning_to_adapt)
 
 
-**ICLR'18 - Model-Ensemble Trust-Region Policy Optimization**
+**ICLR'18 - (ME-TRPO) Model-Ensemble Trust-Region Policy Optimization**
 
 - Thanard  Kurutach, Ignasi Clavera, Yan Duan, Aviv Tamar, and Pieter Abbeel
 - UC Berkeley
 - [[Project Home]](https://sites.google.com/view/me-trpo) [[Github]](https://github.com/thanard/me-trpo) [[Paper]](https://openreview.net/pdf?id=SJJinbWRZ)
 
 
-**CORL'18 - Model-Based Reinforcement Learning via Meta-Policy Optimization**
+**CORL'18 - (MB-MPO) Model-Based Reinforcement Learning via Meta-Policy Optimization**
 
 - Ignasi Clavera, Jonas Rothfuss, John Schulman, Yasuhiro Fujita, Tamim Asfour, Pieter Abbeel
 - UC Berkeley
