@@ -3,26 +3,29 @@ layout: post
 title: Model-based RL
 ---
 
-**ProMP: Proximal Meta-Policy Search**
+**ICLR'19 - ProMP: Proximal Meta-Policy Search**
 
 - Jonas Rothfuss, Dennis Lee, Ignasi Clavera, Tamim Asfour, Pieter Abbeel
 - UC Berkeley
-- ICLR'19
 - [[Project Home]](https://sites.google.com/view/pro-mp) [[Github]](https://github.com/jonasrothfuss/ProMP) [[Poster]](https://s3.amazonaws.com/postersession.ai/7822e5a9-cb97-40ba-8f8e-8395fa4cf03e.pdf)
 
 
-**Learning to Adapt in Dynamic, Real-World Environment through Meta-Reinforcement Learning**
+**ICLR'19 - Learning to Adapt in Dynamic, Real-World Environment through Meta-Reinforcement Learning**
 
 - Anusha Nagabandi, Ignasi Clavera, Simin Liu, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, Chelsea Finn
 - UC Berkeley
-- ICLR'19
 - [[Github]](https://github.com/iclavera/learning_to_adapt)
 
 
+**ICLR'18 - Model-Ensemble Trust-Region Policy Optimization**
 
-**Model-Based Reinforcement Learning via Meta-Policy Optimization**
+- Thanard  Kurutach, Ignasi Clavera, Yan Duan, Aviv Tamar, and Pieter Abbeel
+- UC Berkeley
+- [[Project Home]](https://sites.google.com/view/me-trpo) [[Github]](https://github.com/thanard/me-trpo) [[Paper]](https://openreview.net/pdf?id=SJJinbWRZ)
+
+
+**CORL'18 - Model-Based Reinforcement Learning via Meta-Policy Optimization**
 
 - Ignasi Clavera, Jonas Rothfuss, John Schulman, Yasuhiro Fujita, Tamim Asfour, Pieter Abbeel
 - UC Berkeley
-- CORL'18
 - [[Project Home]](https://sites.google.com/view/mb-mpo/home) [[Github]](https://github.com/jonasrothfuss/model_ensemble_meta_learning)
