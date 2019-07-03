@@ -13,8 +13,7 @@ title: Model-based RL
 
 - Anusha Nagabandi, Ignasi Clavera, Simin Liu, Ronald S. Fearing, Pieter Abbeel, Sergey Levine, Chelsea Finn
 - UC Berkeley
-- [Blog: Robots that Learn to Adapt](https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/)
-- [[Project Home]](https://sites.google.com/berkeley.edu/metaadaptivecontrol) [[Github]](https://github.com/iclavera/learning_to_adapt) [[Poster]](https://s3.amazonaws.com/postersession.ai/6953f332-e782-4315-b657-10fd02fb10fa.pdf)
+- [[Project Home]](https://sites.google.com/berkeley.edu/metaadaptivecontrol) [[Github]](https://github.com/iclavera/learning_to_adapt) [[Poster]](https://s3.amazonaws.com/postersession.ai/6953f332-e782-4315-b657-10fd02fb10fa.pdf) [[Blog]](https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/)
 
 **ICLR'19 - Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL**
 
