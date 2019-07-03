@@ -3,12 +3,11 @@ layout: post
 title: Model-based RL
 ---
 
-**ICLR'19 - ProMP: Proximal Meta-Policy Search**
+**2019 - Exploring Model-based Planning with Policy Networks**
 
-- Jonas Rothfuss, Dennis Lee, Ignasi Clavera, Tamim Asfour, Pieter Abbeel
-- UC Berkeley
-- [[Project Home]](https://sites.google.com/view/pro-mp) [[Github]](https://github.com/jonasrothfuss/ProMP) [[Poster]](https://s3.amazonaws.com/postersession.ai/7822e5a9-cb97-40ba-8f8e-8395fa4cf03e.pdf)
-
+- Tingwu Wang, Jimmy Ba
+- University of Toronto
+- [[Github]](https://github.com/WilsonWangTHU/POPLIN) [[Paper]](https://arxiv.org/pdf/1906.08649) 
 
 **ICLR'19 - Learning to Adapt in Dynamic, Real-World Environment through Meta-Reinforcement Learning**
 
@@ -16,6 +15,17 @@ title: Model-based RL
 - UC Berkeley
 - [[Github]](https://github.com/iclavera/learning_to_adapt)
 
+**ICLR'19 - Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL**
+
+- Anusha Nagabandi, Chelsea Finn, Sergey Levine
+- UC Berkeley
+- [[Project Home]]() [[Paper]](https://openreview.net/pdf?id=HyxAfnA5tm) [[Poster]](https://s3.amazonaws.com/postersession.ai/9ab74406-2565-4a43-a863-e8e4a50e727c.pdf)
+
+**ICLR'19 - ProMP: Proximal Meta-Policy Search**
+
+- Jonas Rothfuss, Dennis Lee, Ignasi Clavera, Tamim Asfour, Pieter Abbeel
+- UC Berkeley
+- [[Project Home]](https://sites.google.com/view/pro-mp) [[Github]](https://github.com/jonasrothfuss/ProMP) [[Poster]](https://s3.amazonaws.com/postersession.ai/7822e5a9-cb97-40ba-8f8e-8395fa4cf03e.pdf)
 
 **ICLR'18 - (ME-TRPO) Model-Ensemble Trust-Region Policy Optimization**
 
