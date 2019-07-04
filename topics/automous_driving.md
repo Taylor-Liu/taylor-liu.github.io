@@ -220,6 +220,8 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [开发者说 - Apollo控制算法之LQR](https://mp.weixin.qq.com/s/WbTtBjeUmBeS3OQgaFG4eA)
 - [技术文档 - 二次规划（QP）样条路径](https://mp.weixin.qq.com/s/Ofn-p8NnnO4kLYqTlL0bJg)
 
+- [终极解析：“唤醒万物”的Apollo5.0来了！](https://mp.weixin.qq.com/s/s7uf-99MX95fTXE1CC_X4Q)
+
 
 ### 9. 相关课程
 
@@ -359,6 +361,8 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 国内
 - Apollo(2018) [[PDF]](/topics/data/safety-report/2018-Apollo-safety-report.pdf)
+- 自动驾驶安全白皮书(2019) [[PDF]](http://apollo.auto/docment/Safety_First_for_Automated_Driving_handover_to_PR.pdf)
+- 高精地图安全白皮书(2019) [[PDF]](http://apollo.auto/docment/Reliable_and_Safe_maps_for_Automated_driving.pdf)
 
 国外
 - Waymo(2017) [[PDF]](/topics/data/safety-report/2017-Waymo-on_the_road_to_fully_self-driving.pdf)
