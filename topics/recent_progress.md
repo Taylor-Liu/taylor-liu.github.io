@@ -5,10 +5,6 @@ title: Recent Progress
 
 ### Coming!
 
-- Robotics: Science and Systems (RSS)
-	- Time: `June 22-26, 2019`
-	- [[Homepage]](http://www.roboticsconference.org/)
-
 - IJCAI2019
 	- Time: `August 10-16 2019`
 	- Location: Macao, China
@@ -24,6 +20,13 @@ title: Recent Progress
 	- Recordings of the talks & PDFs of the posters will be uploaded in the next couple of days. 
 
 ### New!
+
+- Robotics: Science and Systems (RSS)
+	- Time: `June 22-26, 2019`
+	- [[Homepage]](http://www.roboticsconference.org/)
+	- Workshop
+		- [Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation](https://sim2real.github.io/)
+			- with slides
 
 - CVPR2019
 	- Time: `June 16-20, 2019`
