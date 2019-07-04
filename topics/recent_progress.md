@@ -147,7 +147,7 @@ title: Recent Progress
 	- Alex X. Lee, Anusha Nagabandi, Pieter Abbeel, Sergey Levine
 	- [[Project Home]](https://alexlee-gk.github.io/slac/) [[Github]](https://github.com/alexlee-gk/slac) [[Paper]](http://arxiv.org/abs/1907.00953) 
 
-- Learning to Learn with Probabilistic Task Embeddings
+- (PEARL) Learning to Learn with Probabilistic Task Embeddings
 	- Kate Rakelly; Jun 10, 2019
 	- Based on the ICML'19 paper: `Efficient Off-Policy Meta-RL via Probabilistic Context Variables`
 	- [[Blog]](https://bair.berkeley.edu/blog/2019/06/10/pearl/) [[Blog-中文]](http://www.zhuanzhi.ai/document/f550788d62a83e6a6ffef55f1857a561) [[Paper]](https://arxiv.org/abs/1903.08254) [[Github]](https://github.com/katerakelly/oyster) [[Slide]](https://icml.cc/media/Slides/icml/2019/hallb(12-11-00)-12-12-15-4607-efficient_off-p.pdf)
