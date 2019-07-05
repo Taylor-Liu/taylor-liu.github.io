@@ -3,6 +3,16 @@ layout: page
 title: Mathematics for Machine Learning
 ---
 
+### 贝叶斯推理 & 变分推理 (variational inference)
+
+- [深度学习贝叶斯，这是一份密集的6天速成课程（视频与PPT）（机器之心, 2018.09.07）](https://mp.weixin.qq.com/s/KDARm-tgQ0pVhV3TKsoqrQ)
+- [贝叶斯机器学习前沿进展 (人工智能学家, 2018.01.21](https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2649846553&idx=1&sn=9e60361c5795fe2dd7cfc6cc4735f286&chksm=8f7c13deb80b9ac8a3df084906652a20b6361f5fc209ea919ac621bae6399b6f71af5997c6d7&mpshare=1&scene=1&srcid=01221sj8TFKAesOjSLCl9phL%23rd)
+- [VAE variation inference变分推理 清爽介绍 (CreateAMind, 2016.11.06)](https://mp.weixin.qq.com/s/9lNWkEEOk5vEkJ1f840zxA)
+
+### 信息论
+
+- [从香农熵到手推KL散度：一文带你纵览机器学习中的信息论](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736188&idx=1&sn=05c4841eca8e72525dac6f6aff3b7690&chksm=871ac242b06d4b54381d9f7c6f11cfb8a44c803809edcd3d9c5fb84f3a5f2586022ae17b90d3&mpshare=1&scene=1&srcid=01142MsdLC8qk8AjNma1JVTC%23rd)
+
 ### 数学与机器学习基础
 
 - From 《强化学习精要：核心算法与TensorFlow实现》
