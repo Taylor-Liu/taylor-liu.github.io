@@ -12,6 +12,39 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 - [知乎专栏：强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
 
+### Model-based RL
+
+- Blog
+	- Jonathan Hui
+		- [RL — LQR & iLQR Linear Quadratic Regulator](https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750)
+		- [RL — Model-based Reinforcement Learning](https://medium.com/@jonathan_hui/rl-model-based-reinforcement-learning-3c2b6f0aa323)
+	- [Week 6 - Model-based RL](https://hollygrimm.com/rl_modelbased)
+
+- Related Works
+	- 2019 - Benchmarking Model-Based Reinforcement Learning
+		- [Tingwu Wang](https://t.co/ja6y9tA496), Xuchan Bao, Ignasi Clavera, Jerrick Hoang, Yeming Wen, Eric Langlois, Shunshi Zhang, Guodong Zhang, Pieter Abbeel, Jimmy Ba
+		- University of Toronto & UC Berkeley & Vector Institute
+		- [[Project Home]](http://www.cs.toronto.edu/~tingwuwang/mbrl.html) [[Github]](https://github.com/WilsonWangTHU/mbbl) [[Paper]](https://arxiv.org/abs/1907.02057.pdf)
+	- 2019 - Exploring Model-based Planning with Policy Networks
+		- [Tingwu Wang](https://t.co/ja6y9tA496), Jimmy Ba
+		- University of Toronto
+		- [[Github]](https://github.com/WilsonWangTHU/POPLIN) [[Paper]](https://arxiv.org/pdf/1906.08649.pdf)
+	- 2019 - Baconian: A Unified Opensource Framework for Model-Based Reinforcement Learning
+	 	- [Linsen Dong](https://sites.google.com/view/linsendong/), Guanyu Gao, Yuanlong Li, Yonggang Wen
+		- Nanyang Technological University
+		- [[Github]](https://github.com/Lukeeeeee/baconian-project) [[Paper]](https://arxiv.org/pdf/1904.10762.pdf)
+	- ICLR'19 - ProMP: Proximal Meta-Policy Search
+		- Jonas Rothfuss, Dennis Lee, Ignasi Clavera, Tamim Asfour, Pieter Abbeel
+		- UC Berkeley
+		- [[Project Home]](https://sites.google.com/view/pro-mp) [[Github]](https://github.com/jonasrothfuss/ProMP) [[Poster]](https://s3.amazonaws.com/postersession.ai/7822e5a9-cb97-40ba-8f8e-8395fa4cf03e.pdf) 
+
+- [Meta-Policy Search’s documentation](https://promp.readthedocs.io/en/latest/index.html), including
+	- ProMP: Proximal Meta-Policy Search (Rothfuss et al., 2018)
+	- MAML: Model Agnostic Meta-Learning (Finn et al., 2017)
+	- E-MAML: Exploration MAML (Al-Shedivat et al., 2018, Stadie et al., 2018)
+
+
+
 ### RL in Real World
 
 - Challenges of Real-World Reinforcement Learning [[Paper]](https://arxiv.org/pdf/1904.12901.pdf)
