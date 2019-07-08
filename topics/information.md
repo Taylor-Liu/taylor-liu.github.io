@@ -36,6 +36,8 @@ title:  Information
 | [Josh Tobin](http://josh-tobin.com/) | Research Scientist at OpenAI | 
 | [Lilian Weng' Log](https://lilianweng.github.io/lil-log/) | Robotics @OpenAI |
 | [Shakir Mohamed](https://shakirm.com/) | `Research Scientist in Statistical Machine Learning and AI` | 
+| [François Chollet](https://fchollet.com/) |Creator of Keras, neural networks library. Author of 'Deep Learning with Python'. | 	
+
 
 **Facebook**
 
