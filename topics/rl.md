@@ -21,6 +21,10 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 	- [Week 6 - Model-based RL](https://hollygrimm.com/rl_modelbased)
 
 - Related Works
+	- 2019 - Dynamics-Aware Unsupervised Discovery of Skills
+		- Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman
+		- Google Brain
+		- [[Project Home]](https://sites.google.com/view/dads-skill)
 	- 2019 - Benchmarking Model-Based Reinforcement Learning
 		- [Tingwu Wang](https://t.co/ja6y9tA496), Xuchan Bao, Ignasi Clavera, Jerrick Hoang, Yeming Wen, Eric Langlois, Shunshi Zhang, Guodong Zhang, Pieter Abbeel, Jimmy Ba
 		- University of Toronto & UC Berkeley & Vector Institute
