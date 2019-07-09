@@ -38,8 +38,8 @@ navbar-links:
   Research: "research"
   Math:
     - Probabilistic Tricks: "math/probabilistic-tricks"
-    - Mathematics for Machine Learning: "math/math-resources"
     - Probability Cheatsheet: "math/probability_cheatsheet.pdf"
+    - Mathematics for Machine Learning: "math/math-resources"    
   About: "aboutme"
 
 
