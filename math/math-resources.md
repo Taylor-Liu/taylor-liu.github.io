@@ -13,6 +13,12 @@ title: Mathematics for Machine Learning
 
 - [从香农熵到手推KL散度：一文带你纵览机器学习中的信息论](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736188&idx=1&sn=05c4841eca8e72525dac6f6aff3b7690&chksm=871ac242b06d4b54381d9f7c6f11cfb8a44c803809edcd3d9c5fb84f3a5f2586022ae17b90d3&mpshare=1&scene=1&srcid=01142MsdLC8qk8AjNma1JVTC%23rd)
 
+### 高斯过程 & 混合高斯模型 (GP & GMM)
+
+- [Jonathan Hui blog: “Machine learning - Gaussian Process”](https://jhui.github.io/2017/01/15/Machine-learning-gaussian-process/#gaussian-process-gp)
+- [Ever Wondered Why Normal Distribution Is So Important?](https://medium.com/fintechexplained/ever-wondered-why-normal-distribution-is-so-important-110a482abee3)
+	- [机器之心译文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650765449&idx=1&sn=aa2e46c8bed1061f804aaf65231445ea&chksm=871abcf7b06d35e1ba2cb6bc8ea54b86173e2bb3cc6d2910556e1028a762fe041dfb5c6eddef&mpshare=1&scene=1&srcid=%23rd)
+
 ### 数学与机器学习基础
 
 - From 《强化学习精要：核心算法与TensorFlow实现》
