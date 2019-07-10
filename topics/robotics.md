@@ -14,6 +14,7 @@ title: Robotics
 
 `ROS2`
 
+- [Awesome Robot Operating System 2 (ROS 2) ](https://fkromer.github.io/awesome-ros2/)
 - In ROSCon2018
 	- Hands-on ROS 2: A Walkthrough [[Video]](https://vimeo.com/292693129)[[Slide]](https://roscon.ros.org/2018/presentations/ROSCon2018_ROS2HandsOn.pdf)
 		- In this talk we show the current state of ROS 2 features through hands-on demonstrations. We guide the developer through a set of features and functionalities of ROS 2 beginning with creating a simple “hello world” package and consecutively increasing functionality. We show how to launch multiple nodes, how lifecycle nodes can be used to bootstrap a complete system, through to how the ROS 2 security features can be utilized to secure applications. This talk is meant to highlight the newly available features and tools of ROS 2 and aims to incline developers to start working with it.
