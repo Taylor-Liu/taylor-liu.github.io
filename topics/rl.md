@@ -37,6 +37,8 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 	 	- [Linsen Dong](https://sites.google.com/view/linsendong/), Guanyu Gao, Yuanlong Li, Yonggang Wen
 		- Nanyang Technological University
 		- [[Github]](https://github.com/Lukeeeeee/baconian-project) [[Paper]](https://arxiv.org/pdf/1904.10762.pdf)
+	- ICML'19 Workshop - When to Trust Your Model: Model-Based Policy Optimization
+		- [[Project Home]](https://people.eecs.berkeley.edu/~janner/mbpo/) [[Paper]](https://arxiv.org/abs/1906.08253) [[Slide]](topics/data/rl/trust_mbpo.pdf)
 	- ICLR'19 - ProMP: Proximal Meta-Policy Search
 		- Jonas Rothfuss, Dennis Lee, Ignasi Clavera, Tamim Asfour, Pieter Abbeel
 		- UC Berkeley
