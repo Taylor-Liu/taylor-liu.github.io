@@ -26,6 +26,7 @@ navbar-links:
   Blog: ""
   Topic: 
     - Information: "topics/information"
+    - Research Skills: "research"
     - Recent Progress: "topics/recent_progress"
     - Automous Driving: "topics/automous_driving"
     - Character Animation: "topics/character_animation"
