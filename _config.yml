@@ -26,7 +26,7 @@ navbar-links:
   Blog: ""
   Topic: 
     - Information: "topics/information"
-    - Research Skills: "research"
+    - Research Skills: "topics/research"
     - Recent Progress: "topics/recent_progress"
     - Automous Driving: "topics/automous_driving"
     - Character Animation: "topics/character_animation"
@@ -43,7 +43,6 @@ navbar-links:
     - Probabilistic Tricks: "math/probabilistic-tricks"
     - Probability Cheatsheet: "math/probability_cheatsheet.pdf"
     - Mathematics for Machine Learning: "math/math-resources"    
-  Research: "research"
   About: "aboutme"
 
 
