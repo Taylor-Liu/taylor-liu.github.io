@@ -81,5 +81,40 @@ title: Mathematics for Machine Learning
 		- ADMM算法
 		- KL散度与变分推理
 
+### 基于模型的强化学习方法：PILCO及其扩展
+
+- From 《深入浅出强化学习》
+- [[PDF]](math/math-resources/PILCO及其扩展.pdf)
+- 内容
+	- 概述
+	- PILCO
+	- 滤波PILCO和探索PILCO
+		- 滤波PILCO算法
+		- 有向探索PILCO算法
+	- 深度PILCO
+
+### iLQR
+
+- From 《强化学习精要：核心算法与TensorFlow实现》
+- [[PDF]](math/math-resources/iLQR.pdf)
+- 内容
+	- 线性模型的求解法
+	- 非线性模型的求解法
+	- iLQR的实现
+		- 基于连续行动的平衡车环境
+		- iLQR算法
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
