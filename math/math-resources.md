@@ -8,6 +8,7 @@ title: Mathematics for Machine Learning
 - [深度学习贝叶斯，这是一份密集的6天速成课程（视频与PPT）（机器之心, 2018.09.07）](https://mp.weixin.qq.com/s/KDARm-tgQ0pVhV3TKsoqrQ)
 - [贝叶斯机器学习前沿进展 (人工智能学家, 2018.01.21](https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2649846553&idx=1&sn=9e60361c5795fe2dd7cfc6cc4735f286&chksm=8f7c13deb80b9ac8a3df084906652a20b6361f5fc209ea919ac621bae6399b6f71af5997c6d7&mpshare=1&scene=1&srcid=01221sj8TFKAesOjSLCl9phL%23rd)
 - [VAE variation inference变分推理 清爽介绍 (CreateAMind, 2016.11.06)](https://mp.weixin.qq.com/s/9lNWkEEOk5vEkJ1f840zxA)
+- [Bayesian inference problem, MCMC and variational inference](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
 
 ### 信息论
 
@@ -18,6 +19,8 @@ title: Mathematics for Machine Learning
 - [Jonathan Hui blog: “Machine learning - Gaussian Process”](https://jhui.github.io/2017/01/15/Machine-learning-gaussian-process/#gaussian-process-gp)
 - [Ever Wondered Why Normal Distribution Is So Important?](https://medium.com/fintechexplained/ever-wondered-why-normal-distribution-is-so-important-110a482abee3)
 	- [机器之心译文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650765449&idx=1&sn=aa2e46c8bed1061f804aaf65231445ea&chksm=871abcf7b06d35e1ba2cb6bc8ea54b86173e2bb3cc6d2910556e1028a762fe041dfb5c6eddef&mpshare=1&scene=1&srcid=%23rd)
+- [看得见的高斯过程：这是一份直观的入门解读](https://mp.weixin.qq.com/s/FJAgpbBgRA2Zk3BuiEwjdw)
+- [干货|通俗讲解高斯过程回归](https://mp.weixin.qq.com/s/AsfNxoIk62cMSRymTB1QFA)
 
 ### 数学与机器学习基础
 
