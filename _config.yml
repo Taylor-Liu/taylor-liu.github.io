@@ -38,7 +38,7 @@ navbar-links:
     - Computer Vision: "topics/cv"
     - Code: "topics/code"
   RL:
-    - Overview: "topics/rl"
+    - Overview: "rl/overview"
   Math:
     - Probabilistic Tricks: "math/probabilistic-tricks"
     - Probability Cheatsheet: "math/probability_cheatsheet.pdf"
