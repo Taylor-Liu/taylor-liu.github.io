@@ -36,11 +36,13 @@ navbar-links:
     - NLP: "topics/nlp"
     - Computer Vision: "topics/cv"
     - Code: "topics/code"
-  Research: "research"
+  RL:
+    - Overview: "topics/rl"
   Math:
     - Probabilistic Tricks: "math/probabilistic-tricks"
     - Probability Cheatsheet: "math/probability_cheatsheet.pdf"
     - Mathematics for Machine Learning: "math/math-resources"    
+  Research: "research"
   About: "aboutme"
 
 
