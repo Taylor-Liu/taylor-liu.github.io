@@ -31,7 +31,6 @@ navbar-links:
     - Automous Driving: "topics/automous_driving"
     - Character Animation: "topics/character_animation"
     - ML & DL: "topics/ml_dl"
-    - RL: "topics/rl"
     - Robotics: "topics/robotics"
     - Robot Manipulation: "topics/manipulation"
     - NLP: "topics/nlp"
