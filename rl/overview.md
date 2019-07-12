@@ -12,6 +12,14 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 - [知乎专栏：强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
 
+### Blog
+
+- [Jonathan Hui: Reinforcement Learning Terms](https://medium.com/@jonathan_hui/rl-reinforcement-learning-terms-242baac11907)
+- [Reliability in Reinforcement Learning (June 6, 2019; Microsoft Research Blog)](https://www.microsoft.com/en-us/research/blog/reliability-in-reinforcement-learning/)
+- [Abstraction and RL: Literature Overview (Mar. 9, 2019)](https://david-abel.github.io/blog/posts/rl_abstr.html)
+- [Meta Reinforcement Learning (June 23, 2019)](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
+- [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#d4pg)
+
 ### Model-based RL
 
 - Blog
@@ -62,10 +70,6 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 - Blog
 	- [Domain Randomization for Sim2Real Transfer (May, 2019)](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)
-	- [Reliability in Reinforcement Learning (June 6, 2019; Microsoft Research Blog)](https://www.microsoft.com/en-us/research/blog/reliability-in-reinforcement-learning/)
-	- [Abstraction and RL: Literature Overview (Mar. 9, 2019)](https://david-abel.github.io/blog/posts/rl_abstr.html)
-	- [Meta Reinforcement Learning (June 23, 2019)](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
-	- [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#d4pg)
 
 ### RL Paper Slide and Code
 
