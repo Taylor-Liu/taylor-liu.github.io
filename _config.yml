@@ -38,6 +38,7 @@ navbar-links:
     - Code: "topics/code"
   RL:
     - Overview: "rl/overview"
+    - Off-policy RL: "rl/off-policy-rl"
   Math:
     - Probabilistic Tricks: "math/probabilistic-tricks"
     - Probability Cheatsheet: "math/probability_cheatsheet.pdf"
