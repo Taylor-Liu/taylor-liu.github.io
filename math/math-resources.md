@@ -84,7 +84,7 @@ title: Mathematics for Machine Learning
 ### 基于模型的强化学习方法：PILCO及其扩展
 
 - From 《深入浅出强化学习》
-- [[PDF]](math/math-resources/PILCO及其扩展.pdf)
+- [[PDF]](/math/math-resources/PILCO及其扩展.pdf)
 - 内容
 	- 概述
 	- PILCO
@@ -96,7 +96,7 @@ title: Mathematics for Machine Learning
 ### iLQR
 
 - From 《强化学习精要：核心算法与TensorFlow实现》
-- [[PDF]](math/math-resources/iLQR.pdf)
+- [[PDF]](/math/math-resources/iLQR.pdf)
 - 内容
 	- 线性模型的求解法
 	- 非线性模型的求解法
