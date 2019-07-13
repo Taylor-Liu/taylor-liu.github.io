@@ -78,6 +78,8 @@ title: Autonomous Driving
 - [自动驾驶中有哪些路径规划框架?](https://zhuanlan.zhihu.com/p/43405664)
 - [PythonRobotics: Python sample codes for robotics algorithms](https://atsushisakai.github.io/PythonRobotics/)
 
+- [Antonin RAFFIN: Learning to Drive Smoothly in Minutes (June 27, 2019)](https://towardsdatascience.com/learning-to-drive-smoothly-in-minutes-450a7cdb35f4)
+
 `相关分享`
 
 - 自动驾驶大脑设计思路探析（智行者）[[Slide]](/topics/data/自动驾驶大脑设计思路探析.pdf)
