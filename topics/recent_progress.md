@@ -21,6 +21,11 @@ title: Recent Progress
 
 ### New!
 
+- MLSS 2019
+	- Time: July 15-26, 2019
+	- Location: London, UK
+	- [[Home]](https://sites.google.com/view/mlss-2019/home) [[Facebook]](https://www.facebook.com/uclcsml)
+
 - Robotics: Science and Systems (RSS)
 	- Time: `June 22-26, 2019`
 	- [[Homepage]](http://www.roboticsconference.org/)
