@@ -36,7 +36,8 @@ title:  Information
 | [Josh Tobin](http://josh-tobin.com/) | Research Scientist at OpenAI | 
 | [Lilian Weng' Log](https://lilianweng.github.io/lil-log/) | Robotics @OpenAI |
 | [Shakir Mohamed](https://shakirm.com/) | `Research Scientist in Statistical Machine Learning and AI` | 
-| [François Chollet](https://fchollet.com/) |Creator of Keras, neural networks library. Author of 'Deep Learning with Python'. | 	
+| [François Chollet](https://fchollet.com/) |Creator of Keras, neural networks library. Author of 'Deep Learning with Python'. | 
+| [Marc Deisenroth](https://sites.google.com/view/marcdeisenroth) | Statistical Machine Learning and Autonomous Systems |	
 
 
 **Facebook**
@@ -67,6 +68,7 @@ title:  Information
 | [Papers with Code](https://twitter.com/paperswithcode) | A free resource for researchers and practitioners to find and follow the latest state-of-the-art ML papers and code. |
 | [Lilian Weng](https://twitter.com/lilianweng/) | Robotics @OpenAI |
 | [Shakir Mohamed](https://twitter.com/shakir_za) | `Research Scientist in Statistical Machine Learning and AI` | 
+| [Marc Deisenroth](https://twitter.com/mpd37) | Statistical Machine Learning and Autonomous Systems |
 
 
 **Others**
