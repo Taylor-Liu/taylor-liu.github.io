@@ -39,6 +39,7 @@ navbar-links:
   RL:
     - Overview: "rl/overview"
     - Off-policy RL: "rl/off-policy-rl"
+    - RL Practice: "rl/practice"
   Math:
     - Probabilistic Tricks: "math/probabilistic-tricks"
     - Probability Cheatsheet: "math/probability_cheatsheet.pdf"
