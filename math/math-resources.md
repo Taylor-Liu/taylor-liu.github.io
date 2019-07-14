@@ -24,7 +24,11 @@ title: Mathematics for Machine Learning
 
 ### 不确定性建模
 
-- [如何创造可信任的机器学习模型？先要理解不确定性（机器之心编译, 2019.01.07）](https://mp.weixin.qq.com/s/1rmNgShaBbpoeZ3cWCMPLw)
+- [Uncertainty: a Tutorial](https://blog.evjang.com/2018/12/uncertainty.html)
+	- [如何创造可信任的机器学习模型？先要理解不确定性（机器之心编译, 2019.01.07）](https://mp.weixin.qq.com/s/1rmNgShaBbpoeZ3cWCMPLw)
+
+- Course
+	- [CSC2541: Scalable and Flexible Models of Uncertainty (University of Toronto, Fall 2017)](https://csc2541-f17.github.io/)
 
 ### 数学与机器学习基础
 
