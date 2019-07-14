@@ -22,6 +22,10 @@ title: Mathematics for Machine Learning
 - [看得见的高斯过程：这是一份直观的入门解读](https://mp.weixin.qq.com/s/FJAgpbBgRA2Zk3BuiEwjdw)
 - [干货：通俗讲解高斯过程回归](https://mp.weixin.qq.com/s/AsfNxoIk62cMSRymTB1QFA)
 
+### 不确定性建模
+
+- [如何创造可信任的机器学习模型？先要理解不确定性（机器之心编译, 2019.01.07）](https://mp.weixin.qq.com/s/1rmNgShaBbpoeZ3cWCMPLw)
+
 ### 数学与机器学习基础
 
 - From 《强化学习精要：核心算法与TensorFlow实现》
