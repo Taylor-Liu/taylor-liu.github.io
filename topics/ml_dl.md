@@ -23,7 +23,6 @@ title: Machine Learning and Deep Learning
 
 - [Troubleshooting Deep Neural Networks](http://josh-tobin.com/troubleshooting-deep-neural-networks) (By [Josh Tobin](http://josh-tobin.com/)) [[Slide]](http://josh-tobin.com/assets/pdf/troubleshooting-deep-neural-networks-01-19.pdf)
 
-
 - [深度学习模型大合集：GitHub趋势榜第一，两天斩获2000星](https://mp.weixin.qq.com/s/NdMBNTgqWWFQjLhlGQb56A)
 
 ### 深度学习实践
@@ -35,14 +34,6 @@ title: Machine Learning and Deep Learning
 
 - [tf.keras for Researchers: Crash Course.ipynb](https://colab.research.google.com/drive/14CvUNTaX1OFHDfaKaaZzrBsvMfhCOHIR)
 	- by François Chollet
-
-### 强化学习实践
-
-- [如何在TensorFlow 2.0中构建强化学习智能体 (2019.01.21)](https://www.jiqizhixin.com/articles/2019-01-21-15?from=synced&keyword=%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
-  - [英文原版](http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/)
-- [OpenAI Spinning Up](http://spinningup.openai.com/en/latest/index.html)
-- [Github: keiohta/tf2rl](https://github.com/keiohta/tf2rl)
-	- TensorFlow2.0 Reinforcement Learning
 
 ### 分布式训练
 
@@ -67,3 +58,6 @@ title: Machine Learning and Deep Learning
 
 - Deep Learning Indaba 2018: Generative Models [[Slide]](http://www.deeplearningindaba.com/uploads/1/0/2/6/102657286/indaba-genmodels-shakir.pdf)
 
+### 集成方法(Ensemble methods)
+
+- [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
