@@ -12,6 +12,14 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 - [知乎专栏：强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
 
+### Course
+
+- [StarAi: Deep Reinforcement Learning Course](https://www.starai.io/course/)
+
+### Recent Papers
+
+- [2019 - Modern Deep Reinforcement Learning Algorithms](https://arxiv.org/pdf/1906.10025.pdf)
+
 ### Blog
 
 - [Jonathan Hui: Reinforcement Learning Terms](https://medium.com/@jonathan_hui/rl-reinforcement-learning-terms-242baac11907)
