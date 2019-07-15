@@ -39,6 +39,7 @@ navbar-links:
   RL:
     - Overview: "rl/overview"
     - Off-policy RL: "rl/off-policy-rl"
+    - Model-based RL: "rl/mbrl"
     - RL Practice: "rl/practice"
   Math:
     - Probabilistic Tricks: "math/probabilistic-tricks"
