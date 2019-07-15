@@ -15,6 +15,7 @@ title: Model-based RL
 | [Vitchyr H. Pong](http://people.eecs.berkeley.edu/~vitchyr/) | UC Berkeley |
 | [Anusha Nagabandi](https://people.eecs.berkeley.edu/~nagaban2/index.html) | UC Berkeley |
 | [Ignasi Clavera](https://iclavera.github.io/) | UC Berkeley |
+| [Tingwu Wang](https://t.co/ja6y9tA496) | University of Toronto |
 
 ### Blog
 
