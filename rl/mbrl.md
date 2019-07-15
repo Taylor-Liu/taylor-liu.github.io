@@ -34,6 +34,7 @@ Jonathan Hui
 
 Others
 - [Week 6 - Model-based RL](https://hollygrimm.com/rl_modelbased)
+- [Reinforcement Learning — Model Based Planning Methods Extension](https://towardsdatascience.com/reinforcement-learning-model-based-planning-methods-extension-572dfee4cceb)
 
 ### Library
 
