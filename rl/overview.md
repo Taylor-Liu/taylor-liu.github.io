@@ -28,17 +28,6 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 - [Meta Reinforcement Learning (June 23, 2019)](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#d4pg)
 
-### RL in Real World
-
-- Challenges of Real-World Reinforcement Learning [[Paper]](https://arxiv.org/pdf/1904.12901.pdf)
-	- Gabriel Dulac-Arnold, Daniel Mankowitz, Todd Hester
-	- Google Brain, DeepMind
-	- 2019
-
-### Sim-to-Real
-
-- Blog
-	- [Domain Randomization for Sim2Real Transfer (May, 2019)](https://lilianweng.github.io/lil-log/2019/05/05/domain-randomization.html)
 
 ### RL Paper Slide and Code
 
@@ -70,6 +59,9 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 			- Scott Fujimoto · David Meger · Doina Precup
 			- [[Slide]](https://icml.cc/media/Slides/icml/2019/hallb(11-11-00)-11-12-05-4583-off-policy_deep.pdf) [[Github]](https://github.com/sfujim/BCQ)
 
+### Conference
+
+- [Reinforcement Learning Summer Scool (RLSS) - 2019](https://rlss.inria.fr/program/)
 
 ### DRL Workshop
 
