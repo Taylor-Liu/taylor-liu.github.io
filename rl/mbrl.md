@@ -96,6 +96,12 @@ Others
 - UC Berkeley
 - [[Project Home]](https://sites.google.com/view/pro-mp) [[Github]](https://github.com/jonasrothfuss/ProMP) [[Poster]](https://s3.amazonaws.com/postersession.ai/7822e5a9-cb97-40ba-8f8e-8395fa4cf03e.pdf)
 
+**NIPS'18 - (STEVE) Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion**
+
+- Jacob Buckman, Danijar Hafner, George Tucker, Eugene Brevdo, Honglak Lee
+- Google Brain
+- [[Project Home]](https://danijar.com/project/steve/) [[Github]](https://github.com/tensorflow/models/tree/master/research/steve) [[Poster]](https://danijar.com/asset/steve/poster.pdf) [[Paper]](https://arxiv.org/pdf/1807.01675.pdf) 
+
 **ICLR'18 - (ME-TRPO) Model-Ensemble Trust-Region Policy Optimization**
 
 - Thanard Kurutach, Ignasi Clavera, Yan Duan, Aviv Tamar, and Pieter Abbeel
