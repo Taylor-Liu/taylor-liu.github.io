@@ -63,6 +63,12 @@ Others
 - Nanyang Technological University
 - [[Github]](https://github.com/Lukeeeeee/baconian-project) [[Paper]](https://arxiv.org/pdf/1904.10762.pdf)
 
+**ICML'19 - Calibrated Model-Based Deep Reinforcement Learning**
+
+- Ali Malik, Volodymyr Kuleshov, Jiaming Song, Danny Nemer, Harlan Seymour, Stefano Ermon
+- Stanford
+- [[Github]](https://github.com/ermongroup/CalibratedModelBasedRL) [[Slide]](https://icml.cc/media/Slides/icml/2019/hallb(13-09-00)-13-09-40-5150-calibrated_mode.pdf) [[Paper]](https://arxiv.org/pdf/1906.08312.pdf)
+
 **ICML'19 Workshop - When to Trust Your Model: Model-Based Policy Optimization**
 
 - [[Project Home]](https://people.eecs.berkeley.edu/~janner/mbpo/) [[Paper]](https://arxiv.org/abs/1906.08253) [[Slide]](/topics/data/rl/trust_mbpo.pdf)
