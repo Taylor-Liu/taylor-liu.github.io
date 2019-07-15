@@ -64,7 +64,7 @@ Others
 
 **ICML'19 Workshop - When to Trust Your Model: Model-Based Policy Optimization**
 
-- [[Project Home]](https://people.eecs.berkeley.edu/~janner/mbpo/) [[Paper]](https://arxiv.org/abs/1906.08253) [[Slide]](topics/data/rl/trust_mbpo.pdf)
+- [[Project Home]](https://people.eecs.berkeley.edu/~janner/mbpo/) [[Paper]](https://arxiv.org/abs/1906.08253) [[Slide]](/topics/data/rl/trust_mbpo.pdf)
 
 **2019 - Exploring Model-based Planning with Policy Networks**
 
