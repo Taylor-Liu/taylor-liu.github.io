@@ -20,6 +20,8 @@ Blog
 ### Conference & Workshop
 
 - [ICML 2019 Workshop: Reinforcement Learning for Real Life](https://sites.google.com/view/RL4RealLife)
+- [RSS 2019 Workshop: Closing the Reality Gap in Sim2real Transfer for Robotic Manipulation](https://sim2real.github.io/)
+	- with slides
 
 ### Course
 
