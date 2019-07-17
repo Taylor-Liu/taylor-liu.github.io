@@ -45,6 +45,24 @@ Others
 
 ### Papers
 
+**2019 - Motion Planning Networks: Bridging the Gap Between Learning-based and Classical Motion Planners**
+
+- Ahmed H. Qureshi, Yinglong Miao, Anthony Simeonov, Michael C. Yip
+- University of California San Diego
+- [[Project Home]](https://sites.google.com/view/mpnet/home) [[Paper]](https://arxiv.org/abs/1907.06013)
+
+**2019 - Variational Inference MPC forBayesian Model-based Reinforcement Learning**
+
+- Masashi Okada, Tadahiro Taniguchi
+- Ritsumeikan Univ. & Panasonic Corp
+- [[Paper]](https://arxiv.org/abs/1907.04202)
+
+**2019 - A Model-based Approach for Sample-efficient Multi-task Reinforcement Learning**
+
+- Nicholas C. Landolfi, Garrett Thomas, Tengyu Ma
+- Stanford
+- [[Paper]](https://arxiv.org/abs/1907.04964)
+
 **2019 - Dynamics-Aware Unsupervised Discovery of Skills**
 
 - Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman
