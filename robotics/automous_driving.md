@@ -300,16 +300,20 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 ### 12. 仿真
 
+- 2019中国自动驾驶仿真技术蓝皮书 [[PDF]](/topics/data/2019-中国自动驾驶仿真技术蓝皮书.pdf)
+
 - [自动驾驶车辆仿真模拟软件盘点](https://mp.weixin.qq.com/s/Qhx7TTZEgpFFjyBWyUkOgA)
 - [回顾：Drive.ai 、文远知行WeRide、51VR，三大视角解读自动驾驶仿真](https://www.leiphone.com/news/201812/LrT2QsJvYSAv7khF.html)
 - [Live回顾：文远知行WeRide自动驾驶仿真论——真实、闭环、规模、整合](https://www.leiphone.com/news/201812/PqnyCW6ngG0ikJFJ.html)
 - [社群分享 - Apollo仿真平台如何Hold住99.9999%的复杂场景？](https://mp.weixin.qq.com/s/j4faPastB3nFmgH_nhVW6g)
 	- [Apollo直答号 - 真实场景数据是怎么应用到仿真环境中的？](https://mp.weixin.qq.com/s/Pn8Kp-6MlQkjwO35FNBrRg)
 - Apollo高精地图服务介绍及云端仿真平台应用[[Slide]](/topics/data/2017-Apollo高精地图服务介绍及云端仿真平台应用.pdf)
+
+`51VR`
+
 - [快讯 - 51VR受邀出席中国汽车重庆论坛，五大案例详解仿真最新实践](https://mp.weixin.qq.com/s/G6pcpWHREntP5Lnvc07NeQ)
 - [51VR鲍世强：自动驾驶仿真不但注重技术细节，更需培育生态工具链](https://mp.weixin.qq.com/s/HPSHHi9jI516NaONcKLMJw)
-
-- 2019中国自动驾驶仿真技术蓝皮书 [[PDF]](/topics/data/2019-中国自动驾驶仿真技术蓝皮书.pdf)
+- [51Sim-One无人驾驶仿真测试平台的自主研发经验与工程实践](https://mp.weixin.qq.com/s?__biz=MzAwOTMxOTc2NQ==&mid=2650589631&idx=1&sn=dc206f89426ff7e091300fd73cda2a6d&chksm=83690d85b41e8493daa5b02b76e5c5616939d92a1bc6e2537fe2cc2b46229b703a2711048648&mpshare=1&scene=1&srcid=%23rd)
 
 `场景构建`
 
