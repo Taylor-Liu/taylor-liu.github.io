@@ -36,9 +36,9 @@ navbar-links:
     - Computer Vision: "topics/cv"
     - Code: "topics/code"
   Robotics:
-    - Automous Driving: "topics/automous_driving"
-    - Robotics: "topics/robotics"
-    - Robot Manipulation: "topics/manipulation"
+    - Automous Driving: "robotics/automous_driving"
+    - Robotics: "robotics/robotics"
+    - Robot Manipulation: "robotics/manipulation"
   RL:
     - Overview: "rl/overview"
     - Off-policy RL: "rl/off-policy-rl"
