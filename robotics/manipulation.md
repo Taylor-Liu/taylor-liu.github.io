@@ -18,5 +18,9 @@ title:  Robot Manipulation
 
 - [ROS-Industrial for Real-World Solutions](https://www.robotics.org/content-detail.cfm/Industrial-Robotics-Industry-Insights/ROS-Industrial-for-Real-World-Solutions/content_id/7919)
 
+### Blog
+
+- [【协作机器人】协作机器人赋能3C制造行业](http://www.zhuanzhi.ai/document/91d9569f9d136be37f9d0557cc0b3f11)
+
 ### Others
 
