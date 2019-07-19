@@ -19,6 +19,9 @@ title: Model-based RL
 
 ### Blog
 
+DeepMind
+- [Agents that imagine and plan](https://deepmind.com/blog/agents-imagine-and-plan/)
+
 UC Berkeley
 - [Model-based Reinforcement Learning with Neural Network Dynamics (Nov 30, 2017)](https://bair.berkeley.edu/blog/2017/11/30/model-based-rl/)
 - [TDM: From Model-Free to Model-Based Deep Reinforcement Learning (Apr 26, 2018)](https://bair.berkeley.edu/blog/2018/04/26/tdm/)
@@ -35,6 +38,11 @@ Jonathan Hui
 Others
 - [Week 6 - Model-based RL](https://hollygrimm.com/rl_modelbased)
 - [Reinforcement Learning — Model Based Planning Methods Extension](https://towardsdatascience.com/reinforcement-learning-model-based-planning-methods-extension-572dfee4cceb)
+
+### Conference & Workshop
+
+- [NIPS2018: Infer to Control](https://sites.google.com/view/infer2control-nips2018/home)
+	- Workshop on Probabilistic Reinforcement Learning and Structured Control
 
 ### Library
 
