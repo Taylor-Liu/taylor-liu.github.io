@@ -31,6 +31,11 @@ title:  Robot Manipulation
 
 - [UR+开发者平台](https://www.universal-robots.com/zh/plus/developer/)
 
+### Documents
+
+- 2018版协作机器人行业发展蓝皮书 [[PDF]](/robotics/data/2018版协作机器人行业发展蓝皮书.pdf)
+- 优傲成功案例合集 [[PDF]](https://www.universal-robots.cn/uploads/urrobot/userfiles/products/应用案例.pdf?utm_campaign=CN_2019_Email%20Campaign&utm_source=hs_automation&utm_medium=email&utm_content=74340021&_hsenc=p2ANqtz-8ry9d8PEvGd2zMl2rWvmmG376Z9Tr-ZQisk1wREtwN98aOoskQ_wEC-7kJ7L_luzDAZuirVCId8DNd1OcKjCMLV5zRUg&_hsmi=74340021)
+
 ### Others
 
 - [Pick-it 3D视觉](https://www.pickit3d.com/)
