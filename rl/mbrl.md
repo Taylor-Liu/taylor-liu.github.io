@@ -105,6 +105,12 @@ Others
 - University of Toronto
 - [[Github]](https://github.com/WilsonWangTHU/POPLIN) [[Paper]](https://arxiv.org/pdf/1906.08649) 
 
+**ICLR’19 - Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic**
+
+- Mikael Henaff, Alfredo Canziani, Yann LeCun
+- NYU, Facebook
+- [[Project Home]](https://sites.google.com/view/model-predictive-driving/home) [[Github]](https://github.com/atcold/pytorch-PPUU) [[Paper]](https://openreview.net/pdf?id=HygQBn0cYm) [[Slide]](https://drive.google.com/file/d/18F4qkAhRKHXRHFsOvqIB48A_0Y5c5IKq/view) [[Poster]](https://s3.amazonaws.com/postersession.ai/5781a62e-5c15-4a76-9db9-e306a80da15b.pdf)
+
 **ICLR'19 - (SLBO) Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees**
 
 - Yuping Luo, Huazhe Xu, Yuanzhi Li, Yuandong Tian, Trevor Darrell, Tengyu Ma
