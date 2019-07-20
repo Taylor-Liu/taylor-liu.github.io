@@ -38,6 +38,7 @@ title:  Information
 | [Shakir Mohamed](https://shakirm.com/) | `Research Scientist in Statistical Machine Learning and AI` | 
 | [François Chollet](https://fchollet.com/) |Creator of Keras, neural networks library. Author of 'Deep Learning with Python'. | 
 | [Marc Deisenroth](https://sites.google.com/view/marcdeisenroth) | Statistical Machine Learning and Autonomous Systems |	
+| [Gregory Kahn](https://people.eecs.berkeley.edu/~gregoryk/) | PhD student at UC Berkeley |
 
 
 **Facebook**
