@@ -39,6 +39,7 @@ navbar-links:
     - Robotics: "robotics/robotics"
     - Automous Driving: "robotics/automous_driving"
     - Robot Manipulation: "robotics/manipulation"
+    - Robot Hardware: "robotics/hardware"
   RL:
     - Overview: "rl/overview"
     - Off-policy RL: "rl/off-policy-rl"
