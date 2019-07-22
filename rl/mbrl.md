@@ -153,4 +153,4 @@ Others
 
 - Ignasi Clavera, Jonas Rothfuss, John Schulman, Yasuhiro Fujita, Tamim Asfour, Pieter Abbeel
 - UC Berkeley
-- [[Project Home]](https://sites.google.com/view/mb-mpo/home) [[Github]](https://github.com/jonasrothfuss/model_ensemble_meta_learning) [[Slide]](/rl/data/mbmpo-slide.pdf)
+- [[Project Home]](https://sites.google.com/view/mb-mpo/home) [[Github]](https://github.com/jonasrothfuss/model_ensemble_meta_learning) [[Slide]](/rl/data/mbmpo-slide.pdf) [[Slide from Abbeel]](/rl/data/mbpo-Abbeel.pdf)
