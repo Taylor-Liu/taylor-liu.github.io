@@ -26,6 +26,7 @@ DeepMind
 UC Berkeley
 - [Model-based Reinforcement Learning with Neural Network Dynamics (Nov 30, 2017)](https://bair.berkeley.edu/blog/2017/11/30/model-based-rl/)
 - [TDM: From Model-Free to Model-Based Deep Reinforcement Learning (Apr 26, 2018)](https://bair.berkeley.edu/blog/2018/04/26/tdm/)
+- [Project: Model-Based Reinforcement Learning](https://deepdrive.berkeley.edu/project/model-based-reinforcement-learning)
 
 Jonathan Hui
 - [RL — LQR & iLQR Linear Quadratic Regulator](https://medium.com/@jonathan_hui/rl-lqr-ilqr-linear-quadratic-regulator-a5de5104c750)
