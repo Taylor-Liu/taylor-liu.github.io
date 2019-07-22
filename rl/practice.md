@@ -6,15 +6,28 @@ title: RL Practice
 ### Library
 
 - [OpenAI Spinning Up](http://spinningup.openai.com/en/latest/index.html)
+- [openai/baselines](https://github.com/openai/baselines)
+- [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
+
 - [astooke/rlpyt](https://github.com/astooke/rlpyt)
 	- Reinforcement Learning in PyTorch
 - [keiohta/tf2rl](https://github.com/keiohta/tf2rl)
 	- TensorFlow2.0 Reinforcement Learning
 
+
 ### Example
 
 - [Curt-Park/rainbow-is-all-you-need](https://github.com/Curt-Park/rainbow-is-all-you-need)
 	- Rainbow is all you need! Step-by-step tutorials from DQN to Rainbow
+
+### Visualizing Results
+
+- [openai/baselines: Loading and visualizing results](https://github.com/openai/baselines/blob/master/docs/viz/viz.ipynb)
+- [OpenAI SpinningUp: Plotting Results](http://spinningup.openai.com/en/latest/user/plotting.html)
+- [hill-a/stable-baselines: Monitor Training and Plotting](https://github.com/hill-a/stable-baselines)
+
+
+- [Blog: Understanding PPO Plots in TensorBoard](https://medium.com/aureliantactics/understanding-ppo-plots-in-tensorboard-cbc3199b9ba2)
 
 ### Blog
 
