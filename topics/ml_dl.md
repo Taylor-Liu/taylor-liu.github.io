@@ -3,6 +3,11 @@ layout: page
 title: Machine Learning and Deep Learning
 ---
 
+### 模型库
+
+- [Model Zoo](https://modelzoo.co/)
+	- Discover open source deep learning code and pretrained models.
+
 ### Tensorflow实践
 
 - [官网教程：Get started with Tensorflow2.0](https://www.tensorflow.org/alpha)
