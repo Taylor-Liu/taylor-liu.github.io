@@ -46,6 +46,7 @@ navbar-links:
     - Model-based RL: "rl/mbrl"
     - RL Practice: "rl/practice"
     - RL in Real World: "rl/real_world"
+    - Meta Learning: "rl/meta-learning"
   Math:
     - Probabilistic Tricks: "math/probabilistic-tricks"
     - Probability Cheatsheet: "math/probability_cheatsheet.pdf"
