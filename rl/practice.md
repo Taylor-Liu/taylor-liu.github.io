@@ -26,7 +26,6 @@ title: RL Practice
 - [OpenAI SpinningUp: Plotting Results](http://spinningup.openai.com/en/latest/user/plotting.html)
 - [hill-a/stable-baselines: Monitor Training and Plotting](https://github.com/hill-a/stable-baselines)
 
-
 - [Blog: Understanding PPO Plots in TensorBoard](https://medium.com/aureliantactics/understanding-ppo-plots-in-tensorboard-cbc3199b9ba2)
 
 ### Blog
