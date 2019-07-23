@@ -19,6 +19,7 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 ### Course
 
 - [StarAi: Deep Reinforcement Learning Course](https://www.starai.io/course/)
+- [CUHK: Reinforcement Learning (2018-2019 2nd term, IERG 6130)](https://course.ie.cuhk.edu.hk/~ierg6130/index.html)
 
 ### Recent Papers
 
@@ -31,6 +32,8 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 - [Abstraction and RL: Literature Overview (Mar. 9, 2019)](https://david-abel.github.io/blog/posts/rl_abstr.html)
 - [Meta Reinforcement Learning (June 23, 2019)](https://lilianweng.github.io/lil-log/2019/06/23/meta-reinforcement-learning.html)
 - [Policy Gradient Algorithms](https://lilianweng.github.io/lil-log/2018/04/08/policy-gradient-algorithms.html#d4pg)
+
+- [伏羲实验室：强化学习与它的新进展](https://mp.weixin.qq.com/s?__biz=MzU2Nzg0NTk0NQ==&mid=2247484242&idx=1&sn=b6d1d5a479745931fa3ccd9353eab8e7&chksm=fc97b604cbe03f12da665770b60539d549dbfbc5709e99549deead18dd13e8a9ab095424adf7&mpshare=1&scene=1&srcid=&sharer_sharetime=1563856874707&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
 
 
 ### RL Paper Slide and Code
