@@ -57,7 +57,7 @@ title: Spinning Up as a Deep RL Researcher 中译文
 2. 关注还未解决的问题。
 3. 提出一个新问题。
 
-避免重复造论。
+避免重复造轮。
 
 ### 在RL方面做严谨的研究
 
