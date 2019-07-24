@@ -16,10 +16,22 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 - [Paperswithcode: Q-Learning](https://www.paperswithcode.com/task/q-learning)
 
+### Documents
+
+- [Open-source RL](https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0/edit#gid=0)
+
 ### Course
 
 - [StarAi: Deep Reinforcement Learning Course](https://www.starai.io/course/)
 - [CUHK: Reinforcement Learning (2018-2019 2nd term, IERG 6130)](https://course.ie.cuhk.edu.hk/~ierg6130/index.html)
+
+- Berkeley Deep RL course: [rll.berkeley.edu/deeprlcourse](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- CMU Deep RL course: [katefvision.github.io](https://katefvision.github.io/)
+- Stanford RL course: [web.stanford.edu/class/cs234/index.html](web.stanford.edu/class/cs234/index.html)
+- David Silver’s RL course: [http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+- DeepMind's Advanced DL & RL course
+	- [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+	- [Slides](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning/tree/master/lecture%20slides)
 
 ### Recent Papers
 
