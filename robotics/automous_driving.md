@@ -28,6 +28,7 @@ title: Autonomous Driving
 17. 数据集
 18. Pony.ai技术分享
 19. 安全报告
+20. 其它
 
 ### 前沿进展
 
@@ -253,6 +254,9 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 - [进阶课程㉑丨Apollo规划技术详解——Basic Motion Planning and Overview](https://mp.weixin.qq.com/s/_4P_eEZzxj87sv5MALDM-A)
 - [进阶课程㉒丨Apollo规划技术详解——Motion Planning with Autonomous Driving](https://mp.weixin.qq.com/s/HyacYh2FcGPW4-8SOECCtA)
+- [进阶课程㉓丨Apollo规划技术详解——Motion Planning with Environment](https://mp.weixin.qq.com/s/yOmLYRyUji-Hvk2hObpDvw)
+- [进阶课程㉔丨Apollo规划技术详解——Motion Planning Environment](https://mp.weixin.qq.com/s/vSa5KSSj_B_2YFNvZuaygQ)
+- [进阶课程㉕丨Apollo规划技术详解——Optimization Inside Motion Planning](https://mp.weixin.qq.com/s/3GFCpjakIvpLu8cse_euUg)
 
 `知乎专栏：无人驾驶干货铺`
 
@@ -358,10 +362,22 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 ### 18. Pony.ai技术分享
 
-- [自动驾驶中轨迹规划的探索和挑战](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
+整体
 - [Pony.ai 的基础架构挑战与实践](https://mp.weixin.qq.com/s/fBmYxP0ALyil7crSFKWWEg)
-- [L4自动驾驶中感知系统遇到的挑战及解决方案](https://mp.weixin.qq.com/s/cqdi9V_BnY6pwRJl3dD0dA)
+- [自动驾驶从0到1之路](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247491875&idx=1&sn=4308296b589e6aecb3597ad6e986182b&chksm=fbd7534fcca0da59112b136be0bbbbdab2d79db4020e350ac1db71ad4b5aadacbaecd90519f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1563857235612&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
+
+定位
 - [高精地图和定位在自动驾驶的应用](https://mp.weixin.qq.com/s/QZ5W4YDD4rX8zM6qajQDtg)
+- [自动驾驶复杂环境下高精度定位技术](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247491711&idx=1&sn=2299f6045271c28bdbb8bb30ae9cd8d2&chksm=fbd75213cca0db05281bccf11f14ac0587e0bd022e3506e1c0bc3b7deae8447040aff1a26608&mpshare=1&scene=1&srcid=&sharer_sharetime=1563857253686&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
+
+感知
+- [L4自动驾驶中感知系统遇到的挑战及解决方案](https://mp.weixin.qq.com/s/cqdi9V_BnY6pwRJl3dD0dA)
+- [传统方法和深度学习结合的感知策略探索](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247491669&idx=1&sn=47f3e771448efc8e12ad562ed6b78148&chksm=fbd75239cca0db2ff604247f820744eb37397f346252c03eb464277ff46ad45b370b6885be6f&scene=21#wechat_redirect)
+
+决策规划控制
+- [自动驾驶中轨迹规划的探索和挑战](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
+
+
 
 ### 19. 安全报告
 
@@ -378,6 +394,11 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - Nvidia(2018) [[PDF]](/topics/data/safety-report/2018-NVIDIA-Self-Driving-Safety-Report.pdf)
 - Uber(2018) [[PDF]](/topics/data/safety-report/2018-Uber-ATGSafety-Report.pdf)
 - Apple(2019) [[PDF]](/topics/data/safety-report/2019-Apple-ADS-Safety.pdf)
+
+### 20. 其它
+
+- [自动驾驶思考：硬件篇（王方浩）](https://mp.weixin.qq.com/s/IgwdJx6D3cmdxZ3suP86lQ)
+- [自动驾驶思考：基础架构篇（王方浩）](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247492116&idx=1&sn=2b383a7303fb7becfa13cdd872c89b47&chksm=fbd75078cca0d96edd5146105a03065bbaf81fa23412c6c1cdcd0ce33ab20bcc3e1b119e1879&mpshare=1&scene=1&srcid=&sharer_sharetime=1563857187601&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
 
 
 
