@@ -254,37 +254,37 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 - [Apollo首个自动驾驶进阶课程正式上线！](https://mp.weixin.qq.com/s/FgnBhOEPS9-_uY1dH4VddQ)
 
-- [进阶课程① | 带你纵览无人车](https://mp.weixin.qq.com/s/VR8E_kggbh_GSN_QNOM8PQ)
+- [进阶课程① - 带你纵览无人车](https://mp.weixin.qq.com/s/VR8E_kggbh_GSN_QNOM8PQ)
 
-- [进阶课程② | 开源模块讲解（上）](https://mp.weixin.qq.com/s/VFGZGn6GEk7mml6cG4rE4A)
-- [进阶课程③ | 开源模块讲解（中）](https://mp.weixin.qq.com/s/hwOXegnHFfNPFT8iEj9DDw)
-- [进阶课程④ | 开源模块讲解（下）](https://mp.weixin.qq.com/s/r1hVVdfXZISnbrV3zYruYQ)
+- [进阶课程② - 开源模块讲解（上）](https://mp.weixin.qq.com/s/VFGZGn6GEk7mml6cG4rE4A)
+- [进阶课程③ - 开源模块讲解（中）](https://mp.weixin.qq.com/s/hwOXegnHFfNPFT8iEj9DDw)
+- [进阶课程④ - 开源模块讲解（下）](https://mp.weixin.qq.com/s/r1hVVdfXZISnbrV3zYruYQ)
 
-- [进阶课程⑤ | Apollo硬件开发平台介绍](https://mp.weixin.qq.com/s/why3vtC8hseM7TEN92ALLw)
+- [进阶课程⑤ - Apollo硬件开发平台介绍](https://mp.weixin.qq.com/s/why3vtC8hseM7TEN92ALLw)
 
-- [进阶课程⑥ | 高精地图与自动驾驶的关系](https://mp.weixin.qq.com/s/6aK-jZInb254D8o2_07a8Q)
-- [进阶课程⑦ | 高精地图的采集与生产](https://mp.weixin.qq.com/s/8Gk5_OAVUT0vuPr4ZOgAJw)
-- [进阶课程⑧ | 高精地图的格式规范](https://mp.weixin.qq.com/s/mlXyNHn0ts_tA8L-8rf1oQ)
-- [进阶课程⑨ | 业界的高精地图产品](https://mp.weixin.qq.com/s/46D_H4rpisAg0y6VmZJ3gQ)
-- [进阶课程⑩ | Apollo地图采集方案](https://mp.weixin.qq.com/s/vqkv5y6XdXlKR7jefJIcOA)
-- [进阶课程⑪ | Apollo地图生产技术](https://mp.weixin.qq.com/s/OlqKMDHiXAmB_3A9BR5Jdw)
-- [进阶课程⑫ | Apollo高精地图](https://mp.weixin.qq.com/s/X2PgTQIjvpgQQ1YOyXe7eQ)
+- [进阶课程⑥ - 高精地图与自动驾驶的关系](https://mp.weixin.qq.com/s/6aK-jZInb254D8o2_07a8Q)
+- [进阶课程⑦ - 高精地图的采集与生产](https://mp.weixin.qq.com/s/8Gk5_OAVUT0vuPr4ZOgAJw)
+- [进阶课程⑧ - 高精地图的格式规范](https://mp.weixin.qq.com/s/mlXyNHn0ts_tA8L-8rf1oQ)
+- [进阶课程⑨ - 业界的高精地图产品](https://mp.weixin.qq.com/s/46D_H4rpisAg0y6VmZJ3gQ)
+- [进阶课程⑩ - Apollo地图采集方案](https://mp.weixin.qq.com/s/vqkv5y6XdXlKR7jefJIcOA)
+- [进阶课程⑪ - Apollo地图生产技术](https://mp.weixin.qq.com/s/OlqKMDHiXAmB_3A9BR5Jdw)
+- [进阶课程⑫ - Apollo高精地图](https://mp.weixin.qq.com/s/X2PgTQIjvpgQQ1YOyXe7eQ)
 
-- [进阶课程⑬ | Apollo无人车自定位技术入门](https://mp.weixin.qq.com/s/eOxle3q_QgejlX10kc30Rg)
-- [进阶课程⑭ | Apollo自动定位技术——三维几何变换和坐标系介绍](https://mp.weixin.qq.com/s/8n_o83A-5AjG3YCPG4FOgA)
-- [进阶课程⑮ | Apollo自动定位技术详解—百度无人车定位技术](https://mp.weixin.qq.com/s/UokP3urHU8c5Nn0BT-F_BQ)
+- [进阶课程⑬ - Apollo无人车自定位技术入门](https://mp.weixin.qq.com/s/eOxle3q_QgejlX10kc30Rg)
+- [进阶课程⑭ - Apollo自动定位技术——三维几何变换和坐标系介绍](https://mp.weixin.qq.com/s/8n_o83A-5AjG3YCPG4FOgA)
+- [进阶课程⑮ - Apollo自动定位技术详解—百度无人车定位技术](https://mp.weixin.qq.com/s/UokP3urHU8c5Nn0BT-F_BQ)
 
-- [进阶课程⑯ | Apollo感知之旅——感知概貌](https://mp.weixin.qq.com/s/PJKv_RieG2yXil0E1oefPA)
-- [进阶课程⑰ | Apollo感知之旅——传感器选择和安装](https://mp.weixin.qq.com/s/NbloG2p98VTkytCqhIVJeQ)
-- [进阶课程⑱ | Apollo感知之旅——传感器标定](https://mp.weixin.qq.com/s/lVtZ_tWaMghMvkpYvRAEmQ)
-- [进阶课程⑲ | Apollo感知之旅——感知算法](https://mp.weixin.qq.com/s/g8Y83vhw-OORm0CJElwPEA)
-- [进阶课程⑳ | Apollo感知之旅——机器学习与感知的未来](https://mp.weixin.qq.com/s/E7t0M9MSxNG8nMWpUIjsJA)
+- [进阶课程⑯ - Apollo感知之旅——感知概貌](https://mp.weixin.qq.com/s/PJKv_RieG2yXil0E1oefPA)
+- [进阶课程⑰ - Apollo感知之旅——传感器选择和安装](https://mp.weixin.qq.com/s/NbloG2p98VTkytCqhIVJeQ)
+- [进阶课程⑱ - Apollo感知之旅——传感器标定](https://mp.weixin.qq.com/s/lVtZ_tWaMghMvkpYvRAEmQ)
+- [进阶课程⑲ - Apollo感知之旅——感知算法](https://mp.weixin.qq.com/s/g8Y83vhw-OORm0CJElwPEA)
+- [进阶课程⑳ - Apollo感知之旅——机器学习与感知的未来](https://mp.weixin.qq.com/s/E7t0M9MSxNG8nMWpUIjsJA)
 
-- [进阶课程㉑丨Apollo规划技术详解——Basic Motion Planning and Overview](https://mp.weixin.qq.com/s/_4P_eEZzxj87sv5MALDM-A)
-- [进阶课程㉒丨Apollo规划技术详解——Motion Planning with Autonomous Driving](https://mp.weixin.qq.com/s/HyacYh2FcGPW4-8SOECCtA)
-- [进阶课程㉓丨Apollo规划技术详解——Motion Planning with Environment](https://mp.weixin.qq.com/s/yOmLYRyUji-Hvk2hObpDvw)
-- [进阶课程㉔丨Apollo规划技术详解——Motion Planning Environment](https://mp.weixin.qq.com/s/vSa5KSSj_B_2YFNvZuaygQ)
-- [进阶课程㉕丨Apollo规划技术详解——Optimization Inside Motion Planning](https://mp.weixin.qq.com/s/3GFCpjakIvpLu8cse_euUg)
+- [进阶课程㉑ - Apollo规划技术详解——Basic Motion Planning and Overview](https://mp.weixin.qq.com/s/_4P_eEZzxj87sv5MALDM-A)
+- [进阶课程㉒ - Apollo规划技术详解——Motion Planning with Autonomous Driving](https://mp.weixin.qq.com/s/HyacYh2FcGPW4-8SOECCtA)
+- [进阶课程㉓ - Apollo规划技术详解——Motion Planning with Environment](https://mp.weixin.qq.com/s/yOmLYRyUji-Hvk2hObpDvw)
+- [进阶课程㉔ - Apollo规划技术详解——Motion Planning Environment](https://mp.weixin.qq.com/s/vSa5KSSj_B_2YFNvZuaygQ)
+- [进阶课程㉕ - Apollo规划技术详解——Optimization Inside Motion Planning](https://mp.weixin.qq.com/s/3GFCpjakIvpLu8cse_euUg)
 
 `知乎专栏：无人驾驶干货铺`
 
