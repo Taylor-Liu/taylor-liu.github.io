@@ -30,6 +30,9 @@ title: Mathematics for Machine Learning
 - Course
 	- [CSC2541: Scalable and Flexible Models of Uncertainty (University of Toronto, Fall 2017)](https://csc2541-f17.github.io/)
 
+- Conference
+	- [UAI 2019 : Conference on Uncertainty in Artificial Intelligence](http://auai.org/uai2019/)
+
 ### 数学与机器学习基础
 
 - From 《强化学习精要：核心算法与TensorFlow实现》
