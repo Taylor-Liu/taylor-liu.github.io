@@ -28,7 +28,7 @@ title: Autonomous Driving
 17. 数据集
 18. Pony.ai技术分享
 19. 安全报告
-20. 其它
+[20. 其它](#20.-其它)
 
 ### 前沿进展
 
@@ -93,6 +93,7 @@ title: Autonomous Driving
 - 算法 - 一篇读懂自动驾驶汽车决策层算法的新思路 [[Website]](https://mp.weixin.qq.com/s/4chZ52I3Qy34GmEqtDpHfw)
 - 自动驾驶中轨迹规划的探索和挑战 [[Website]](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
 	- 作者：Pony.ai Tech lead 梁亚雄
+- 【美团无人配送】自动驾驶中的决策规划算法概述 [[Website]](https://mp.weixin.qq.com/s/oNHDzdxMy_ciAok79kLDYg)
 
 `路径规划`
 
