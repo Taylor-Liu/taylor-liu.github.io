@@ -33,6 +33,8 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 	- [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 	- [Slides](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning/tree/master/lecture%20slides)
 
+- [Stanford: CS379C - Spring 2019 - Computational Models of the Neocortex](http://web.stanford.edu/class/cs379c/index.html)
+
 ### Recent Papers
 
 - [2019 - Modern Deep Reinforcement Learning Algorithms](https://arxiv.org/pdf/1906.10025.pdf)
