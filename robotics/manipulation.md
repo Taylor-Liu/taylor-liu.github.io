@@ -5,7 +5,8 @@ title:  Robot Manipulation
 
 ### Papers
 
-- 2019 - A Review of Robot Learning for Manipulation:Challenges, Representations, and Algorithms [[Paper]](https://arxiv.org/pdf/1907.03146.pdf)
+- 2019 - CMU - A Review of Robot Learning for Manipulation:Challenges, Representations, and Algorithms [[Paper]](https://arxiv.org/pdf/1907.03146.pdf)
+- 2019 - 中科院自动化所 - 自动化学报 - 机器人操作技能学习方法综述 [[Paper]](/robotics/data/2019-机器人操作技能学习方法综述.pdf)
 
 ### ROS-Industrial
 
