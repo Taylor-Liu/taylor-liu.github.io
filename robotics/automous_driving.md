@@ -89,11 +89,12 @@ title: Autonomous Driving
 - 自动驾驶的“大脑”——决策规划篇 [[Website]](https://mp.weixin.qq.com/s/P-PR5CSDE0zKOUwXebN3xw)
 	- 选自《中国人工智能系列白皮书-智能驾驶2017》[[PDF]](/topics/data/2017-中国人工智能系列白皮书-智能驾驶.pdf)
 - 自动驾驶汽车的运动规划技术综述 [[Website]](https://mp.weixin.qq.com/s/BmpjnNMvpOywjPxt30p0bw)
-	- 2016 - A Review of Motion Planning Techniques forAutomated Vehicles
+	- 2016 - A Review of Motion Planning Techniques for Automated Vehicles
 - 算法 - 一篇读懂自动驾驶汽车决策层算法的新思路 [[Website]](https://mp.weixin.qq.com/s/4chZ52I3Qy34GmEqtDpHfw)
 - 自动驾驶中轨迹规划的探索和挑战 [[Website]](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
 	- 作者：Pony.ai Tech lead 梁亚雄
 - 【美团无人配送】自动驾驶中的决策规划算法概述 [[Website]](https://mp.weixin.qq.com/s/oNHDzdxMy_ciAok79kLDYg)
+- 『无人驾驶』运动规划与运动控制（知乎专栏）[[Website]](https://zhuanlan.zhihu.com/c_1090991479136346112)
 
 `路径规划`
 
