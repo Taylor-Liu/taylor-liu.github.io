@@ -11,3 +11,9 @@ title: Robotics
 ### Conferences
 
 - [ICRA2019 Paper List](https://github.com/Taylor-Liu/ICRA2019-paper-list)
+
+### Course
+
+- [1st summer school on cognitive robotics, 2017](http://cognitive-robotics17.csail.mit.edu/)
+- [2nd summer school on cognitive robotics, 2018](http://cognitive-robotics.csail.mit.edu/)
+- [3rd Summer School on Cognitive Robotics, 2019](https://sites.usc.edu/cognitive-robotics/schedule/)
