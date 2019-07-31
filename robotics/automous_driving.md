@@ -71,6 +71,9 @@ title: Autonomous Driving
 
 ### 4. Planning and Control (PNC)
 
+- [Apollo 轨迹规划技术分享](https://mp.weixin.qq.com/s/ao5hC_3A7fn8_L_PFw399A)
+	- [轨迹规划中的关键问题汇总1](https://mp.weixin.qq.com/s/C189dqfNOwuDW1MoHepmBQ)
+	- [轨迹规划中的关键问题汇总2](https://mp.weixin.qq.com/s/alszWkfOChC1CydTDgWg5g)
 - [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/#id-publicroadplanner)
 - [直播回顾 - Apollo决策技术分享](https://mp.weixin.qq.com/s/KFjfhs5zdHdrukRnm52rsg)
 	- [Slide](/topics/data/20190326-Apollo决策技术分享.pdf)
