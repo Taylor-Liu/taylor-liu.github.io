@@ -87,7 +87,7 @@ title: Autonomous Driving
 	- [Apollo问答 - 如何拿下无人驾驶决策技术1](https://mp.weixin.qq.com/s/j4DNygcPd3ctIAG9COzVzQ)
 	- [Apollo问答 - 如何拿下无人驾驶决策技术2](https://mp.weixin.qq.com/s/GvbOUg2LOnFTWZrXL7aQ2A)
 - [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/#id-publicroadplanner)
-- [自动驾驶公开课 - Apollo 2.5自动驾驶规划控制](https://mp.weixin.qq.com/s/7ftd941pycD7h_R10cDecg) 
+- [自动驾驶公开课 - Apollo 2.5自动驾驶规划控制](https://mp.weixin.qq.com/s/7ftd941pycD7h_R10cDecg) [[Slide]](/robotics/data/Apollo2.5自动驾驶规划控制.pdf)
 - [社群分享内容 - Lattice Planner规划算法](https://mp.weixin.qq.com/s/YDIoVf20kybu8JEUY3GZWg)
 	- [Apollo问答 - 关于Lattice Planner规划算法的若干问答](https://mp.weixin.qq.com/s/LMow4oNW-m9beqc6GEz_7Q)
 - Apollo3.5规划模块官方介绍[[中文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README_cn.md)[[英文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README.md)
