@@ -80,10 +80,11 @@ title: Autonomous Driving
 - [Apollo 轨迹规划技术分享](https://mp.weixin.qq.com/s/ao5hC_3A7fn8_L_PFw399A)
 	- [轨迹规划中的关键问题汇总1](https://mp.weixin.qq.com/s/C189dqfNOwuDW1MoHepmBQ)
 	- [轨迹规划中的关键问题汇总2](https://mp.weixin.qq.com/s/alszWkfOChC1CydTDgWg5g)
-- [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/#id-publicroadplanner)
-- [直播回顾 - Apollo决策技术分享](https://mp.weixin.qq.com/s/KFjfhs5zdHdrukRnm52rsg)
+- [Apollo决策技术分享](https://mp.weixin.qq.com/s/KFjfhs5zdHdrukRnm52rsg)
 	- [Slide](/topics/data/20190326-Apollo决策技术分享.pdf)
-- [Apollo问答 - 如何拿下无人驾驶决策技术②](https://mp.weixin.qq.com/s/GvbOUg2LOnFTWZrXL7aQ2A)
+	- [Apollo问答 - 如何拿下无人驾驶决策技术1](https://mp.weixin.qq.com/s/j4DNygcPd3ctIAG9COzVzQ)
+	- [Apollo问答 - 如何拿下无人驾驶决策技术2](https://mp.weixin.qq.com/s/GvbOUg2LOnFTWZrXL7aQ2A)
+- [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/#id-publicroadplanner)
 - Apollo3.5规划模块官方介绍[[中文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README_cn.md)[[英文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README.md)
 - [自动驾驶中有哪些路径规划框架?](https://zhuanlan.zhihu.com/p/43405664)
 - [PythonRobotics: Python sample codes for robotics algorithms](https://atsushisakai.github.io/PythonRobotics/)
@@ -298,6 +299,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [进阶课程㉓ - Apollo规划技术详解——Motion Planning with Environment](https://mp.weixin.qq.com/s/yOmLYRyUji-Hvk2hObpDvw)
 - [进阶课程㉔ - Apollo规划技术详解——Motion Planning Environment](https://mp.weixin.qq.com/s/vSa5KSSj_B_2YFNvZuaygQ)
 - [进阶课程㉕ - Apollo规划技术详解——Optimization Inside Motion Planning](https://mp.weixin.qq.com/s/3GFCpjakIvpLu8cse_euUg)
+- [进阶课程㉖ - Apollo规划技术详解——Understand More on the MP Difficulty](https://mp.weixin.qq.com/s/GtAM1dLMSddlOWKeZLd10w)
 
 `知乎专栏：无人驾驶干货铺`
 
