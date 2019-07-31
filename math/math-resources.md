@@ -21,6 +21,8 @@ title: Mathematics for Machine Learning
 	- [机器之心译文](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650765449&idx=1&sn=aa2e46c8bed1061f804aaf65231445ea&chksm=871abcf7b06d35e1ba2cb6bc8ea54b86173e2bb3cc6d2910556e1028a762fe041dfb5c6eddef&mpshare=1&scene=1&srcid=%23rd)
 - [看得见的高斯过程：这是一份直观的入门解读](https://mp.weixin.qq.com/s/FJAgpbBgRA2Zk3BuiEwjdw)
 - [干货：通俗讲解高斯过程回归](https://mp.weixin.qq.com/s/AsfNxoIk62cMSRymTB1QFA)
+- [Github: ldeecke/gmm-torch](https://github.com/ldeecke/gmm-torch)
+	- Gaussian mixture models in PyTorch.
 
 ### 不确定性建模
 
