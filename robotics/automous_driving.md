@@ -88,6 +88,8 @@ title: Autonomous Driving
 	- [Apollo问答 - 如何拿下无人驾驶决策技术2](https://mp.weixin.qq.com/s/GvbOUg2LOnFTWZrXL7aQ2A)
 - [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/#id-publicroadplanner)
 - [自动驾驶公开课 - Apollo 2.5自动驾驶规划控制](https://mp.weixin.qq.com/s/7ftd941pycD7h_R10cDecg) 
+- [社群分享内容 - Lattice Planner规划算法](https://mp.weixin.qq.com/s/YDIoVf20kybu8JEUY3GZWg)
+	- [Apollo问答 - 关于Lattice Planner规划算法的若干问答](https://mp.weixin.qq.com/s/LMow4oNW-m9beqc6GEz_7Q)
 - Apollo3.5规划模块官方介绍[[中文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README_cn.md)[[英文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README.md)
 - [自动驾驶中有哪些路径规划框架?](https://zhuanlan.zhihu.com/p/43405664)
 - [PythonRobotics: Python sample codes for robotics algorithms](https://atsushisakai.github.io/PythonRobotics/)
@@ -107,6 +109,7 @@ title: Autonomous Driving
 - 自动驾驶中轨迹规划的探索和挑战 [[Website]](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
 	- 作者：Pony.ai Tech lead 梁亚雄
 - 【美团无人配送】自动驾驶中的决策规划算法概述 [[Website]](https://mp.weixin.qq.com/s/oNHDzdxMy_ciAok79kLDYg)
+- 【美团技术解析】无人车横向控制解读 [[Website]](https://mp.weixin.qq.com/s/jtm9J8KCUy3qSBB1bnw6xg)
 - 『无人驾驶』运动规划与运动控制（知乎专栏）[[Website]](https://zhuanlan.zhihu.com/c_1090991479136346112)
 - 自动驾驶中的规划控制概述 [[Website]](https://zhuanlan.zhihu.com/p/59089908)
 	- 作者：奇点汽车首席科学家，黄浴
