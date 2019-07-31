@@ -7,6 +7,7 @@ title:  Robot Manipulation
 
 - 2019 - CMU - A Review of Robot Learning for Manipulation:Challenges, Representations, and Algorithms [[Paper]](https://arxiv.org/pdf/1907.03146.pdf)
 - 2019 - 中科院自动化所 - 自动化学报 - 机器人操作技能学习方法综述 [[Paper]](/robotics/data/2019-机器人操作技能学习方法综述.pdf)
+- 2018 - Google & UC Berkeley - CoRL (Best Paper) - QT-Opt: Scalable Deep Reinforcement Learningfor Vision-Based Robotic Manipulation [[Paper]](https://arxiv.org/pdf/1806.10293.pdf) [[中文博客报道]](https://mp.weixin.qq.com/s/A4JZaRkx6Sxx7CdQRQaT4w)
 
 ### ROS-Industrial
 
@@ -27,6 +28,8 @@ title:  Robot Manipulation
 - [深度解析协作机器人从技术到应用—机器人大讲堂携手优傲走进哈工大](http://www.zhuanzhi.ai/document/bc942ffd18906484e851c869b0002ba6)
 - [一览优傲协作机器人工作站，一起探索协作机器人更多应用场景](http://www.zhuanzhi.ai/document/172d779363e45f1b02e901854233f22f)
 - [揭秘Rethink公司为何倒闭！“协作机器人-激烈的市场谁能杀出重围”系列报道](https://mp.weixin.qq.com/s?__biz=MzI5MzE0NDUzNQ==&mid=2650205171&idx=1&sn=811f5280fbff4ff0fde7011a9a189250&scene=21#wechat_redirect)
+
+- [CoRL2018最佳论文：抓取新物体成功率96%的深度强化学习机械臂](https://mp.weixin.qq.com/s/A4JZaRkx6Sxx7CdQRQaT4w)
 
 ### UR机械臂
 
