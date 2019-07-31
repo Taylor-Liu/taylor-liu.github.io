@@ -67,6 +67,8 @@ title: Autonomous Driving
 - [自动驾驶中行为预测的一些根本问题和最新方法](https://mp.weixin.qq.com/s/NH09Pvh8vKtOGrS6Lwq3Tw)
 	- 作者简介：战威，UC Berkeley博士在读，主要研究方向为自动驾驶中的预测、决策与规划
 - [自动驾驶中的驾驶行为建模和预测方法](https://mp.weixin.qq.com/s/FmqMg-j-Mf2nguHbuCyXAA)
+- [自动驾驶中的驾驶行为建模和预测方法（奇点汽车首席科学家，黄浴）](https://zhuanlan.zhihu.com/p/56657438)
+- [自动驾驶中路上行人的行为和意图理解及预测（奇点汽车首席科学家，黄浴）](https://zhuanlan.zhihu.com/p/57077589)
 
 `Paper`
 
@@ -85,6 +87,7 @@ title: Autonomous Driving
 	- [Apollo问答 - 如何拿下无人驾驶决策技术1](https://mp.weixin.qq.com/s/j4DNygcPd3ctIAG9COzVzQ)
 	- [Apollo问答 - 如何拿下无人驾驶决策技术2](https://mp.weixin.qq.com/s/GvbOUg2LOnFTWZrXL7aQ2A)
 - [解析百度Apollo之决策规划模块](https://paul.pub/apollo-planning/#id-publicroadplanner)
+- [自动驾驶公开课 - Apollo 2.5自动驾驶规划控制](https://mp.weixin.qq.com/s/7ftd941pycD7h_R10cDecg) 
 - Apollo3.5规划模块官方介绍[[中文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README_cn.md)[[英文]](https://github.com/ApolloAuto/apollo/blob/master/modules/planning/README.md)
 - [自动驾驶中有哪些路径规划框架?](https://zhuanlan.zhihu.com/p/43405664)
 - [PythonRobotics: Python sample codes for robotics algorithms](https://atsushisakai.github.io/PythonRobotics/)
@@ -105,6 +108,8 @@ title: Autonomous Driving
 	- 作者：Pony.ai Tech lead 梁亚雄
 - 【美团无人配送】自动驾驶中的决策规划算法概述 [[Website]](https://mp.weixin.qq.com/s/oNHDzdxMy_ciAok79kLDYg)
 - 『无人驾驶』运动规划与运动控制（知乎专栏）[[Website]](https://zhuanlan.zhihu.com/c_1090991479136346112)
+- 自动驾驶中的规划控制概述 [[Website]](https://zhuanlan.zhihu.com/p/59089908)
+	- 作者：奇点汽车首席科学家，黄浴
 
 `路径规划`
 
@@ -355,6 +360,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [社群分享 - Apollo仿真平台如何Hold住99.9999%的复杂场景？](https://mp.weixin.qq.com/s/j4faPastB3nFmgH_nhVW6g)
 	- [Apollo直答号 - 真实场景数据是怎么应用到仿真环境中的？](https://mp.weixin.qq.com/s/Pn8Kp-6MlQkjwO35FNBrRg)
 - Apollo高精地图服务介绍及云端仿真平台应用[[Slide]](/topics/data/2017-Apollo高精地图服务介绍及云端仿真平台应用.pdf)
+- [自动驾驶公开课 - Apollo“云＋端”研发迭代模式实战](https://mp.weixin.qq.com/s/Gr_Woa35wZaguNG-BDjePQ)
 
 `51VR`
 
@@ -421,7 +427,6 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - [自动驾驶中轨迹规划的探索和挑战](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
 
 
-
 ### 19. 安全报告
 
 国内
@@ -438,7 +443,11 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - Uber(2018) [[PDF]](/topics/data/safety-report/2018-Uber-ATGSafety-Report.pdf)
 - Apple(2019) [[PDF]](/topics/data/safety-report/2019-Apple-ADS-Safety.pdf)
 
-### 20. 其它
+### 20. People
+
+- [Yu Huang](https://sites.google.com/site/yorkyuhuang/home)
+
+### 21. 其它
 
 - [自动驾驶思考：硬件篇（王方浩）](https://mp.weixin.qq.com/s/IgwdJx6D3cmdxZ3suP86lQ)
 - [自动驾驶思考：基础架构篇（王方浩）](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247492116&idx=1&sn=2b383a7303fb7becfa13cdd872c89b47&chksm=fbd75078cca0d96edd5146105a03065bbaf81fa23412c6c1cdcd0ce33ab20bcc3e1b119e1879&mpshare=1&scene=1&srcid=&sharer_sharetime=1563857187601&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
