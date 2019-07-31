@@ -68,9 +68,15 @@ title: Autonomous Driving
 	- 作者简介：战威，UC Berkeley博士在读，主要研究方向为自动驾驶中的预测、决策与规划
 - [自动驾驶中的驾驶行为建模和预测方法](https://mp.weixin.qq.com/s/FmqMg-j-Mf2nguHbuCyXAA)
 
+`Paper`
+
+- AAAI'19 - Baidu - TrafficPredict: Trajectory Prediction for Heterogeneous Traffic-Agents
+	- [[Project Homepage]](http://gamma.cs.unc.edu/TPredict/TrafficPredict.html) [[Paper]](https://arxiv.org/abs/1811.02146)
+
 
 ### 4. Planning and Control (PNC)
 
+- [技术文档 - Apollo规划模块技术指导](https://mp.weixin.qq.com/s/ou1Sot_CmpsQ5R5cP0hkVw)
 - [Apollo 轨迹规划技术分享](https://mp.weixin.qq.com/s/ao5hC_3A7fn8_L_PFw399A)
 	- [轨迹规划中的关键问题汇总1](https://mp.weixin.qq.com/s/C189dqfNOwuDW1MoHepmBQ)
 	- [轨迹规划中的关键问题汇总2](https://mp.weixin.qq.com/s/alszWkfOChC1CydTDgWg5g)
@@ -256,6 +262,8 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 * [Apollo自动驾驶入门课程第⑩讲 — 控制（下）](https://mp.weixin.qq.com/s/AnWWnD3ScSW6GhrwRGpRDw)
 
 `Apollo自动驾驶进阶课程`
+
+- [视频教程（百度技术学院）](http://bit.baidu.com/subject/index/id/16.html)
 
 - [Apollo首个自动驾驶进阶课程正式上线！](https://mp.weixin.qq.com/s/FgnBhOEPS9-_uY1dH4VddQ)
 
