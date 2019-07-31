@@ -20,6 +20,10 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 - [Open-source RL](https://docs.google.com/spreadsheets/d/1EeFPd-XIQ3mq_9snTlAZSsFY7Hbnmd7P5bbT8LPuMn0/edit#gid=0)
 
+### Books
+
+- [Reinforcement Learning and Optimal Control](http://web.mit.edu/dimitrib/www/RLbook.html)
+
 ### Course
 
 - [StarAi: Deep Reinforcement Learning Course](https://www.starai.io/course/)
@@ -37,7 +41,8 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 ### Recent Papers
 
-- [2019 - Modern Deep Reinforcement Learning Algorithms](https://arxiv.org/pdf/1906.10025.pdf)
+- 2019 - Modern Deep Reinforcement Learning Algorithms [[Paper]](https://arxiv.org/pdf/1906.10025.pdf)
+- 2019 - Nvidia - GPU-Accelerated Atari Emulation for Reinforcement Learning [[Paper]](https://arxiv.org/pdf/1907.08467.pdf) [[Github]](https://github.com/NVLabs/cule)
 
 ### Blog
 
