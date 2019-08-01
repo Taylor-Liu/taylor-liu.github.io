@@ -67,3 +67,15 @@ title: Machine Learning and Deep Learning
 ### 集成方法(Ensemble methods)
 
 - [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+
+### CUDA & CUDNN
+
+查看 CUDA 版本：
+```
+cat /usr/local/cuda/version.txt
+```
+
+查看 CUDNN 版本：
+```
+cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2
+```
