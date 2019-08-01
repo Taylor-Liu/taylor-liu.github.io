@@ -99,7 +99,8 @@ Others
 
 **ICML'19 Workshop - When to Trust Your Model: Model-Based Policy Optimization**
 
-- [[Project Home]](https://people.eecs.berkeley.edu/~janner/mbpo/) [[Paper]](https://arxiv.org/abs/1906.08253) [[Slide]](/topics/data/rl/trust_mbpo.pdf)
+- [Michael Janner](https://people.eecs.berkeley.edu/~janner/), Justin Fu, [Marvin Zhang](http://marvinzhang.com/research/), Sergey Levine
+- [[Project Home]](https://people.eecs.berkeley.edu/~janner/mbpo/) [[Paper]](https://arxiv.org/abs/1906.08253) [[Github]](https://github.com/JannerM/mbpo) [[Slide]](/topics/data/rl/trust_mbpo.pdf)
 
 **2019 - Exploring Model-based Planning with Policy Networks**
 
