@@ -108,6 +108,7 @@ title: Autonomous Driving
 - 算法 - 一篇读懂自动驾驶汽车决策层算法的新思路 [[Website]](https://mp.weixin.qq.com/s/4chZ52I3Qy34GmEqtDpHfw)
 - 自动驾驶中轨迹规划的探索和挑战 [[Website]](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
 	- 作者：Pony.ai Tech lead 梁亚雄
+- [应对复杂路况，自动驾驶如何规划它的下一步？ “老司机”炼成记！](https://mp.weixin.qq.com/s/iNFFeLipAjI6NJz7VF7IkA)
 - 【美团无人配送】自动驾驶中的决策规划算法概述 [[Website]](https://mp.weixin.qq.com/s/oNHDzdxMy_ciAok79kLDYg)
 - 【美团技术解析】无人车横向控制解读 [[Website]](https://mp.weixin.qq.com/s/jtm9J8KCUy3qSBB1bnw6xg)
 - 『无人驾驶』运动规划与运动控制（知乎专栏）[[Website]](https://zhuanlan.zhihu.com/c_1090991479136346112)
@@ -428,6 +429,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 决策规划控制
 - [自动驾驶中轨迹规划的探索和挑战](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
+- [应对复杂路况，自动驾驶如何规划它的下一步？ “老司机”炼成记！](https://mp.weixin.qq.com/s/iNFFeLipAjI6NJz7VF7IkA)
 
 
 ### 19. 安全报告
