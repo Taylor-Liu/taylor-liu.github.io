@@ -8,6 +8,8 @@ title: RL Practice
 - [OpenAI Spinning Up](http://spinningup.openai.com/en/latest/index.html)
 - [openai/baselines](https://github.com/openai/baselines)
 - [hill-a/stable-baselines](https://github.com/hill-a/stable-baselines)
+- [garage](https://github.com/rlworkgroup/garage)
+- [rllab](https://github.com/rll/rllab)
 
 - [astooke/rlpyt](https://github.com/astooke/rlpyt)
 	- Reinforcement Learning in PyTorch
