@@ -55,7 +55,7 @@ title:  Robot Manipulation
 	- [第09讲：“手眼”结合完成物体抓取应用](https://zhuanlan.zhihu.com/p/63757762)
 	- [第10讲：针对工业应用的ROS-I又是什么](https://zhuanlan.zhihu.com/p/63759713)
 	- [第11讲：基于ROS设计一款机械臂控制系统](https://zhuanlan.zhihu.com/p/63760545)
-	- [第12讲：ROS--机器人开发的神兵利](https://zhuanlan.zhihu.com/p/63760974)
+	- [第12讲：ROS--机器人开发的神兵利器](https://zhuanlan.zhihu.com/p/63760974)
 
 - ROS Summer School 2018
 	- 工业机器人（邱强）[[Slide]](http://www.roseducation.org/ros2018/docs/邱强-工业机器人.pdf)
