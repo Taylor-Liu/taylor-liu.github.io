@@ -40,7 +40,26 @@ title:  Robot Manipulation
 - 2018版协作机器人行业发展蓝皮书 [[PDF]](/robotics/data/2018版协作机器人行业发展蓝皮书.pdf)
 - 优傲成功案例合集 [[PDF]](https://www.universal-robots.cn/uploads/urrobot/userfiles/products/应用案例.pdf?utm_campaign=CN_2019_Email%20Campaign&utm_source=hs_automation&utm_medium=email&utm_content=74340021&_hsenc=p2ANqtz-8ry9d8PEvGd2zMl2rWvmmG376Z9Tr-ZQisk1wREtwN98aOoskQ_wEC-7kJ7L_luzDAZuirVCId8DNd1OcKjCMLV5zRUg&_hsmi=74340021)
 
+
+### Course
+
+- ROS机械臂开发：从入门到实战
+	- [第01讲：ROS的过去、现在和未来](https://zhuanlan.zhihu.com/p/59864275)
+	- [第02讲：风靡机器人圈的ROS到底是什么](https://zhuanlan.zhihu.com/p/59865069)
+	- [第03讲：如何从零创建一个机器人模型](https://zhuanlan.zhihu.com/p/61015282)
+	- [第04讲：ROS机械臂开发中的主角MoveIt!](https://zhuanlan.zhihu.com/p/61016868)
+	- [第05讲：搭建仿真环境一样玩转ROS机械臂](https://zhuanlan.zhihu.com/p/61018121)
+	- [第06讲：MoveIt!编程驾驭机械臂运动控制](https://zhuanlan.zhihu.com/p/61473166)
+	- [第07讲：MoveIt!中不得不说的“潜规则](https://zhuanlan.zhihu.com/p/62009639)
+	- [第08讲：ROS机器视觉应用中的关键点](https://zhuanlan.zhihu.com/p/63755939)
+	- [第09讲：“手眼”结合完成物体抓取应用](https://zhuanlan.zhihu.com/p/63757762)
+	- [第10讲：针对工业应用的ROS-I又是什么](https://zhuanlan.zhihu.com/p/63759713)
+	- [第11讲：基于ROS设计一款机械臂控制系统](https://zhuanlan.zhihu.com/p/63760545)
+	- [第12讲：ROS--机器人开发的神兵利](https://zhuanlan.zhihu.com/p/63760974)
+
+
 ### Others
 
 - [Pick-it 3D视觉](https://www.pickit3d.com/)
+
 
