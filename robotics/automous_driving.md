@@ -38,6 +38,11 @@ title: Autonomous Driving
 
 [Apollo自动驾驶工程师技能图谱V2.0](/topics/data/apollo-v2.pdf)
 
+### 自动驾驶实践
+
+- CARLA Autonomous Driving Challenge
+	- [[Homepage]](https://carlachallenge.org/) [[Get started]](https://carlachallenge.org/get-started/)
+
 ### 1. Basics
 
 - [无人驾驶技术入门（十二）- 无人驾驶中的坐标转换](https://zhuanlan.zhihu.com/p/41263701)
