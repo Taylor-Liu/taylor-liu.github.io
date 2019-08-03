@@ -26,3 +26,6 @@ title: ROS
 	- ROS 2 on Autonomous Driving Vehicles [[Video]](https://vimeo.com/292695688)[[Slide]](https://roscon.ros.org/2018/presentations/ROSCon2018_ROS2onAutonomousDrivingVehicles.pdf)
 		- Over the past 10 years, ROS 1 has proven itself to be the framework of choice for prototyping and developing large robotic applications. Many limitations preventing ROS 1 from being used in production applications have been discovered over the years, and after significant prototyping, ROS 2 makes great headway in making ROS 2 suitable for production. Autonomous driving is the next great technology waiting to be realized and transform our society. A full autonomous driving stack is inarguably a large robotic system, and consequently ROS 2 is the right framework upon which to develop a full autonomous driving stack. To prove this, we have developed a part of the autonomous driving stack based on ROS 2.
 
+### Course
+
+- [《古月 · ROS入门21讲》课件&源码](https://github.com/huchunxu/ros_21_tutorials)
