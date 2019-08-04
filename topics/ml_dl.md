@@ -19,7 +19,6 @@ title: Machine Learning and Deep Learning
 - [cs231n_2019_stanford/CS231N_Pytorch_Tutorial.ipynb](https://github.com/Taylor-Liu/deeplearning/blob/master/CS231N_pytorch_tutorial.ipynb)
 - [PyTorch最佳实践，怎样才能写出一手风格优美的代码 (2019.04.29)](https://www.jiqizhixin.com/articles/2019-04-29-5?from=synced&keyword=pytorch)
 - [官网教程：Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-- cs231n_2019_stanford/pytorch_tutorial.ipynb
 - [9 Tips For Training Lightning-Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
 
 ### 机器学习实践
