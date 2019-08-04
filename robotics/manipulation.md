@@ -44,18 +44,18 @@ title:  Robot Manipulation
 ### Course
 
 - ROS机械臂开发：从入门到实战
-	- [第01讲：ROS的过去、现在和未来](https://zhuanlan.zhihu.com/p/59864275)
-	- [第02讲：风靡机器人圈的ROS到底是什么](https://zhuanlan.zhihu.com/p/59865069)
-	- [第03讲：如何从零创建一个机器人模型](https://zhuanlan.zhihu.com/p/61015282)
-	- [第04讲：ROS机械臂开发中的主角MoveIt!](https://zhuanlan.zhihu.com/p/61016868)
-	- [第05讲：搭建仿真环境一样玩转ROS机械臂](https://zhuanlan.zhihu.com/p/61018121)
-	- [第06讲：MoveIt!编程驾驭机械臂运动控制](https://zhuanlan.zhihu.com/p/61473166)
-	- [第07讲：MoveIt!中不得不说的“潜规则](https://zhuanlan.zhihu.com/p/62009639)
-	- [第08讲：ROS机器视觉应用中的关键点](https://zhuanlan.zhihu.com/p/63755939)
-	- [第09讲：“手眼”结合完成物体抓取应用](https://zhuanlan.zhihu.com/p/63757762)
-	- [第10讲：针对工业应用的ROS-I又是什么](https://zhuanlan.zhihu.com/p/63759713)
-	- [第11讲：基于ROS设计一款机械臂控制系统](https://zhuanlan.zhihu.com/p/63760545)
-	- [第12讲：ROS--机器人开发的神兵利器](https://zhuanlan.zhihu.com/p/63760974)
+	- 第01讲：ROS的过去、现在和未来 [[Website]](https://zhuanlan.zhihu.com/p/59864275) [[Slide]](/robotics/data/ROS机械臂开发/第1讲_ROS的过去、现在和未来.pdf)
+	- 第02讲：风靡机器人圈的ROS到底是什么 [[Website]](https://zhuanlan.zhihu.com/p/59865069) [[Slide]](/robotics/data/ROS机械臂开发/第2讲_风靡机器人圈的ROS到底是什么.pdf)
+	- 第03讲：如何从零创建一个机器人模型 [[Website]](https://zhuanlan.zhihu.com/p/61015282) [[Slide]](/robotics/data/ROS机械臂开发/第3讲_如何从零创建一个机器人模型.pdf)
+	- 第04讲：ROS机械臂开发中的主角MoveIt! [[Website]](https://zhuanlan.zhihu.com/p/61016868) [[Slide]](/robotics/data/ROS机械臂开发/第4讲_ROS机械臂开发中的主角MoveIt!.pdf)
+	- 第05讲：搭建仿真环境一样玩转ROS机械臂 [[Website]](https://zhuanlan.zhihu.com/p/61018121) [[Slide]](/robotics/data/ROS机械臂开发/第5讲_搭建仿真环境一样玩转ROS机械臂.pdf)
+	- 第06讲：MoveIt!编程驾驭机械臂运动控制 [[Website]](https://zhuanlan.zhihu.com/p/61473166) [[Slide]](/robotics/data/ROS机械臂开发/第6讲_MoveIt!编程驾驭机械臂运动控制.pdf)
+	- 第07讲：MoveIt!中不得不说的“潜规则 [[Website]](https://zhuanlan.zhihu.com/p/62009639) [[Slide]](/robotics/data/ROS机械臂开发/第7讲_MoveIt!中不得不说的“潜规则”.pdf)
+	- 第08讲：ROS机器视觉应用中的关键点 [[Website]](https://zhuanlan.zhihu.com/p/63755939) [[Slide]](/robotics/data/ROS机械臂开发/第8讲_ROS机器视觉应用中的关键点.pdf)
+	- 第09讲：“手眼”结合完成物体抓取应用 [[Website]](https://zhuanlan.zhihu.com/p/63757762) [[Slide]](/robotics/data/ROS机械臂开发/第9讲_“手眼”结合完成物体抓取应用.pdf)
+	- 第10讲：针对工业应用的ROS-I又是什么 [[Website]](https://zhuanlan.zhihu.com/p/63759713) [[Slide]](/robotics/data/ROS机械臂开发/第10讲_针对工业应用的ROS-I又是什么.pdf)
+	- 第11讲：基于ROS设计一款机械臂控制系统 [[Website]](https://zhuanlan.zhihu.com/p/63760545) [[Slide]](/robotics/data/ROS机械臂开发/第11讲_基于ROS设计一款机械臂控制系统.pdf)
+	- 第12讲：ROS--机器人开发的神兵利器 [[Website]](https://zhuanlan.zhihu.com/p/63760974) [[Slide]](/robotics/data/ROS机械臂开发/第12讲_ROS——机器人开发的神兵利器.pdf)
 
 - ROS Summer School 2018
 	- 工业机器人（邱强）[[Slide]](http://www.roseducation.org/ros2018/docs/邱强-工业机器人.pdf)
