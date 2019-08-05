@@ -69,8 +69,20 @@ $$
 
 ```python
 # 使用scikit-learn函数
+standar_scaler = preprocessing.StandardScaler()
+feature_scaled = standar_scaler.fit_transform(feature)
 
+# 使用numpy自定义函数
+def min_max_norm(x):
+	x = np.array(x)
+	x_norm = (x - np.mean(x)) / np.std(x)
+	return x_norm
 ```
+
+Blog
+
+- [机器学习中的标准化/归一化](http://blog.csdn.net/index20001/article/details/78044971)
+
 
 
 
