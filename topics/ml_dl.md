@@ -67,6 +67,7 @@ title: Machine Learning and Deep Learning
 ### 集成方法(Ensemble methods)
 
 - [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+- [awesome-ensemble-learning](https://github.com/yzhao062/awesome-ensemble-learning)
 
 ### CUDA & CUDNN
 
