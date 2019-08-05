@@ -63,6 +63,10 @@ numpy.random.choice()随机选取内容, [https://docs.scipy.org/doc/numpy/refer
 
 $$x^*=\frac{x-\mu}{\sigma}$$
 
+$$
+\theta^* = \arg\min_\theta \mathbb{E}_{\mathcal{D}\sim p(\mathcal{D})} [\mathcal{L}_\theta(\mathcal{D})]
+$$
+
 经过处理的数据符合标准正态分布，均值为$0$，标准差为$1$
 
 ```python
