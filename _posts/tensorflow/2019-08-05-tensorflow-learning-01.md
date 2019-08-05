@@ -61,11 +61,7 @@ numpy.random.choice()随机选取内容, [https://docs.scipy.org/doc/numpy/refer
 
 标准差标准化 (z-score standardization)
 
-$$
-\begin{aligned}
-x^*=\frac{x-\mu}{\sigma}
-\end{aligned}
-$$
+$$x^*=\frac{x-\mu}{\sigma}$$
 
 经过处理的数据符合标准正态分布，均值为$0$，标准差为$1$
 
