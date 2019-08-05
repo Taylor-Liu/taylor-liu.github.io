@@ -191,6 +191,8 @@ paginate: 15
 
 kramdown:
   input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -278,6 +280,8 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
