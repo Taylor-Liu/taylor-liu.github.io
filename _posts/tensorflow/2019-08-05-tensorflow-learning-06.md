@@ -55,6 +55,12 @@ output:
 """
 ```
 
+- 直接操作
+
+$$
+\nabla_{\theta} J\left(\pi_{\theta}\right)=\underset{\tau \sim \pi_{\theta}}{\mathrm{E}}\left[\sum_{t=0}^{T} \nabla_{\theta} \log \pi_{\theta}\left(a_{t} | s_{t}\right) R(\tau)\right]
+$$
+
 
 ### 2. tf.cast
 
