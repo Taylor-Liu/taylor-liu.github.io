@@ -3,14 +3,14 @@ layout: page
 title:  Python
 ---
 
-### jupyter notebook 增加kernel
+## jupyter notebook 增加kernel
 
 假设python环境名为python35，执行下面命令添加该环境下的kernel
 
 > pip install ipykernel
 > python -m ipykernel install --name python35
 
-### Python在Terminal中的自动补全
+## Python在Terminal中的自动补全
 
 为了在 Terminal 中使用 Python 更加方便，在 home 目录下添加脚本 `.pythonstartup`，内容如下，
 
@@ -49,14 +49,14 @@ atexit.register(readline.write_history_file, histfile)
 del os, histfile, readline, rlcompleter
 ```
 
-### Python语法
+## Python语法
 
-#### Python中append和extend的区别
+### Python中append和extend的区别
 
 - list.append(object) 向列表中添加一个对象object
 - list.extend(sequence) 把一个序列seq的内容添加到列表中
 
-#### python函数 — 形参中的 *args 和 **kwargs
+### python函数: 形参中的 *args 和 **kwargs
 
 *args：（表示的就是将实参中按照位置传值，多出来的值都给args，且以元祖的方式呈现）
 
