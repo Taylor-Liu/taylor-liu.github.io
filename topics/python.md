@@ -3,6 +3,7 @@ layout: page
 title:  Python
 ---
 
+Output
 * TOC
 {:toc}
 
@@ -106,7 +107,7 @@ output:
 字典浅拷贝实例
 
 ```python
->>>a = {1: [1,2,3]}
+>>> a = {1: [1,2,3]}
 >>> b = a.copy()
 >>> a, b
 ({1: [1, 2, 3]}, {1: [1, 2, 3]})
@@ -118,7 +119,7 @@ output:
 深度拷贝需要引入`copy`模块
 
 ```python
->>>import copy
+>>> import copy
 >>> c = copy.deepcopy(a)
 >>> a, c
 ({1: [1, 2, 3, 4]}, {1: [1, 2, 3, 4]})
