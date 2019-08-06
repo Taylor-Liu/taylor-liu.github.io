@@ -3,13 +3,13 @@ layout: post
 title: Tensorflow学习笔记01
 ---
 
-### 1. 基本概念
+## 1. 基本概念
 
 - 节点（constant、placeholder、Variable）
 
-### 2. 细节问题
+## 2. 细节问题
 
-#### 2.1 tensorflow 张量的阶、形状、数据类型及None在tensor中表示的意思
+### 2.1 tensorflow 张量的阶、形状、数据类型及None在tensor中表示的意思
 
 [https://www.cnblogs.com/welhzh/p/6554872.html](https://www.cnblogs.com/welhzh/p/6554872.html)
 
@@ -19,7 +19,7 @@ x = tf.placeholder(tf.float32, [None, 784])
 
 x isn't a specific value. It's a placeholder, a value that we'll input when we ask TensorFlow to run a computation. We want to be able to input any number of MNIST images, each flattened into a 784-dimensional vector. We represent this as a 2-D tensor of floating-point numbers, with a shape [None, 784]. (`Here None means that a dimension can be of any length.`) 注：这里的“None”表示其可以是任意长度
 
-#### 2.2 tensorflow函数解析：Session.run和Tensor.eval
+### 2.2 tensorflow函数解析：Session.run和Tensor.eval
 
 [http://blog.csdn.net/zcf1784266476/article/details/70259676](http://blog.csdn.net/zcf1784266476/article/details/70259676)
 
@@ -36,20 +36,20 @@ with sess.as_default():
 	sess.run([tu, ut]) # evaluates both tensors in a single step
 ```
 
-### 3. Numpy学习
+## 3. Numpy学习
 
 [numpy.random.choice()随机选取内容](https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html)
 
-### 4. 博客学习
+## 4. 博客学习
 
 [一文学会用 Tensorflow 搭建神经网络](https://www.jianshu.com/p/e112012a4b2d)
 
-### 5. 教程学习
+## 5. 教程学习
 
 - [Github (MorvanZhou/Tensorflow-Tutorial)](https://github.com/MorvanZhou/Tensorflow-Tutorial)
 - [Google机器学习速成课程（使用 TensorFlow API）](https://developers.google.cn/machine-learning/crash-course/prereqs-and-prework)
 
-### 6. 数据预处理
+## 6. 数据预处理
 
 标准化（normalization）
 
