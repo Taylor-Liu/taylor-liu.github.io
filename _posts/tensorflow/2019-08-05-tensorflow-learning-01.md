@@ -38,11 +38,11 @@ with sess.as_default():
 
 ### 3. Numpy学习
 
-numpy.random.choice()随机选取内容, [https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html](https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html)
+[numpy.random.choice()随机选取内容](https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.choice.html)
 
 ### 4. 博客学习
 
-一文学会用 Tensorflow 搭建神经网络, [https://www.jianshu.com/p/e112012a4b2d](https://www.jianshu.com/p/e112012a4b2d)
+[一文学会用 Tensorflow 搭建神经网络](https://www.jianshu.com/p/e112012a4b2d)
 
 ### 5. 教程学习
 
@@ -79,7 +79,7 @@ def min_max_norm(x):
 	return x_norm
 ```
 
-Blog
+参考Blog
 
 - [机器学习中的标准化/归一化](http://blog.csdn.net/index20001/article/details/78044971)
 
