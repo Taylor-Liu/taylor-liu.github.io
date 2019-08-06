@@ -3,7 +3,7 @@ layout: page
 title:  Python
 ---
 
-Output
+Content
 * TOC
 {:toc}
 
