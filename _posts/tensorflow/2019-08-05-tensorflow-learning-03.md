@@ -3,7 +3,7 @@ layout: post
 title: Tensorflow学习笔记03 - 基本概念
 ---
 
-### 0. Hello World
+## 0. Hello World
 
 ```python
 import tensorflow as tf
@@ -19,7 +19,7 @@ sess = tf.Session()
 print(sess.run(hello))
 ```
 
-### 1. 计算模型：计算图 (tf.Graph)
+## 1. 计算模型：计算图 (tf.Graph)
 
 Tensorflow 中的所有计算都会被转化为计算图上的节点
 
@@ -30,7 +30,7 @@ Tensorflow 程序一般可以分为两个阶段
 * 阶段二：执行计算
 
 
-### 2. 数据模型：张量 (tf.Tensor)
+## 2. 数据模型：张量 (tf.Tensor)
 
 从功能的角度，张量可以被简单理解为多维数组
 * 零阶张量：表示标量 (scalar)，也就是一个数
@@ -52,19 +52,19 @@ Tensorflow 程序一般可以分为两个阶段
 ！！！！张量本身并不存储任何数据，它只是对运算结果的引用。
 
 
-### 3. 运行模型：会话 (tf.Session)
+## 3. 运行模型：会话 (tf.Session)
 
 
-### 4. 基本单位
+## 4. 基本单位
 
 
-### 5. 集合（collection）
+## 5. 集合（collection）
 
 
-### 6. 常用的优化算法
+## 6. 常用的优化算法
 
 
-### 7. 训练神经网络的过程（从不同角度去看）
+## 7. 训练神经网络的过程（从不同角度去看）
 
 
-### 8. Training epoch/batch
+## 8. Training epoch/batch
