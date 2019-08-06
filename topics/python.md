@@ -64,15 +64,15 @@ del os, histfile, readline, rlcompleter
 
 ```python
 def foo(x, *args):
-	print(x)
-	print(args)
+    print(x)
+    print(args)
 
 foo(1, 2, 3, 4, 5) # 其中的2,3,4,5都给了args
 
 """
 output:
-	1
-	(2, 3, 4, 5)
+    1
+    (2, 3, 4, 5)
 """
 ```
 
