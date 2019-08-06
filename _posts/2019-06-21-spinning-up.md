@@ -67,7 +67,7 @@ title: Spinning Up as a Deep RL Researcher 中译文
 
 - 实验要完整，不要只展示好的结果。
 
-- 分别检查每一条提出的结论。
+- 分别检查每一条提出的结论。ablation analyses
 
 ### 总结
 
