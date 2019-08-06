@@ -35,6 +35,7 @@ navbar-links:
     - NLP: "topics/nlp"
     - Computer Vision: "topics/cv"
     - Code: "topics/code"
+    - Python: "topics/python"
   Robotics:
     - Robotics: "robotics/robotics"
     - Automous Driving: "robotics/automous_driving"
