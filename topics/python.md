@@ -3,9 +3,12 @@ layout: page
 title:  Python
 ---
 
-Content
+---
+
 * TOC
 {:toc}
+
+---
 
 ## jupyter notebook 增加kernel
 
