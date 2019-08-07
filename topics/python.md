@@ -4,8 +4,7 @@ title:  Python
 ---
 
 ---
-Content
-
+**Table of Contents**
 * TOC
 {:toc}
 
