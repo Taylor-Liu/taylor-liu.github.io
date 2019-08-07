@@ -4,6 +4,8 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+@import "/_sass/sass-code-highlight/monokai";
+
 /* --- General --- */
 
 body {
@@ -663,8 +665,6 @@ table tr td :last-child {
 }
 
 /* --- Code blocks --- */
-
-@import "/_sass/sass-code-highlight/github";
 
 /*pre {
   font-size: 16px;
