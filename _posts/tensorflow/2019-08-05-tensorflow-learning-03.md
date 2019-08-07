@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tensorflow学习笔记03 - 基本概念
+tags: [tensorflow]
 ---
 
 ## 0. Hello World
