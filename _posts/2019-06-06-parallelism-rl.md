@@ -2,6 +2,7 @@
 layout: post
 title: Parallelism in RL
 share-img: /topics/img/rl_framework.jpg
+tags: [reinforcement learning]
 ---
 
 Questions
