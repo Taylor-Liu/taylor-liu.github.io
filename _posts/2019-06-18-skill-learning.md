@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Skill Learning
+tags: [reinforcement learning, skill learning, multi-task learning]
 ---
 
 **ICRA'19 Workshop: Learning Legged Locomotion**
