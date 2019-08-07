@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tensorflow学习笔记01
+tags: [tensorflow, deep learning]
 ---
 
 ## 1. 基本概念
