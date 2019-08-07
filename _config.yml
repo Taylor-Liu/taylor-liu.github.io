@@ -26,6 +26,7 @@ navbar-links:
   Home:
     - Blog: ""
     - About: "aboutme"
+    - Tags: "tags"
   Topic: 
     - Information: "topics/information"
     - Research Skills: "topics/research"
