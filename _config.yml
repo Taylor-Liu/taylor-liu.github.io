@@ -190,6 +190,7 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 15
 
+# Markdown Processors
 kramdown:
   input: GFM
   auto_ids: true
