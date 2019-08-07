@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 百度Apollo仿真场景库
+tags: [autonomous driving]
 ---
 
 主页：[http://apollo.auto/platform/simulation.html](http://apollo.auto/platform/simulation.html)
