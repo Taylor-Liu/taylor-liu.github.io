@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Tensorflow学习笔记06 - 常用API
+tags: [tensorflow, deep learning]
 ---
 
 ### 1. Assign a value to a TensorFlow variable
