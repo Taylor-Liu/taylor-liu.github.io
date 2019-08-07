@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Markdown基本知识学习
+tags: [writing]
 ---
 
 今天第一次使用Markdown，被它的效果深深地感动了。之前电脑安装了Markdown编辑器 — MarkdownPad2，但因为种种原因没有去使用。今天在看魏剑锋的微信公众号文章时，看到了几篇关于写作相关的文章，就想到了之前下载MarkdownPad2就是因为想写博客，于是就去尝试着用了一下。
