@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 利用jekyll搭建个人博客
+tags: [writing]
 ---
 
 ### jekyll相关资源

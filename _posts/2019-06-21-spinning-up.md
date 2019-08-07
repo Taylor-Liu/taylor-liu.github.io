@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spinning Up as a Deep RL Researcher 中译文
+tags: [reinforcement learning]
 ---
 
 目录

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ICML2019 | 腾讯AI Lab强化学习论文
+tags: [ICML, reinforcement learning, AI Lab]
 ---
 
 **Grid-Wise Control for Multi-Agent Reinforcement Learning in Video Game AI**

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 关于写作益处的几篇博文
+tags: [writing]
 ---
 
 **不同人对于写作带来的益处的思考**

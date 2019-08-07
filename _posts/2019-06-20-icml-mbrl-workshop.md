@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ICML2019 Workshop | Generative Modeling and Model-Based Reasoning for Robotics and AI
+tags: [ICML, reinforcement learning]
 ---
 
 Homepage: [https://sites.google.com/view/mbrl-icml2019](https://sites.google.com/view/mbrl-icml2019)

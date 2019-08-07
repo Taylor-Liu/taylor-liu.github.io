@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Git Learning
+tags: [git]
 ---
 
 Github Guides: Hello World [[Website]](https://guides.github.com/activities/hello-world/)
