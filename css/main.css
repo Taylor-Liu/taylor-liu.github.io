@@ -4,7 +4,7 @@ layout: null
 
 @import url("pygment_highlights.css");
 
-@import "sass-code-highlight/monokai";
+/*@import "sass-code-highlight/monokai";*/
 
 /* --- General --- */
 
@@ -666,7 +666,7 @@ table tr td :last-child {
 
 /* --- Code blocks --- */
 
-/*pre {
+pre {
   font-size: 16px;
   line-height: 1.5em;
 }
@@ -701,7 +701,7 @@ td.code pre {
 }
 td.gutter {
   padding-top: 3px;
-}*/
+}
 
 /* --- Social media sharing section --- */
 
