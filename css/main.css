@@ -4,7 +4,7 @@ layout: null
 
 /*@import url("pygment_highlights.css");*/
 
-@import "sass-code-highlight/monokai";
+@import url("/_sass/sass-code-highlight/monokai");
 
 /* --- General --- */
 
