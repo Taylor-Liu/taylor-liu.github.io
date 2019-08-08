@@ -53,4 +53,13 @@ tags: [writing]
 
 - [Line numbers in Jekyll code blocks](https://botleg.com/stories/line-numbers-in-jekyll-code-blocks/)
 
+## 其它
+
+- [List of supported languages and lexers for rouge](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
+
+
+
+
+
+
 
