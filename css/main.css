@@ -4,6 +4,21 @@
 @import url("code_hightlights/monokai_sublime.css");*/
 @import url("code_hightlights/monokai_2.css");
 
+/* --- Code line --- */
+
+.lineno { 
+  color: #ccc; 
+  display:inline-block; 
+  padding: 0 5px; 
+  border-right:1px solid #ccc;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
 /* --- General --- */
 
 body {
