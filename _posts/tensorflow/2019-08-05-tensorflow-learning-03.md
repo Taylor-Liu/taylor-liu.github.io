@@ -69,7 +69,7 @@ Tensorflow 程序一般可以分为两个阶段
 
 训练神经网络来解决二分类问题的例子：
 
-{% highlight python linenos %}
+```python
 import tensorflow as tf
 from numpy.random import RandomState
 
@@ -142,7 +142,7 @@ Output:
      [ 0.49110925]
      [-0.98110336]]
 """
-{% endhighlight %}
+```
 
 
 ## 8. Training epoch/batch
