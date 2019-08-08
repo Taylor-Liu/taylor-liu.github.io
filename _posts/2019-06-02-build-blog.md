@@ -47,5 +47,6 @@ tags: [writing]
 ## 代码块语法高亮
 
 - [Jekyll code highlighting](https://yaitloutou.github.io/blog/2017/01/22/jekyll-code-highlighting/)
+- [Add Syntax Highlighting to your Jekyll site with Rouge](https://bnhr.xyz/2017/03/25/add-syntax-highlighting-to-your-jekyll-site-with-rouge.html)
 
 
