@@ -4,7 +4,7 @@ title: Tensorflow学习笔记06 - 常用API
 tags: [tensorflow, deep learning]
 ---
 
-{% highlight javascript linedivs %}
+{% highlight javascript %}
 var foo = function(x) {
   return(x + 5);
 }
