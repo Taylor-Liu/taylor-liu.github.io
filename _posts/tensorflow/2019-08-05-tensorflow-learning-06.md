@@ -10,7 +10,7 @@ tags: [tensorflow, deep learning]
 
 - op = x.assign(new_value)
 
-{% highlight python %}
+```python
 import tensorflow as tf
 
 x = tf.Variable(12)
@@ -29,7 +29,7 @@ output:
 	Before assign: 12
 	After assign: 34
 """
-{% endhighlight %}
+```
 
 - tf.assign(x, new_value)
 
