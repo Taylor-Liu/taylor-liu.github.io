@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Namespace of C++ and Python
-tags: [python, c++, code]
+title: Python命名规范
+tags: [python, code]
 ---
 
 ## Python
