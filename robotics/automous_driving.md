@@ -354,6 +354,9 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - Apollo高精地图服务介绍及云端仿真平台应用[[Slide]](/topics/data/2017-Apollo高精地图服务介绍及云端仿真平台应用.pdf)
 - [自动驾驶公开课 - Apollo“云＋端”研发迭代模式实战](https://mp.weixin.qq.com/s/Gr_Woa35wZaguNG-BDjePQ)
 
+- [关于Apollo 5.0 控制在环仿真技术分享](https://mp.weixin.qq.com/s/5vgSFy-4mBr4R_T7TnPKcw)
+- [Apollo公开课 - 为纯视觉感知生成合成数据集](https://mp.weixin.qq.com/s/_Fq0vs12KpKFBze4Ev4IMg)
+
 `51VR`
 
 - [快讯 - 51VR受邀出席中国汽车重庆论坛，五大案例详解仿真最新实践](https://mp.weixin.qq.com/s/G6pcpWHREntP5Lnvc07NeQ)
@@ -363,6 +366,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 `场景构建`
 
 - [自动驾驶测试中的场景构建](https://mp.weixin.qq.com/s/4vLIdxjcV5YZv03kP72h8Q)
+- [NHTSA-inspired pre-crash scenarios (CARLA Autonomous Driving Challenge)](https://carlachallenge.org/challenge/nhtsa/)
 
 ### 13. 商业落地
 
