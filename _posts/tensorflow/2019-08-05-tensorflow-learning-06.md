@@ -65,10 +65,6 @@ output:
 
 - 直接操作
 
-$$
-\nabla_{\theta} J\left(\pi_{\theta}\right)=\underset{\tau \sim \pi_{\theta}}{\mathrm{E}}\left[\sum_{t=0}^{T} \nabla_{\theta} \log \pi_{\theta}\left(a_{t} | s_{t}\right) R(\tau)\right]
-$$
-
 
 ### 2. tf.cast
 
@@ -83,4 +79,59 @@ $$
 
 
 ### 6. Others
+
+`tf.squeeze()`
+
+```python
+squeeze(
+    input,
+    axis=None,
+    name=None,
+    squeeze_dims=None
+)
+```
+
+该函数返回一个张量，这个张量是将原始input中所有维度为1的那些维都删掉的结果。`axis`可以用来指定要删掉的为1的维度，**此处要注意指定的维度必须确保其是1，否则会报错**
+
+```python
+>>> y = tf.squeeze(inputs, [0, 1], name='squeeze')
+>>> ValueError: Can not squeeze dim[0], expected a dimension of 1, got 32 for 'squeeze' (op: 'Squeeze') with input shapes: [32,1,1,3].
+```
+
+例子：
+
+```python
+#  't' 是一个维度是[1, 2, 1, 3, 1, 1]的张量
+tf.shape(tf.squeeze(t))   # [2, 3]， 默认删除所有为1的维度
+
+# 't' 是一个维度[1, 2, 1, 3, 1, 1]的张量
+tf.shape(tf.squeeze(t, [2, 4]))  # [1, 2, 3, 1]，标号从零开始，只删掉了2和4维的1
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
