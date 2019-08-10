@@ -242,6 +242,8 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 ### 9. 相关课程
 
+- [4 Best Self Driving Cars Courses & Certification [2019] [UPDATED]](https://digitaldefynd.com/best-self-driving-cars-courses/)
+
 `MIT 6.S094: Deep Learning for Self-Driving Car`
 
 - [HomePage](https://selfdrivingcars.mit.edu/)
