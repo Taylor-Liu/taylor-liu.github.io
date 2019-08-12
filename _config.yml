@@ -44,10 +44,10 @@ navbar-links:
     - Robot Hardware: "robotics/hardware"
     - ROS: "robotics/ros"
   RL:
-    - Overview: "rl/overview"
+    - Overview: "rl/rl_overview"
     - Off-policy RL: "rl/off-policy-rl"
     - Model-based RL: "rl/mbrl"
-    - RL Practice: "rl/practice"
+    - RL Practice: "rl/rl_practice"
     - RL in Real World: "rl/real_world"
     - Meta Learning: "rl/meta-learning"
   Math:
