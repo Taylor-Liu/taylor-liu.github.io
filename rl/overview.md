@@ -31,7 +31,7 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 - Berkeley Deep RL course: [rll.berkeley.edu/deeprlcourse](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - CMU Deep RL course: [katefvision.github.io](https://katefvision.github.io/)
-- Stanford RL course: [web.stanford.edu/class/cs234/index.html](web.stanford.edu/class/cs234/index.html)
+- Stanford RL course: [onlinehub.stanford.edu/cs234](https://onlinehub.stanford.edu/cs234)
 - David Silver’s RL course: [http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
 - DeepMind's Advanced DL & RL course
 	- [Youtube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
