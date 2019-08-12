@@ -425,6 +425,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 感知
 - [L4自动驾驶中感知系统遇到的挑战及解决方案](https://mp.weixin.qq.com/s/cqdi9V_BnY6pwRJl3dD0dA)
 - [传统方法和深度学习结合的感知策略探索](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247491669&idx=1&sn=47f3e771448efc8e12ad562ed6b78148&chksm=fbd75239cca0db2ff604247f820744eb37397f346252c03eb464277ff46ad45b370b6885be6f&scene=21#wechat_redirect)
+- [自动驾驶多传感器感知的探索](https://mp.weixin.qq.com/s/iYWV_TW0mvje6QwC9fZXew)
 
 决策规划控制
 - [自动驾驶中轨迹规划的探索和挑战](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
