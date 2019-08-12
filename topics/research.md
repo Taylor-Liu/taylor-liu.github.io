@@ -32,3 +32,4 @@ title: Research Skills
 - [清华刘知远：如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
 - 清华刘洋：机器翻译学术论⽂写作⽅法和技巧 [[Slide]](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 - [论文成功发表的科研人员，应该拥有哪些良好写作习惯？- 知乎](https://www.zhihu.com/question/38059861)
+- [吴恩达斯坦福CS230第八讲：新手如何读论文，怎么找工作](https://mp.weixin.qq.com/s/CZGny8jZR4_mehrvSM_pHw)
