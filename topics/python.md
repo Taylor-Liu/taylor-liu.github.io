@@ -13,7 +13,7 @@ title:  Python
 ## Python学习
 
 - Stanford - CS224n - Python review [[Slide]](http://web.stanford.edu/class/cs224n/readings/python-review.pdf)
-- Stanford - CS231n - Python Numpy Tutorial [[Website]](http://cs231n.github.io/python-numpy-tutorial/)
+- Stanford - CS231n - Python Numpy Tutorial [[Website]](http://cs231n.github.io/python-numpy-tutorial/) [[ipython]](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
 
 ## jupyter notebook 增加kernel
 
