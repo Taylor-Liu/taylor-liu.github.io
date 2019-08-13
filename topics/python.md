@@ -10,6 +10,11 @@ title:  Python
 
 ---
 
+## Python学习
+
+- Stanford - CS224n - Python review [[Slide]](http://web.stanford.edu/class/cs224n/readings/python-review.pdf)
+- Stanford - CS231n - Python Numpy Tutorial [[Website]](http://cs231n.github.io/python-numpy-tutorial/)
+
 ## jupyter notebook 增加kernel
 
 假设python环境名为python35，执行下面命令添加该环境下的kernel
