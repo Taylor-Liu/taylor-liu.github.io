@@ -19,9 +19,10 @@ title: Machine Learning and Deep Learning
 - [官网教程：Get started with Tensorflow2.0](https://www.tensorflow.org/alpha)
 - [cs231n_2019_stanford/CS231N_TensorFlow_Tutorial.ipynb](https://github.com/Taylor-Liu/deeplearning/blob/master/CS231N_tensorFlow_tutorial.ipynb)
 
-`Slide`
 
-- [Stanford - CS224d - TensorFlow Tutorial](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
+
+- Stanford - CS224d (Winter 2017) - TensorFlow Tutorial [[Slide]](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
+- Stanford - CS224n (Winter 2018) - TensorFlow Tutorial [[Slide]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/lectures/lecture6.pdf) [[Code]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/readings/tensorflow_tutorial_code.zip)
 
 
 ### Pytorch实践
