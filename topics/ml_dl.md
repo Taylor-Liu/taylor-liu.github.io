@@ -17,6 +17,7 @@ title: Machine Learning and Deep Learning
 ### Tensorflow实践
 
 - [官网教程：Get started with Tensorflow2.0](https://www.tensorflow.org/alpha)
+- [官网教程：张量(Tensor)](https://www.tensorflow.org/guide/tensors)
 
 - Stanford - CS224d (Winter 2017) - TensorFlow Tutorial [[Slide]](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 - Stanford - CS224n (Winter 2018) - TensorFlow Tutorial [[Slide]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/lectures/lecture6.pdf) [[Code]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/readings/tensorflow_tutorial_code.zip)
