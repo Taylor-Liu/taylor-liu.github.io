@@ -417,6 +417,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 整体
 - [Pony.ai 的基础架构挑战与实践](https://mp.weixin.qq.com/s/fBmYxP0ALyil7crSFKWWEg)
 - [自动驾驶从0到1之路](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247491875&idx=1&sn=4308296b589e6aecb3597ad6e986182b&chksm=fbd7534fcca0da59112b136be0bbbbdab2d79db4020e350ac1db71ad4b5aadacbaecd90519f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1563857235612&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
+- [“老司机”成长之路：自动驾驶车辆调试实践](https://mp.weixin.qq.com/s/uxRXIsBKZG8mEWluBDQP1w)
 
 定位
 - [高精地图和定位在自动驾驶的应用](https://mp.weixin.qq.com/s/QZ5W4YDD4rX8zM6qajQDtg)
