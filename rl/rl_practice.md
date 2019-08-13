@@ -16,6 +16,10 @@ title: RL Practice
 - [keiohta/tf2rl](https://github.com/keiohta/tf2rl)
 	- TensorFlow2.0 Reinforcement Learning
 
+### Slides
+
+- [CMU 10703 Deep RL: OpenAI Gym recitation](https://katefvision.github.io/10703_openai_gym_recitation.pdf)
+
 ### Example
 
 - [Curt-Park/rainbow-is-all-you-need](https://github.com/Curt-Park/rainbow-is-all-you-need)
