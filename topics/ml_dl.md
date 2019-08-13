@@ -3,6 +3,12 @@ layout: page
 title: Machine Learning and Deep Learning
 ---
 
+---
+**Table of Contents**
+* TOC
+{:toc}
+---
+
 ### 模型库
 
 - [Model Zoo](https://modelzoo.co/)
@@ -12,6 +18,10 @@ title: Machine Learning and Deep Learning
 
 - [官网教程：Get started with Tensorflow2.0](https://www.tensorflow.org/alpha)
 - [cs231n_2019_stanford/CS231N_TensorFlow_Tutorial.ipynb](https://github.com/Taylor-Liu/deeplearning/blob/master/CS231N_tensorFlow_tutorial.ipynb)
+
+`Slide`
+
+- [Stanford - CS224d - TensorFlow Tutorial](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 
 
 ### Pytorch实践
