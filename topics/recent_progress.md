@@ -3,6 +3,12 @@ layout: page
 title: Recent Progress
 ---
 
+---
+**Table of Contents**
+* TOC
+{:toc}
+---
+
 ### Coming!
 
 - IJCAI2019
@@ -122,6 +128,9 @@ title: Recent Progress
 	- Published: `Science`
 	- Time: May 31, 2019
 	- [[Paper]](https://science.sciencemag.org/content/364/6443/859/tab-pdf)[[机器之心报道]](https://www.jiqizhixin.com/articles/2019-06-01-2)
+- Behaviour Suite for Reinforcement Learning
+	- [[Github]](https://github.com/deepmind/bsuite) [[Paper]](https://arxiv.org/abs/1908.03568)
+	- [[colab tutorial]](https://colab.research.google.com/drive/1rU20zJ281sZuMD1DHbsODFr1DbASL0RH)
 
 ### 2. OpenAI
 
