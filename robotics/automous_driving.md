@@ -26,6 +26,14 @@ title: Autonomous Driving
 - CARLA Autonomous Driving Challenge
 	- [[Homepage]](https://carlachallenge.org/) [[Get started]](https://carlachallenge.org/get-started/)
 
+- Udacity: Self-Driving Car Engineer Nanodegree Program
+	- [[Github Project - ndrplz/self-driving-car]](https://github.com/ndrplz/self-driving-car)
+	- [[Github Project - jessicayung/self-driving-car-nd]](https://github.com/jessicayung/self-driving-car-nd)
+
+- Coursera: 多伦多大学自动驾驶专题
+	- [[Github Project - enginBozkurt/SelfDrivingCarsControlDesign]](https://github.com/enginBozkurt/SelfDrivingCarsControlDesign)
+		- Self Driving Cars Longitudinal and Lateral Control Design
+
 ### 综述文章
 
 - 国内
