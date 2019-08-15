@@ -16,15 +16,27 @@ title: RL Practice
 - [keiohta/tf2rl](https://github.com/keiohta/tf2rl)
 	- TensorFlow2.0 Reinforcement Learning
 
+### RL in Pytorch
+
+`Library`
+
+- [vitchyr/rlkit](https://github.com/vitchyr/rlkit)
+	- Collection of reinforcement learning algorithms
+
+`Tutorials`
+
+- [Pytorch官方例子: Reinforcement Learning (DQN) Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html#)
+- [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
+	- Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch
+- [Curt-Park/rainbow-is-all-you-need](https://github.com/Curt-Park/rainbow-is-all-you-need)
+	- Rainbow is all you need! Step-by-step tutorials from DQN to Rainbow
+
 ### Slides
 
 - [CMU 10703 Deep RL: OpenAI Gym recitation](https://katefvision.github.io/10703_openai_gym_recitation.pdf)
 
 ### Example
 
-- [Curt-Park/rainbow-is-all-you-need](https://github.com/Curt-Park/rainbow-is-all-you-need)
-	- Rainbow is all you need! Step-by-step tutorials from DQN to Rainbow
-	- Pytorch
 - [A Deep Dive into Reinforcement Learning](https://www.toptal.com/machine-learning/deep-dive-into-reinforcement-learning)
 - [dongminlee94/Samsung-DRL-Code](https://github.com/dongminlee94/Samsung-DRL-Code)
 	- Repository for codes of Deep Reinforcement Learning (DRL) lectured at Samsung
