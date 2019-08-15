@@ -30,6 +30,8 @@ title: RL Practice
 	- Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch
 - [Curt-Park/rainbow-is-all-you-need](https://github.com/Curt-Park/rainbow-is-all-you-need)
 	- Rainbow is all you need! Step-by-step tutorials from DQN to Rainbow
+- [ikostrikov/pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c)
+	- PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning".
 
 ### Slides
 
