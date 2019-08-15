@@ -3,6 +3,12 @@ layout: page
 title: RL Practice
 ---
 
+---
+**Table of Contents**
+* TOC
+{:toc}
+---
+
 ### Library
 
 - [OpenAI Spinning Up](http://spinningup.openai.com/en/latest/index.html)
@@ -26,12 +32,25 @@ title: RL Practice
 `Tutorials`
 
 - [Pytorch官方例子: Reinforcement Learning (DQN) Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html#)
+- [pytorch/examples](https://github.com/pytorch/examples/tree/master/reinforcement_learning)
 - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
 	- Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch
 - [Curt-Park/rainbow-is-all-you-need](https://github.com/Curt-Park/rainbow-is-all-you-need)
 	- Rainbow is all you need! Step-by-step tutorials from DQN to Rainbow
 - [ikostrikov/pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c)
 	- PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning".
+
+### 大牛经验
+
+- John Schulman: `Nuts and Bolts of Deep RL Research`
+	- [[Slide]](http://joschu.net/docs/nuts-and-bolts.pdf) [[Video]](https://www.youtube.com/watch?v=8EcdaCk9KaQ&feature=youtu.be)
+	- [[Github总结版本]](https://github.com/Taylor-Liu/DeepRLHacks)
+	- [[Github总结中文版：从算法到训练，综述强化学习实现技巧与调试经验]](https://mp.weixin.qq.com/s/R30quVGK0TgjerLpiIK9eg)
+
+- Amid Fish: `Lessons Learned Reproducing a Deep Reinforcement Learning Paper`
+	- [[Blog]](http://amid.fish/reproducing-deep-rl)
+	- [博客中文版：想轻松复现深度强化学习论文？看这篇经验之谈](https://mp.weixin.qq.com/s/vqlm75OzROqRrQjEa29TTQ)
+
 
 ### Slides
 
