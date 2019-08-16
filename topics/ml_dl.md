@@ -35,6 +35,9 @@ title: Machine Learning and Deep Learning
 - [官网教程：Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 - [9 Tips For Training Lightning-Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
 
+- PyCon.DE 2018教程
+	- PyTorch As A Scientific Computing Library: Past, Present And Future - Adam Paszke [[Slide]](/robotics/data/PyCon_DE_2018-Pytorch-1.0.pdf) [[Video]](https://www.youtube.com/watch?v=0Y4kY6PnYfM)
+
 ### 机器学习实践
 
 - [机器学习43条军规：解密谷歌机器学习工程最佳实践 (2018.05.22)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652019085&idx=5&sn=5334888e2ed921c5bd6605ae69feed46&scene=0#wechat_redirect)
