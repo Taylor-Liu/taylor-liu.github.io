@@ -3,6 +3,12 @@ layout: page
 title: Code
 ---
 
+---
+**Table of Contents**
+* TOC
+{:toc}
+---
+
 ### IDE
 
 VS Code

@@ -3,6 +3,12 @@ layout: page
 title: Model-based RL
 ---
 
+---
+**Table of Contents**
+* TOC
+{:toc}
+---
+
 ### Researchers
 
 | People | Department |

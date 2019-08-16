@@ -3,6 +3,12 @@ layout: page
 title:  Information
 ---
 
+---
+**Table of Contents**
+* TOC
+{:toc}
+---
+
 **Blog**
 
 - [DeepMind](https://deepmind.com/blog/)
@@ -70,6 +76,7 @@ title:  Information
 | [Lilian Weng](https://twitter.com/lilianweng/) | Robotics @OpenAI |
 | [Shakir Mohamed](https://twitter.com/shakir_za) | `Research Scientist in Statistical Machine Learning and AI` | 
 | [Marc Deisenroth](https://twitter.com/mpd37) | Statistical Machine Learning and Autonomous Systems |
+| [Adam Paszke](https://twitter.com/apaszke) | Author of PyTorch. Machine Learning, Algorithmics, FP, Math. CS & Mathematics student at MIMUW. |
 
 
 **Others**

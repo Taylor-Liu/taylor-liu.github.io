@@ -3,6 +3,12 @@ layout: page
 title:  Robot Manipulation
 ---
 
+---
+**Table of Contents**
+* TOC
+{:toc}
+---
+
 ### Papers
 
 - 2019 - CMU - A Review of Robot Learning for Manipulation:Challenges, Representations, and Algorithms [[Paper]](https://arxiv.org/pdf/1907.03146.pdf)
