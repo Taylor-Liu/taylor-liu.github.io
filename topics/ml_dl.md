@@ -58,6 +58,9 @@ title: Machine Learning and Deep Learning
 - [tf.keras for Researchers: Crash Course.ipynb](https://colab.research.google.com/drive/14CvUNTaX1OFHDfaKaaZzrBsvMfhCOHIR)
 	- by François Chollet
 
+- [A Recipe for Training Neural Networks (Andrej Karpathy)](https://karpathy.github.io/2019/04/25/recipe/)
+	- [(中文版) 李飞飞高徒、AI“网红”Karpathy：训练神经网络不得不看的33个技巧](https://mp.weixin.qq.com/s/3zqOdUZbaA3o2gjk2Iylhw)
+
 ### 分布式训练
 
 - [IBM高级研发工程师武维：如何分布式训练深度学习模型？- 分享总结 (2018.01.30)](https://www.leiphone.com/news/201801/2eAImHGQdNpZv8LW.html)
