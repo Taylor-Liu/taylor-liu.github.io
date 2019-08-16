@@ -36,7 +36,7 @@ title: Machine Learning and Deep Learning
 - [9 Tips For Training Lightning-Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
 
 - PyCon.DE 2018教程
-	- PyTorch As A Scientific Computing Library: Past, Present And Future - Adam Paszke [[Slide]](/robotics/data/PyCon_DE_2018-Pytorch-1.0.pdf) [[Video]](https://www.youtube.com/watch?v=0Y4kY6PnYfM)
+	- PyTorch As A Scientific Computing Library: Past, Present And Future - Adam Paszke [[Slide]](/topics/data/PyCon_DE_2018-Pytorch-1.0.pdf) [[Video]](https://www.youtube.com/watch?v=0Y4kY6PnYfM)
 
 ### 机器学习实践
 
