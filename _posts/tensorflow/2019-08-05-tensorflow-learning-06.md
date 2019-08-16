@@ -4,13 +4,6 @@ title: Tensorflow学习笔记06 - 常用API
 tags: [tensorflow, deep learning]
 ---
 
-{% highlight javascript %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
 ### 1. Assign a value to a TensorFlow variable
 
 三种方法：
