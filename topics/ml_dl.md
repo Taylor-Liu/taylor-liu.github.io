@@ -89,11 +89,13 @@ title: Machine Learning and Deep Learning
 ### CUDA & CUDNN
 
 查看 CUDA 版本：
-```
+
+```shell
 cat /usr/local/cuda/version.txt
 ```
 
 查看 CUDNN 版本：
-```
+
+```shell
 cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2
 ```
