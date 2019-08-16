@@ -39,6 +39,9 @@ title: RL Practice
 	- Rainbow is all you need! Step-by-step tutorials from DQN to Rainbow
 - [ikostrikov/pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c)
 	- PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning".
+- [sfujim/TD3](https://github.com/sfujim/TD3)
+	- Author of TD3
+	- PyTorch implementation of TD3 and DDPG for OpenAI gym tasks
 
 ### 大牛经验
 
