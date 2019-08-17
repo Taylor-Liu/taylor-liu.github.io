@@ -146,7 +146,7 @@ Lightning takes special care to make sure it never retains copy of the graph ([h
 
 ## 6. Single GPU training
 
-https://miro.medium.com/max/275/1*CER3v8cok2UOBNsmnBrzPQ.gif
+![](https://miro.medium.com/max/275/1*CER3v8cok2UOBNsmnBrzPQ.gif)
 
 Once you’ve maxed out the previous steps, it’s time to move into GPU training. Training on the GPU will parallelize the mathematical computations across the many GPU cores. The speed-up you get depends on the type of GPU you’re using. I recommend the 2080Ti for personal use and the V100 for corporate use.
 
