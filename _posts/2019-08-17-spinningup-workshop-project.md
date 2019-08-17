@@ -7,7 +7,6 @@ tags: [reinforcement learning, spinningup, openai]
 During the free-hacking period, you’re welcome to work on anything you like! But we strongly encourage you to work on something related to AI or deep reinforcement learning, to help you take what you’ve learned from the lecture materials and put it into practice. To help you get started, we’ve compiled a few recommendations for things to hack on!
 
 ---
-**Table of Contents**
 * TOC
 {:toc}
 ---
