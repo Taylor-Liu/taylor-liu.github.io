@@ -31,7 +31,9 @@ We’ll cover (from simplest to most PITA)
 
 ## Pytorch-Lightning
 
-![](https://miro.medium.com/max/500/1*oS5csUDs-RhQW4sbm8Hapw.gif)
+<p style="text-align:center">
+	<img src="https://miro.medium.com/max/500/1*oS5csUDs-RhQW4sbm8Hapw.gif" />
+</p>
 
 You can find every optimization I discuss here in the Pytorch library called [Pytorch-Lightning](https://github.com/williamFalcon/pytorch-lightning). Lightning is a light wrapper on top of Pytorch that automates training for researchers while giving them full control of the critical model parts. Check out [this tutorial for a more robust example](https://github.com/williamFalcon/pytorch-lightning/blob/master/pytorch_lightning/examples/new_project_templates/single_gpu_node_template.py).
 
