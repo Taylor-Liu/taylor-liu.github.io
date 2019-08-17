@@ -5,7 +5,9 @@ tags: [reinforcement learning, openai]
 ---
 
 Author: OpenAI
+
 Date: Jan. 31, 2018
+
 From: [https://openai.com/blog/requests-for-research-2/](https://openai.com/blog/requests-for-research-2/)
 
 ---
