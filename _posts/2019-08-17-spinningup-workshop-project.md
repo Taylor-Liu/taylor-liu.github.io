@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spinning Up Workshop: Hackathon Project Recommendations
+title: Spinning Up Workshop - Hackathon Project Recommendations
 tags: [reinforcement learning, spinningup, openai]
 ---
 
