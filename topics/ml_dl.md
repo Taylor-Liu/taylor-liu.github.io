@@ -24,7 +24,7 @@ title: Machine Learning and Deep Learning
 - Stanford - CS224d (Winter 2017) - TensorFlow Tutorial [[Slide]](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
 - Stanford - CS224n (Winter 2018) - TensorFlow Tutorial [[Slide]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/lectures/lecture6.pdf) [[Code]](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/readings/tensorflow_tutorial_code.zip)
 - UC Berkeley - CS294-112 - TensorFlow and Neural Nets Review Session [[Slide]](http://rail.eecs.berkeley.edu/deeprlcourse-fa18/static/slides/lec-3.pdf) [[ipython]](https://github.com/Taylor-Liu/deeplearning/blob/master/CS294_112_TF_lecture.ipynb)
-- OpenAI Spinningup - Tensorflow Tutorial [[Slide]](https://github.com/openai/spinningup-workshop/blob/master/tensorflow_review/tf_review_session.pdf)
+- OpenAI Spinningup - Tensorflow Tutorial [[Slide]](/topics/data/tf_review_session.pdf)
 - Stanford - CS231n (Spring 2019) - Deep Learning Hardware and Software [[Slide]](http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture06.pdf) [[ipython]](https://github.com/Taylor-Liu/deeplearning/blob/master/CS231N_tensorFlow_tutorial.ipynb) 
 
 
