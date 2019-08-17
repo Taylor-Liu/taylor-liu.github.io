@@ -4,12 +4,15 @@ title: OpenAI - Requests for Research 2.0
 tags: [reinforcement learning, openai]
 ---
 
+Author: OpenAI
+Date: Jan. 31, 2018
+From: [https://openai.com/blog/requests-for-research-2/](https://openai.com/blog/requests-for-research-2/)
+
+---
+
 We’re releasing a new batch of **seven unsolved problems** which have come up in the course of our research at OpenAI. Like our original [Requests for Research](https://github.com/openai/requests-for-research) (which [resulted](http://lstm.seas.harvard.edu/latex/) [in](http://kvfrans.com/static/trpo.pdf) [several](https://github.com/dojoteef/glas) [papers](https://arxiv.org/abs/1605.01335)), we expect these problems to be a fun and meaningful way for new people to enter the field, as well as for practitioners to hone their skills (it’s also a great way to get a [job](https://www.wired.com/story/meet-the-high-schooler-shaking-up-artificial-intelligence/) at OpenAI). Many will require inventing new ideas. Please [email](mailto:requests-for-research@openai.com) us with questions or solutions you’d like us to publicize!
 
 > Also, if you don’t have deep learning background but want to learn to solve problems like these, please apply for our [Fellowship](https://jobs.lever.co/openai/54ddfefe-6483-4bba-a828-11a156eae7eb) program!)
-
-* TOC
-{:toc}
 
 ## Warmups
 
@@ -62,9 +65,3 @@ If you’re not sure where to begin, here are some solved starter problems.
 * * *
 
 Want to work on problems like these professionally? [Apply](https://openai.com/jobs/)to OpenAI!
-
-* * * 
-
-** Reference
-
-- [Requests for Research 2.0](https://openai.com/blog/requests-for-research-2/)
