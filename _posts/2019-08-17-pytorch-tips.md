@@ -336,8 +336,9 @@ Caveats to think about when using multiple GPUs
 
 <p style="text-align:center">
 	<img src="https://miro.medium.com/max/875/1*BnpnXNzYnlDoiIe50CwuyA.png" />
-	<br /> Every GPU on every machine gets a copy of the model. Each machine gets a portion of the data and trains
-	<br /> only on that portion. Each machine syncs gradients with the other.
+	<br /> Every GPU on every machine gets a copy of the model. 
+	<br /> Each machine gets a portion of the data and trains only on that portion. 
+	<br /> Each machine syncs gradients with the other.
 </p>
 
 If you’ve made it this far, you’re now in the realm of training Imagenet in minutes! This isn’t as hard as you might think, but it might require a bit more knowledge about your compute cluster. These instructions assume you’re using SLURM on your cluster.
