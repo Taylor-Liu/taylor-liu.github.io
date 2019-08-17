@@ -42,5 +42,3 @@ title:  NLP
 - CMU CS 11-747, Spring 2019
 	- [Neural Networks for NLP](http://phontron.com/class/nn4nlp2019/#)
 
-
-
