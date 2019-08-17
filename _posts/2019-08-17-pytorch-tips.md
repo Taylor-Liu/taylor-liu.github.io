@@ -36,7 +36,7 @@ We’ll cover (from simplest to most PITA)
 </p> -->
 
 <p style="text-align:center">
-	<img src="/_posts/data/2019-08-17/pytorch-1.gif" />
+	<img src="/_posts/data/2019-08-17/pytorch-0.gif" />
 </p>
 
 You can find every optimization I discuss here in the Pytorch library called [Pytorch-Lightning](https://github.com/williamFalcon/pytorch-lightning). Lightning is a light wrapper on top of Pytorch that automates training for researchers while giving them full control of the critical model parts. Check out [this tutorial for a more robust example](https://github.com/williamFalcon/pytorch-lightning/blob/master/pytorch_lightning/examples/new_project_templates/single_gpu_node_template.py).
@@ -54,8 +54,12 @@ trainer.fit(model)
 
 ## 1. DataLoaders
 
-<p style="text-align:center">
+<!-- <p style="text-align:center">
 	<img src="https://miro.medium.com/max/275/1*MbEyoYlOi4nBKzJfnViU4w.gif" />
+</p> -->
+
+<p style="text-align:center">
+	<img src="/_posts/data/2019-08-17/pytorch-1.gif" />
 </p>
 
 This is probably the easiest place to get some speed gains. The days of saving h5py or numpy files to speed up your data loading are gone (wait… you guys weren’t doing that?? ). With [Pytorch dataloader ](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)loading image data is trivial (for NLP data, check out [TorchText](https://torchtext.readthedocs.io/en/latest/datasets.html))
@@ -73,8 +77,12 @@ In lightning you don’t need to specify a training loop, just define the dataLo
 
 ## 2. Number Of Workers in DataLoaders
 
-<p style="text-align:center">
+<!-- <p style="text-align:center">
 	<img src="https://miro.medium.com/max/875/1*juxFlJcvyEyp7JKW36q-Ng.gif" />
+</p> -->
+
+<p style="text-align:center">
+	<img src="/_posts/data/2019-08-17/pytorch-2.gif" />
 </p>
 
 Another magical place for speed-up comes from allowing batches to be loaded in parallel. So instead of loading one batch at a time, you can load nb_workers batches at a time.
@@ -88,8 +96,12 @@ loader = DataLoader(dataset, batch_size=32, shuffle=True, num_workers=10)
 
 ## 3. Batch size
 
-<p style="text-align:center">
+<!-- <p style="text-align:center">
 	<img src="https://miro.medium.com/max/350/1*jTwjkn9AH7ep7MU8IfIkdg.gif" />
+</p> -->
+
+<p style="text-align:center">
+	<img src="/_posts/data/2019-08-17/pytorch-3.gif" />
 </p>
 
 Before starting the next optimization steps, crank up the batch size to as much as your CPU-RAM or GPU-RAM will allow.
@@ -100,8 +112,12 @@ Remember you’ll likely have to update your learning-rate again. A good rule of
 
 ## 4. Accumulated Gradients
 
-<p style="text-align:center">
+<!-- <p style="text-align:center">
 	<img src="https://miro.medium.com/max/625/1*NPrLSjVsT0l-DGKEIukHTw.gif" />
+</p> -->
+
+<p style="text-align:center">
+	<img src="/_posts/data/2019-08-17/pytorch-4.gif" />
 </p>
 
 In the case where you have maxed out your compute resources, and your batch size is still too low (say 8), then we need to simulate a larger batch size for gradient descent to provide a good estimate.
@@ -136,8 +152,12 @@ trainer.fit(model)
 
 ## 5. Retained Graphs
 
-<p style="text-align:center">
+<!-- <p style="text-align:center">
 	<img src="https://miro.medium.com/max/438/1*NjtRZj_2DgxA_o5eRiALBg.gif" />
+</p> -->
+
+<p style="text-align:center">
+	<img src="/_posts/data/2019-08-17/pytorch-5.gif" />
 </p>
 
 A simple place to blow up your RAM is not releasing the pointer to the computational graph by say… storing your loss for logging purposes
@@ -162,8 +182,12 @@ Lightning takes special care to make sure it never retains copy of the graph ([h
 
 ## 6. Single GPU training
 
+# <p style="text-align:center">
+# 	<img src="https://miro.medium.com/max/275/1*CER3v8cok2UOBNsmnBrzPQ.gif" />
+# </p>
+
 <p style="text-align:center">
-	<img src="https://miro.medium.com/max/275/1*CER3v8cok2UOBNsmnBrzPQ.gif" />
+	<img src="/_posts/data/2019-08-17/pytorch-6.gif" />
 </p>
 
 Once you’ve maxed out the previous steps, it’s time to move into GPU training. Training on the GPU will parallelize the mathematical computations across the many GPU cores. The speed-up you get depends on the type of GPU you’re using. I recommend the 2080Ti for personal use and the V100 for corporate use.
@@ -241,8 +265,13 @@ Now, this is where things get really interesting. There are 3 (maybe more?) ways
 
 ### Split-batch Training
 
+# <p style="text-align:center">
+# 	<img src="https://miro.medium.com/max/875/1*YXv5kc5giwjc66mwn6AH1w.png" />
+# 	<br /> A) Copy model on each GPU. B) Give each GPU a portion of the batch.
+# </p>
+
 <p style="text-align:center">
-	<img src="https://miro.medium.com/max/875/1*YXv5kc5giwjc66mwn6AH1w.png" />
+	<img src="/_posts/data/2019-08-17/pytorch-8-1.png" />
 	<br /> A) Copy model on each GPU. B) Give each GPU a portion of the batch.
 </p>
 
@@ -266,8 +295,13 @@ trainer.fit(model)
 
 ### Split Model Training
 
+# <p style="text-align:center">
+# 	<img src="https://miro.medium.com/max/875/1*NFa4IpnK9ogXMEGpBY6MxA.png" />
+# 	<br /> Put different parts of the model on different GPUs. Batch moves sequentially
+# </p>
+
 <p style="text-align:center">
-	<img src="https://miro.medium.com/max/875/1*NFa4IpnK9ogXMEGpBY6MxA.png" />
+	<img src="/_posts/data/2019-08-17/pytorch-8-2.png" />
 	<br /> Put different parts of the model on different GPUs. Batch moves sequentially
 </p>
 
@@ -338,8 +372,15 @@ Caveats to think about when using multiple GPUs
 
 ## 9. Multi-Node GPU training
 
+# <p style="text-align:center">
+# 	<img src="https://miro.medium.com/max/875/1*BnpnXNzYnlDoiIe50CwuyA.png" />
+# 	<br /> Every GPU on every machine gets a copy of the model. 
+# 	<br /> Each machine gets a portion of the data and trains only on that portion. 
+# 	<br /> Each machine syncs gradients with the other.
+# </p>
+
 <p style="text-align:center">
-	<img src="https://miro.medium.com/max/875/1*BnpnXNzYnlDoiIe50CwuyA.png" />
+	<img src="/_posts/data/2019-08-17/pytorch-9.png" />
 	<br /> Every GPU on every machine gets a copy of the model. 
 	<br /> Each machine gets a portion of the data and trains only on that portion. 
 	<br /> Each machine syncs gradients with the other.
