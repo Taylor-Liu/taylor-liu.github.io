@@ -332,9 +332,13 @@ sout = self.decoder(out.cuda(4))  # <--- the 4 here
 ```
 
 Caveats to think about when using multiple GPUs
+
 - model.cuda() won’t do anything if it’s already on that device.
+
 - Always put the inputs on the first device in the devices list.
+
 - Transferring data across devices is expensive, do it as a last resort.
+
 - The optimizer and gradients will be stored on GPU 0. Thus the memory used on GPU 0 will likely be much greater than the others.
 
 ## 9. Multi-Node GPU training
@@ -354,7 +358,9 @@ Pytorch allows multi-node training by copying the model on each GPU across every
 At a high-level:
 
 1. Init a copy of a model on each GPU (make sure to set the seed so each model inits to the same weights or it will fail).
+
 2. Cut the dataset into subsets (with DistributedSampler). Each GPU trains only on its own little subset.
+
 3. On .backward() all copies receive a copy of the gradients for all models. This is the only time the models communicate with each other.
 
 Pytorch has a nice abstraction called DistributedDataParallel which can do this for you. To use DDP you need to do 4 things:
