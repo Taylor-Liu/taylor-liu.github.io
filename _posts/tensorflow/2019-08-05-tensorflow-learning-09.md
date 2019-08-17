@@ -8,7 +8,7 @@ tags: [tensorflow, deep learning]
 
 - 动态申请显存
 
-```shell
+```python
 config = tf.ConfigProto()  
 config.gpu_options.allow_growth = True  
 session = tf.Session(config=config)
@@ -16,7 +16,7 @@ session = tf.Session(config=config)
 
 - 限制GPU使用率
 
-```shell
+```python
 config = tf.ConfigProto()  
 config.gpu_options.per_process_gpu_memory_fraction = 0.4  #占用40%显存  
 session = tf.Session(config=config)
@@ -24,7 +24,7 @@ session = tf.Session(config=config)
 
 或者
 
-```shell
+```python
 gpu_options=tf.GPUOptions(per_process_gpu_memory_fraction=0.4) 
 config=tf.ConfigProto(gpu_options=gpu_options) 
 session = tf.Session(config=config)
@@ -34,7 +34,7 @@ session = tf.Session(config=config)
 
 - 在Python程序中设置
 
-```shell
+```python
 #在程序开头
 os.environ['CUDA_VISIBLE_DEVICES'] = '0' #使用 GPU 0
 os.environ['CUDA_VISIBLE_DEVICES'] = '0,1' # 使用 GPU 0，1
