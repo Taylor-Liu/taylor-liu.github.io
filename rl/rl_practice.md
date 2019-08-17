@@ -37,6 +37,10 @@ title: RL Practice
 	- Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch
 - [Curt-Park/rainbow-is-all-you-need](https://github.com/Curt-Park/rainbow-is-all-you-need)
 	- Rainbow is all you need! Step-by-step tutorials from DQN to Rainbow
+- [higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
+	- Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL
+- [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)
+	- PyTorch0.4 implementation of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay
 - [ikostrikov/pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c)
 	- PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning".
 - [sfujim/TD3](https://github.com/sfujim/TD3)
