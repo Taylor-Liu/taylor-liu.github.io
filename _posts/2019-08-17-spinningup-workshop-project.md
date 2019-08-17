@@ -12,11 +12,11 @@ During the free-hacking period, you’re welcome to work on anything you like! B
 {:toc}
 ---
 
-### 1. Spinning Up in Deep RL Exercises
+## 1. Spinning Up in Deep RL Exercises
 
 Spinning Up ships with [a set of warm-up exercises](http://spinningup.openai.com/en/latest/spinningup/exercises.html), and this could be a great way to ease into hacking on deep RL. While they default to using MuJoCo (which requires a license), you can easily retool them to use equivalent (free) [Roboschool environments](https://github.com/openai/roboschool). To see one example of such retooling, check out [this pull request](https://github.com/openai/spinningup/pull/46) on Spinning Up.
 
-### 2. Design an RL Environment
+## 2. Design an RL Environment
 
 To make a problem tractable for reinforcement learning, you first have to formalize it as an RL environment: that means
 
@@ -36,12 +36,12 @@ A good project in RL is to take a problem that you care about, formalize it as a
 > Note: reward design is really hard, so even if you get everything else working, it may be really hard to train an agent to do what you want it to do. But don’t be afraid of this! Lean in---these kinds of problems are worth solving!
 
 
-### 3. Reimplement a Core Deep RL Algorithm from Scratch
+## 3. Reimplement a Core Deep RL Algorithm from Scratch
 
 For instance, try writing your own DQN or PPO implementation. If those are easy, try building more sophisticated algorithms, like [Rainbow](https://arxiv.org/abs/1710.02298). Make sure to follow the recommendations from [the Spinning Up essay](http://spinningup.openai.com/en/latest/spinningup/spinningup.html) for how to build and test your RL implementation.
 
 
-### 4. Implement Random Network Distillation
+## 4. Implement Random Network Distillation
 
 Exploration is a hard problem in reinforcement learning when rewards are sparse--that is, when rewards are usually zero, and only very rarely does the agent randomly find a state with a helpful reward. One way to repair this issue is with **intrinsic motivation**: you give the agent a reward which encourages it to seek out new and unfamiliar states. This makes it more likely that it will find real rewards (**extrinsic rewards**). 
 
@@ -55,22 +55,22 @@ where $$o_{t}$$ is an observation, $$r_{int}$$ is the intrinsic reward at that o
 
 Try implementing this algorithm (as a subroutine of a standard core RL algorithm, like [the Spinning Up PPO implementation](https://github.com/openai/spinningup/blob/master/spinup/algos/ppo/ppo.py)), and then seeing if it helps exploration in the [Atari-Ram environments](http://gym.openai.com/envs/#atari) from the OpenAI Gym.
 
-### 5. Implement Hindsight Experience Replay in GoalGridWorld
+## 5. Implement Hindsight Experience Replay in GoalGridWorld
 
 Set up an environment for testing goal-oriented policy learning, which is just a simple fully-observed gridworld plus goals (eg a 1-hot the same size as the grid, with a 1 where the goal state is and 0s everywhere else). The reward should be 0 if the agent attains the goal (at which point the episode ends), otherwise the reward is -1. The size of the gridworld should be an adjustable parameter (you should be able to run experiments with small gridworlds or large gridworlds).
 
 Train agents with DQN in this GoalGridWorld env. Then, train agents with [Hindsight Experience Replay (HER)](https://arxiv.org/abs/1707.01495). What happens to DQN and HER as you increase the size of the gridworld? Probably should see DQN begin to fail, while HER continues to perform well.
 
-### 6. Implement Hindsight Experience Replay’s BitFlip Experiment
+## 6. Implement Hindsight Experience Replay’s BitFlip Experiment
 
 Reimplement the bitflip experiment in the HER paper (section 3.1) and duplicate the results. Show that DQN fails as described in the paper.
 
-### 7. Implement Diversity is All You Need in GridWorld
+## 7. Implement Diversity is All You Need in GridWorld
 
 
-### 8. Extend Spinning Up’s PPO Implementation to Support Recurrence
+## 8. Extend Spinning Up’s PPO Implementation to Support Recurrence
 
-### Reference
+## Reference
 
 - [https://github.com/openai/spinningup-workshop](https://github.com/openai/spinningup-workshop)
 - [Spinning Up Workshop Project Recommendations](https://docs.google.com/document/d/1pmqV-dAFSRDVYct9m6smP702f9cUIsPYTyamPLUcQZs/edit#)
