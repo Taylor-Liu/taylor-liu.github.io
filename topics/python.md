@@ -15,6 +15,16 @@ title:  Python
 - Stanford - CS224n - Python review [[Slide]](http://web.stanford.edu/class/cs224n/readings/python-review.pdf)
 - Stanford - CS231n - Python Numpy Tutorial [[Website]](http://cs231n.github.io/python-numpy-tutorial/) [[ipython]](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb)
 
+## jupyter插件
+
+- [A Jupyter notebook viewer for macOS](https://github.com/tuxu/nbviewer-app)
+- [A JupyterLab extension for displaying dashboards of GPU usage](https://github.com/jacobtomlinson/jupyterlab-nvdashboard)
+
+## 工具
+
+- [Python Handout](https://github.com/danijar/handout)
+    - Turn Python scripts into handouts with Markdown and figures
+
 ## jupyter notebook 增加kernel
 
 假设python环境名为python35，执行下面命令添加该环境下的kernel
