@@ -9,18 +9,24 @@ title: Code
 {:toc}
 ---
 
-### IDE
+## 编程规范
+
+- [Google编程规范指南](https://google.github.io/styleguide/)
+	- [C++编程规范指南](https://google.github.io/styleguide/cppguide.html)
+	- [Python编程规范指南](https://google.github.io/styleguide/pyguide.html)
+
+## IDE
 
 VS Code
 - [Visual Studio Code官网教程](https://code.visualstudio.com/docs?start=true)
 
-### C++
+## C++
 
 - [LearnCpp.com](https://www.learncpp.com/)
 
-### Python
+## Python
 
-### Blog
+## Blog
 
 > 5月份GitHub上最热门的几个开源项目(转自：池建强, MacTalk)
 
