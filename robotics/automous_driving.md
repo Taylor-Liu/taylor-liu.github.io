@@ -59,6 +59,7 @@ title: Autonomous Driving
 - [自动驾驶传感器，感知，地图定位和规划控制发展现状及热点研究](https://mp.weixin.qq.com/s/qyZS6ufN6f4dQRdG9diP0A)
 - [史上最全的自动驾驶研究报告（上）](https://mp.weixin.qq.com/s/fG_Oee0biudXyX-B-93THw)
 - [史上最全的自动驾驶研究报告（下）](https://mp.weixin.qq.com/s/Qe6ex06SFbI1ggq9ONZYFA)
+- [一文读懂无人驾驶汽车系统基本框架](https://mp.weixin.qq.com/s/GAEixuvq7VAF7-2WtFM5ZA)
 
 ### 3. Prediction
 
