@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用CppAD和Ipopt的非线性规划：示例和测试
-tags: [nonlinear programming, cppad, ipopt]
+tags: [nonlinear programming, cppad, ipopt, autonomous driving]
 ---
 
 ## Purpose 
