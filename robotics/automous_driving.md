@@ -304,7 +304,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 | Apollo规划技术详解 | [进阶课程㉔ - Apollo规划技术详解——Motion Planning Environment](https://mp.weixin.qq.com/s/vSa5KSSj_B_2YFNvZuaygQ) |
 | Apollo规划技术详解 | [进阶课程㉕ - Apollo规划技术详解——Optimization Inside Motion Planning](https://mp.weixin.qq.com/s/3GFCpjakIvpLu8cse_euUg) |
 | Apollo规划技术详解 | [进阶课程㉖ - Apollo规划技术详解——Understand More on the MP Difficulty](https://mp.weixin.qq.com/s/GtAM1dLMSddlOWKeZLd10w) |
-| Apollo控制技术详解 | [进阶课程㉗丨Apollo控制技术详解——控制理论](https://mp.weixin.qq.com/s/cLhnFCQdftj6Qi5j-PWDzw) |
+| Apollo控制技术详解 | [进阶课程㉗ - Apollo控制技术详解——控制理论](https://mp.weixin.qq.com/s/cLhnFCQdftj6Qi5j-PWDzw) |
 | Apollo控制技术详解 | [进阶课程㉘ - Apollo控制技术详解——基于模型的控制方法](https://mp.weixin.qq.com/s/N39CF1M7nV2cwUUMGRnG7g) |
 
 
