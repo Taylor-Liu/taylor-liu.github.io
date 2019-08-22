@@ -277,6 +277,13 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 `Apollo自动驾驶进阶课程`
 
+| 模块 | 课程|
+| :------ |:---- |
+| Apollo自定位技术详解 | [进阶课程⑬ - Apollo无人车自定位技术入门](https://mp.weixin.qq.com/s/eOxle3q_QgejlX10kc30Rg) |
+| Apollo自定位技术详解 | [进阶课程⑭ - Apollo自动定位技术——三维几何变换和坐标系介绍](https://mp.weixin.qq.com/s/8n_o83A-5AjG3YCPG4FOgA) |
+| Apollo自定位技术详解 | [进阶课程⑮ - Apollo自动定位技术详解—百度无人车定位技术](https://mp.weixin.qq.com/s/UokP3urHU8c5Nn0BT-F_BQ) |
+
+
 - [视频教程（百度技术学院）](http://bit.baidu.com/subject/index/id/16.html)
 
 - [Apollo首个自动驾驶进阶课程正式上线！](https://mp.weixin.qq.com/s/FgnBhOEPS9-_uY1dH4VddQ)
