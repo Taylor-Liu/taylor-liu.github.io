@@ -290,6 +290,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 | Apollo高精地图详解 | [进阶课程⑨ - 业界的高精地图产品](https://mp.weixin.qq.com/s/46D_H4rpisAg0y6VmZJ3gQ) |
 | Apollo高精地图详解 | [进阶课程⑩ - Apollo地图采集方案](https://mp.weixin.qq.com/s/vqkv5y6XdXlKR7jefJIcOA) |
 | Apollo高精地图详解 | [进阶课程⑪ - Apollo地图生产技术](https://mp.weixin.qq.com/s/OlqKMDHiXAmB_3A9BR5Jdw) |
+| Apollo高精地图详解 | [进阶课程⑫ - Apollo高精地图](https://mp.weixin.qq.com/s/X2PgTQIjvpgQQ1YOyXe7eQ) |
 | Apollo自定位技术详解 | [进阶课程⑬ - Apollo无人车自定位技术入门](https://mp.weixin.qq.com/s/eOxle3q_QgejlX10kc30Rg) |
 | Apollo自定位技术详解 | [进阶课程⑭ - Apollo自动定位技术——三维几何变换和坐标系介绍](https://mp.weixin.qq.com/s/8n_o83A-5AjG3YCPG4FOgA) |
 | Apollo自定位技术详解 | [进阶课程⑮ - Apollo自动定位技术详解—百度无人车定位技术](https://mp.weixin.qq.com/s/UokP3urHU8c5Nn0BT-F_BQ) |
