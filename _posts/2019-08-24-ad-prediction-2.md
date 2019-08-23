@@ -28,7 +28,7 @@ Once the algorithm is trained we bring it onto the road. When we encounter a sit
 3. **Generate Predictions** - For each cluster we identify the most likely prototype trajectory. We broadcast each of these trajectories along with the associated probability (see the image below).
 
 <p style="text-align:center">
-	<img src="/posts-data/prediction-1.jpg" width="600" />
+	<img src="/posts-data/prediction-1.jpg" width="550" />
 </p>
 
 ## 2. Model Based Approaches
@@ -59,7 +59,7 @@ $$
 Process Models are first used to compare a target vehicle's observed behavior to the behavior we would expect for each of the maneuvers we've created models for. The pictures below help explain how process models are used to calculate these likelihoods.
 
 <p style="text-align:center">
-	<img src="/posts-data/prediction-2.jpg" width="600" />
+	<img src="/posts-data/prediction-2.jpg" />
 </p>
 
 On the left we see two images of a car. At time $$k-1$$ we predicted where the car would be if it were to go straight vs go right. Then at time $$k$$ we look at where the car actually is. The graph on the right shows the car's observed ss coordinate along with the probability distributions for where we expected the car to be at that time. In this case, the ss that we observe is substantially more consistent with turning right than going straight.
