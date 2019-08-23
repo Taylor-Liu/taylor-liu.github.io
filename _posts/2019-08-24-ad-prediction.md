@@ -4,7 +4,7 @@ title: Inputs and Outputs to Prediction
 tags: [prediction, autonomous driving]
 ---
 
-A prediction module uses a map and data from sensor fusion to generate predictions for what all other **dynamic** objects in view are likely to do. To make this clearer, let's look at an example (in `json` format) of what the **input** to and **output** from prediction might look like.
+A prediction module uses a `map` and `data from sensor fusion` to generate predictions for what all other **dynamic** objects in view are likely to do. To make this clearer, let's look at an example (in `json` format) of what the **input** to and **output** from prediction might look like.
 
 <p style="text-align:center">
 	<img src="/posts-data/prediction.jpg" width="600" />
