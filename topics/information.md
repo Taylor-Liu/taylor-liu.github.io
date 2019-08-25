@@ -9,20 +9,20 @@ title:  Information
 {:toc}
 ---
 
-**Blog**
+## Blog
 
 - [DeepMind](https://deepmind.com/blog/)
 - [OpenAI](https://openai.com/blog/)
 - [UC Berkeley: Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/blog/?refresh=1)
 - [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/)
 
-**Reddit**
+## Reddit
 
 - [Reinforcement Learning](https://www.reddit.com/r/reinforcementlearning/)
 - [Meta Learning](https://www.reddit.com/r/metalearning/)
 - [Self-Driving Cars](https://www.reddit.com/r/SelfDrivingCars/)
 
-**Personal Homepage**
+## Personal Homepage
 
 | People | Information|
 | :------ |:--- |
@@ -47,14 +47,14 @@ title:  Information
 | [Gregory Kahn](https://people.eecs.berkeley.edu/~gregoryk/) | PhD student at UC Berkeley |
 
 
-**Facebook**
+## Facebook
 
 | People | Information|
 | :------ |:--- |
 | [Montreal.IA](https://www.facebook.com/MontrealAI) | Intelligence Artificielle Montreal |
 
 
-**Twitter**
+## Twitter
 
 | People | Information|
 | :------ |:--- |
@@ -79,12 +79,12 @@ title:  Information
 | [Adam Paszke](https://twitter.com/apaszke) | Author of PyTorch. Machine Learning, Algorithmics, FP, Math. CS & Mathematics student at MIMUW. |
 
 
-**Others**
+## Others
 
 - [IMPORT AI Newsletter](https://jack-clark.net/)
 	- *Import AI* is a weekly newsletter about artificial intelligence, read by more than ten thousand experts. 
 
-**国内**
+## 国内
 
 - [机器之心](https://www.jiqizhixin.com/)
 	- [ControlPlusAI](https://www.jiqizhixin.com/columns/ControlPlusAI)
