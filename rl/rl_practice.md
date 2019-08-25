@@ -58,6 +58,8 @@ title: RL Practice
 	- [[Blog]](http://amid.fish/reproducing-deep-rl)
 	- [博客中文版：想轻松复现深度强化学习论文？看这篇经验之谈](https://mp.weixin.qq.com/s/vqlm75OzROqRrQjEa29TTQ)
 
+- David Sliver: `Principles of Deep RL`
+	- [中英文版](https://mp.weixin.qq.com/s?__biz=MzU0MTgxNDkxOA==&mid=2247483944&idx=1&sn=d6c5e83cfcd4261d56a7a42d1defc412&scene=21#wechat_redirect)
 
 ### Slides
 
