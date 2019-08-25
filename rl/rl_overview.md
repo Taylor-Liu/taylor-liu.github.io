@@ -18,6 +18,8 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 - [Reddit](https://www.reddit.com/r/reinforcementlearning/)
 - [Quora](https://www.quora.com/topic/Reinforcement-Learning)
+- [Github: NeuronDance/DeepRL](https://github.com/NeuronDance/DeepRL)
+	- 【深度强化学习社区】一个资料与学习内容最全的服务平台
 
 ### 专栏
 
