@@ -14,6 +14,11 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 {:toc}
 ---
 
+### RL社区
+
+- [Reddit](https://www.reddit.com/r/reinforcementlearning/)
+- [Quora](https://www.quora.com/topic/Reinforcement-Learning)
+
 ### 专栏
 
 - [知乎专栏：强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
