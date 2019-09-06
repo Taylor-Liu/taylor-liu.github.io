@@ -160,6 +160,10 @@ title: Recent Progress
 
 ### 3. UC Berkeley
 
+- rlpyt: A Research Code Base for Deep Reinforcement Learning in PyTorch
+	- Adam Stooke, Pieter Abbel
+	- [[Github]](https://github.com/astooke/rlpyt) [[Paper]](https://arxiv.org/pdf/1909.01500v1.pdf)
+
 - Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model
 	- Alex X. Lee, Anusha Nagabandi, Pieter Abbeel, Sergey Levine
 	- [[Project Home]](https://alexlee-gk.github.io/slac/) [[Github]](https://github.com/alexlee-gk/slac) [[Paper]](http://arxiv.org/abs/1907.00953) 
