@@ -5,7 +5,7 @@ subtitle: Reviewing recent advances in model-based reinforcement learning
 tags: [reinforcement learning]
 ---
 
-Author: OpenAI  
+Author: [Or Rivlin](https://towardsdatascience.com/@or.rivlin.mail)  
 Date: Aug. 1, 2019  
 From: [https://towardsdatascience.com/model-based-policy-optimization-d7e099c73d8](https://towardsdatascience.com/model-based-policy-optimization-d7e099c73d8)
 
