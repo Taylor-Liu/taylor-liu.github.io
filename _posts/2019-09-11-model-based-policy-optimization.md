@@ -15,7 +15,7 @@ From: [https://towardsdatascience.com/model-based-policy-optimization-d7e099c73d
 {:toc}
 ---
 
-**Introduction**
+## Introduction
 
 Deep reinforcement learning has gained much fame in recent years due to some amazing successes in videos games such as Atari, simulated robotic control environments such as Mujoco and in games such as Chess, Go and Poker. A distinct feature of most RL success stories is the use of simulated environments that enable highly efficient data generation through trial and error. This is very important because most state of the art RL algorithms require huge quantities of data to achieve their great performance — often on the order of hundreds of millions of interactions with the environment, sometimes even billions.
 
@@ -29,7 +29,7 @@ In these setting were we don’t have a reliable simulation or that running a si
 	<img src="/posts-data/2019-09-11/01.png" />
 </p>
 
-**Model Based Planning**
+## Model Based Planning
 
 What if we were solving a problem for which we actually knew the model or had a good enough approximation? Could we use that knowledge to make better decisions or to learn a better policy? This is actually a very common case in areas such as automated planning, combinatorial optimization and control. In many control applications we might have an approximate analytic model of the dynamics due to domain knowledge of the specific problem (often in the form of a linear model) which allows us to plan ahead using techniques such as Model Predictive Control (MPC).
 
@@ -43,13 +43,13 @@ Another approach could be to use our known model to learn a policy, and a very f
 
 In AlphaGo Zero we try to learn a policy and a value function to be used inside an MCTS algorithm, and the MCTS search results are in turn used to improve the policy. This is possible since we can “look ahead” and reason about the likely consequences of actions our policy takes, before actually committing to a move. This procedure has proven to be very effective, resulting in a system that could achieve super-human performance against the world’s strongest players by learning from playing against itself.
 
-**Model Based Reinforcement Learning**
+## Model Based Reinforcement Learning
 
 What if we could achieve the aforementioned benefits even in problems for which we do not know the model? After all, a model of the environment is a function mapping from a state-action to a transition probability over the next states and the reward, and so perhaps we can learn that function from interactions with the environment and apply that learned model to either plan ahead or to generate large quantities of “simulated rollouts” with which we can improve our policy, thus requiring much less interactions with the real system (which is costly). Our agent could interact with the environment to gather real data, and use supervised learning methods to fit a model of the transition function and the reward. Once we have a good model, we can use it to perform MPC-like planning during deployment or generate vast amounts of fictitious training data to improve a learned policy that would be used in deployment (avoiding real-time planning can be desirable in hardware constrained or time critical applications).
 
 While this idea appears intuitive and powerful, as is many times the case — things are not so simple. Several problems arise when trying to learn a model of the environment in the context of reinforcement learning, and these have given rise to a whole research field called Model Based Reinforcement Learning.
 
-**Compounding errors**
+## Compounding errors
 
 Inevitably, a learned model will not be perfectly precise, and small errors are compounded and can grow rapidly as we propagate our learned model further in time. These compounding errors make any plans we produce through MPC-like planning and any fictitious data we generate unreliable, introducing bias to our plans and policies. This is one of the factors that contribute to the fact that model-based RL methods tend to achieve lower asymptotic performances than model-free methods.
 
@@ -57,13 +57,13 @@ A common workaround is to use a very biased model, which could possibly generali
 
 This highlights an interesting trade-off in model class selection; if we choose a low capacity model we might get good performance in the small data regime that occurs at the beginning of training, but fail to take advantage of the larger data regimes that are typical of later stages, when we have gathered enough data. On the other, if we use a high capacity model such as a deep neural network, we might easily overfit at the low data regime, but could take advantage of larger data quantities to get a more accurate model.
 
-**Model exploitation**
+## Model exploitation
 
 Another outcome of an imperfect model arises when we try to optimize trajectories or policies using our learned model. A common occurrence is that in some poorly approximated areas of the state space, our model might predict falsely high rewards, prompting our policy or search algorithm to “actively” search out these areas, even if our model is mostly accurate. Since these errors are random artifacts of our specific model parameters, they are very hard to avoid, especially in high capacity model classes such as deep neural networks. This problem could possibly be handled if we could have some sense of model uncertainty, in which we can measure how “familiar” states are, and thus approach unfamiliar states with caution when optimizing instead of greedily seeking out false high rewards.
 
 There is a large volume of research papers regarding model-based reinforcement learning with techniques to mitigate the problems I mentioned above, I will now look at two recent papers that I liked and examine how they dealt with these issues.
 
-**PETS — Probabilistic Ensembles with Trajectory Sampling**
+## PETS — Probabilistic Ensembles with Trajectory Sampling
 
 This 2018 paper takes the route of learning a model to be used for planning, instead of learning a policy. The authors recognize two kinds of uncertainty that must be dealt with: aleatoric uncertainty which is the inherent stochasticity in the environment, and epistemic uncertainty which reflects the model’s confidence regarding different input state-actions.
 
@@ -79,7 +79,7 @@ In the above illustration from the paper, we can see that the aggregate of two d
 
 In the PETS algorithm, the learned model ensemble is used to plan ahead by using a rather complicated sampling scheme in transitions are predicted using alternating models from the ensemble, and an optimization algorithm named Cross Entropy Method (not the cross entropy loss function…) is used to refine the actions in the plan. Using this algorithm, the authors could gain performances comparable to state-of-the-art model-free RL algorithms such as Proximal Policy Optimization and Soft Actor Critic, in just a handful of trials (around 100K timesteps).
 
-**MBPO — Model Based Policy Optimization**
+## MBPO — Model Based Policy Optimization
 
 A more recent paper, called “When to trust your model: model-based policy optimization” takes a different route and instead of using a learned model of the environment to plan, uses it to gather fictitious data to train a policy. The paper details a very interesting theoretical investigation of model usage in RL, and uses an empirical evaluation of the generalization capabilities of neural networks to justify using learned model predictions.
 
