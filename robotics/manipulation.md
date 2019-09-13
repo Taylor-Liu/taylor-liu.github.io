@@ -72,6 +72,13 @@ title:  Robot Manipulation
 		- pick & place [[Slide]](http://www.roseducation.org/ros2018/docs/胡春旭-ROS机械臂开发_2.机器视觉与物体抓取.pdf)
 		- 机械臂开发实例 [[Slide]](http://www.roseducation.org/ros2018/docs/胡春旭-ROS机械臂开发_3.机械臂开发实例.pdf)
 
+### Library
+
+- [Open source visual servoing platform library](http://visp.inria.fr/)
+	- ViSP standing for Visual Servoing Platform is a modular cross platform library that allows prototyping and developing applications using visual tracking and visual servoing technics at the heart of the researches done by Inria [Rainbow](http://team.inria.fr/rainbow) team (previously [Lagadic](http://team.inria.fr/lagadic) team). ViSP is able to compute control laws that can be applied to robotic systems. It provides a set of visual features that can be tracked using real time image processing or computer vision algorithms. ViSP provides also simulation capabilities. ViSP can be useful in robotics, computer vision, augmented reality and computer animation. Our [YouTube channel](https://www.youtube.com/user/VispTeam) gives an overview of the applications that could be tackled.
+
+- [wiki.ros.org/vision_visp](https://wiki.ros.org/vision_visp)
+	- These packages depend on [visp](/visp) package that corresponds to the [Open Source Visual Servoing Library](http://visp.inria.fr) last stable release packaged for ROS.
 
 ### Others
 
