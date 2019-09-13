@@ -80,6 +80,9 @@ title:  Robot Manipulation
 - [wiki.ros.org/vision_visp](https://wiki.ros.org/vision_visp)
 	- These packages depend on [visp](/visp) package that corresponds to the [Open Source Visual Servoing Library](http://visp.inria.fr) last stable release packaged for ROS.
 
+- [IFL-CAMP/easy_handeye](https://github.com/IFL-CAMP/easy_handeye)
+	- Simple, straighforward ROS library for hand-eye calibration
+
 ### Others
 
 - [Pick-it 3D视觉](https://www.pickit3d.com/)
