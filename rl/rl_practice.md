@@ -33,10 +33,14 @@ title: RL Practice
 
 - [Pytorch官方例子: Reinforcement Learning (DQN) Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html#)
 - [pytorch/examples](https://github.com/pytorch/examples/tree/master/reinforcement_learning)
+- [p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+	- PyTorch implementations of deep reinforcement learning algorithms and environments, including DQN, DQN-HER, Double DQN, REINFORCE, DDPG, DDPG-HER, PPO, SAC, SAC Discrete, A3C, A2C etc..
 - [qfettes/DeepRL-Tutorials](https://github.com/qfettes/DeepRL-Tutorials)
 	- Contains high quality implementations of Deep Reinforcement Learning algorithms written in PyTorch
 - [Curt-Park/rainbow-is-all-you-need](https://github.com/Curt-Park/rainbow-is-all-you-need)
 	- Rainbow is all you need! Step-by-step tutorials from DQN to Rainbow
+- [astooke/rlpyt](https://github.com/astooke/rlpyt)
+	- Reinforcement Learning in PyTorch
 - [higgsfield/RL-Adventure](https://github.com/higgsfield/RL-Adventure)
 	- Pytorch Implementation of DQN / DDQN / Prioritized replay/ noisy networks/ distributional values/ Rainbow/ hierarchical RL
 - [higgsfield/RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)
