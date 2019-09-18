@@ -16,7 +16,7 @@ tags: [reinforcement learning]
 
     * Suraj Nair, Chelsea Finn
 
-![](/_posts/media/15687335003539.jpg)
+![](/posts-data/media/15687335003539.jpg)
 
 * Dynamics-Aware Unsupervised Discovery of Skills [[Homepage]](https://sites.google.com/view/dads-skill)
 
@@ -30,11 +30,11 @@ tags: [reinforcement learning]
 
     *  Ofir Nachum, Michael Ahn, Hugo Ponte, Shixiang Gu, Vikash Kumar
 
-![](/_posts/media/15687345050670.jpg)
+![](/posts-data/media/15687345050670.jpg)
 
-![](/_posts/media/15687345129596.jpg)
+![](/posts-data/media/15687345129596.jpg)
 
-![](/_posts/media/15687345206880.jpg)
+![](/posts-data/media/15687345206880.jpg)
 
 
 ## Meta Learning
@@ -46,9 +46,9 @@ tags: [reinforcement learning]
     * Tianhe Yu (Stanford), Deirdre Quillen (UC Berkeley), Zhanpeng He (Columbia University), Ryan Julian (USC), Karol Hausman (Robotics at Google), Sergey Levine (UC Berkeley), Chelsea Finn (Stanford University)
 
 
-![](/_posts/media/15687323670854.jpg)
+![](/posts-data/media/15687323670854.jpg)
 
-![](/_posts/media/15687329679172.jpg)
+![](/posts-data/media/15687329679172.jpg)
 
 * Meta-Learning with Implicit Gradients [[Paper]](https://arxiv.org/abs/1909.04630)
     
@@ -56,7 +56,7 @@ tags: [reinforcement learning]
 
     * NIPS'19
     
-![](/_posts/media/15687332543722.jpg)
+![](/posts-data/media/15687332543722.jpg)
 
 
 ## RL Library
