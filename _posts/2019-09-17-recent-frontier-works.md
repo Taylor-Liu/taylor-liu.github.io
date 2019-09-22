@@ -58,6 +58,21 @@ tags: [reinforcement learning]
     
 ![](/posts-data/media/15687332543722.jpg)
 
+* PyTorch Meta-learning Framework for Researchers [[Homepage]](http://learn2learn.net/) [[Github]](https://github.com/learnables/learn2learn)
+
+    * learn2learn provides high- and low-level utilities for meta-learning. The high-level utilities allow arbitrary users to take advantage of exisiting meta-learning algorithms. The low-level utilities enable researchers to develop new and better meta-learning algorithms.
+
+    * Some features of learn2learn include:
+
+        * Modular API: implement your own training loops with our low-level utilities.
+        
+        * Provides various meta-learning algorithms (e.g. MAML, FOMAML, MetaSGD, ProtoNets, DiCE)
+        
+        * Task generator with unified API, compatible with torchvision, torchtext, torchaudio, and cherry.
+        
+        * Provides standardized meta-learning tasks for vision (Omniglot, mini-ImageNet), reinforcement learning (Particles, Mujoco), and even text (news classification).
+        
+        * 100% compatible with PyTorch -- use your own modules, datasets, or libraries!
 
 ## RL Library
 
