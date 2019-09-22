@@ -71,9 +71,9 @@ title: Autonomous Driving
 - [自动驾驶中的驾驶行为建模和预测方法](https://mp.weixin.qq.com/s/FmqMg-j-Mf2nguHbuCyXAA)
 - [自动驾驶中的驾驶行为建模和预测方法（奇点汽车首席科学家，黄浴）](https://zhuanlan.zhihu.com/p/56657438)
 - [自动驾驶中路上行人的行为和意图理解及预测（奇点汽车首席科学家，黄浴）](https://zhuanlan.zhihu.com/p/57077589)
-- [关于Apollo 5.0 障碍物行为预测技术分享](https://mp.weixin.qq.com/s/kAP8MMjTjVyeBPcpY5E1FQ)
+- [关于Apollo 5.0 障碍物行为预测技术分享 (许珂诚)](https://mp.weixin.qq.com/s/kAP8MMjTjVyeBPcpY5E1FQ)
     - [Apol​lo问​答 - 障碍物行为轨迹预测技术中关键问题汇总](https://mp.weixin.qq.com/s/H7M-HDWc_nVgfPFjDA1cOw)
-- [Apollo公开课 - Apollo行为轨迹预测技术](https://mp.weixin.qq.com/s/Q4me1G9B8uwwRIr6dfETEA)
+- [Apollo公开课 - Apollo行为轨迹预测技术 (潘嘉诚)](https://mp.weixin.qq.com/s/Q4me1G9B8uwwRIr6dfETEA)
 
 `Paper`
 
