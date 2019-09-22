@@ -71,6 +71,9 @@ title: Autonomous Driving
 - [自动驾驶中的驾驶行为建模和预测方法](https://mp.weixin.qq.com/s/FmqMg-j-Mf2nguHbuCyXAA)
 - [自动驾驶中的驾驶行为建模和预测方法（奇点汽车首席科学家，黄浴）](https://zhuanlan.zhihu.com/p/56657438)
 - [自动驾驶中路上行人的行为和意图理解及预测（奇点汽车首席科学家，黄浴）](https://zhuanlan.zhihu.com/p/57077589)
+- [关于Apollo 5.0 障碍物行为预测技术分享](https://mp.weixin.qq.com/s/kAP8MMjTjVyeBPcpY5E1FQ)
+    - [Apol​lo问​答 - 障碍物行为轨迹预测技术中关键问题汇总](https://mp.weixin.qq.com/s/H7M-HDWc_nVgfPFjDA1cOw)
+- [Apollo公开课 - Apollo行为轨迹预测技术](https://mp.weixin.qq.com/s/Q4me1G9B8uwwRIr6dfETEA)
 
 `Paper`
 
@@ -81,7 +84,7 @@ title: Autonomous Driving
 ### 4. Planning and Control (PNC)
 
 - [技术文档 - Apollo规划模块技术指导](https://mp.weixin.qq.com/s/ou1Sot_CmpsQ5R5cP0hkVw)
-- [Apollo公开课 - Apollo运动轨迹规划技术 (Pan Jiacheng)](https://mp.weixin.qq.com/s?__biz=MzI1NjkxOTMyNQ==&mid=2247488092&idx=1&sn=29c1b1786d2e71b608fc8ac46591bba7&chksm=ea1e002edd698938345b425b6b2a0e1dd710774aa040f083cd83ef73ac5698fbfe7728c21119&mpshare=1&scene=1&srcid=&sharer_sharetime=1568027044040&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
+- [Apollo公开课 - Apollo运动轨迹规划技术 (􏰌􏰍􏰎􏰌􏰍􏰎潘嘉诚)](https://mp.weixin.qq.com/s?__biz=MzI1NjkxOTMyNQ==&mid=2247488092&idx=1&sn=29c1b1786d2e71b608fc8ac46591bba7&chksm=ea1e002edd698938345b425b6b2a0e1dd710774aa040f083cd83ef73ac5698fbfe7728c21119&mpshare=1&scene=1&srcid=&sharer_sharetime=1568027044040&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
 - [Apollo 轨迹规划技术分享 (Zhang Yajia)](https://mp.weixin.qq.com/s/ao5hC_3A7fn8_L_PFw399A)
 	- [轨迹规划中的关键问题汇总1](https://mp.weixin.qq.com/s/C189dqfNOwuDW1MoHepmBQ)
 	- [轨迹规划中的关键问题汇总2](https://mp.weixin.qq.com/s/alszWkfOChC1CydTDgWg5g)
