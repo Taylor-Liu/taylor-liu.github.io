@@ -4,6 +4,8 @@ title: Apollo 5.0 障碍物行为预测技术
 tags: [autonomous driving]
 ---
 
+[[PDF版]](/posts-data/2019-09-22/apollo-5.0-prediction.pdf)
+
 <p style="text-align:center">
 	<img src="/posts-data/2019-09-22/apollo-5.0-prediction.png" />
 </p>
