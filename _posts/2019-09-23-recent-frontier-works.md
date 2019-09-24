@@ -84,6 +84,16 @@ tags: [reinforcement learning]
 
     * Adam Stooke, Pieter Abbeel
 
+    * Implemented Algorithms
+
+        * **Policy Gradient** A2C, PPO.
+        
+        * **Replay Buffers** (supporting both DQN + QPG) non-sequence and sequence (for recurrent) replay, n-step returns, uniform or prioritized replay, full-observation or frame-based buffer (e.g. for Atari, stores only unique frames to save memory, reconstructs multi-frame observations).
+        
+        * **Deep Q-Learning** DQN + variants: Double, Dueling, Categorical (up to Rainbow minus Noisy Nets), Recurrent (R2D2-style). _Coming soon_: Implicit Quantile Networks?
+        
+        * **Q-Function Policy Gradient** DDPG, TD3, SAC.
+
 * [p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
 	
 	* PyTorch implementations of deep reinforcement learning algorithms and environments, including DQN, DQN-HER, Double DQN, REINFORCE, DDPG, DDPG-HER, PPO, SAC, SAC Discrete, A3C, A2C etc..
