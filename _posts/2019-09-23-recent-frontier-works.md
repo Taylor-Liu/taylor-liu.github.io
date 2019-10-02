@@ -4,6 +4,12 @@ title: Recent Frontier Works (2019.09.23 update)
 tags: [reinforcement learning]
 ---
 
+---
+**Content**
+* TOC
+{:toc}
+---
+
 ## Model-based Learning
 
 * Model Based Policy Optimization: Reviewing recent advances in model-based reinforcement learning [[Blog]](http://taylorliu.com/2019-09-11-model-based-policy-optimization/)
