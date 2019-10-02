@@ -10,7 +10,7 @@ tags: [reinforcement learning]
 {:toc}
 ---
 
-## Model-based Learning
+## 1. Model-based Learning
 
 * Model Based Policy Optimization: Reviewing recent advances in model-based reinforcement learning [[Blog]](http://taylorliu.com/2019-09-11-model-based-policy-optimization/)
 
@@ -32,7 +32,7 @@ tags: [reinforcement learning]
     
     * Google Brain
     
-## Hierarchical Learning
+## 2. Hierarchical Learning
 
 * Multi-Agent Manipulation via Locomotion using Hierarchical Sim2Real [[Homepage]](https://sites.google.com/view/manipulation-via-locomotion/home) [[Paper]](https://arxiv.org/abs/1908.05224)
 
@@ -45,7 +45,7 @@ tags: [reinforcement learning]
 ![](/posts-data/media/15687345206880.jpg)
 
 
-## Meta Learning
+## 3. Meta Learning
 
 * Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning [[Homepage]](https://meta-world.github.io) [[Github]](https://github.com/rlworkgroup/metaworld)
     
@@ -84,7 +84,7 @@ tags: [reinforcement learning]
         
         * 100% compatible with PyTorch -- use your own modules, datasets, or libraries!
 
-## RL Library
+## 4. RL Library
 
 * rlpyt: A Research Code Base for Deep ReinforcementLearning in PyTorch [[Paper]](https://arxiv.org/abs/1909.01500) [[Github]](https://github.com/astooke/rlpyt)
 
