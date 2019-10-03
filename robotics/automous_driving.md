@@ -435,6 +435,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 定位
 - [高精地图和定位在自动驾驶的应用](https://mp.weixin.qq.com/s/QZ5W4YDD4rX8zM6qajQDtg)
 - [自动驾驶复杂环境下高精度定位技术](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247491711&idx=1&sn=2299f6045271c28bdbb8bb30ae9cd8d2&chksm=fbd75213cca0db05281bccf11f14ac0587e0bd022e3506e1c0bc3b7deae8447040aff1a26608&mpshare=1&scene=1&srcid=&sharer_sharetime=1563857253686&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
+    - [攻城狮说 - 复杂环境下的自动驾驶高精定位该怎么搞？](https://mp.weixin.qq.com/s/b1pVc-iHjIAaukliJRxwWQ)
 
 感知
 - [L4自动驾驶中感知系统遇到的挑战及解决方案](https://mp.weixin.qq.com/s/cqdi9V_BnY6pwRJl3dD0dA)

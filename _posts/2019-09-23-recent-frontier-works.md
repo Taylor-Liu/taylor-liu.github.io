@@ -12,7 +12,7 @@ tags: [reinforcement learning]
 
 ## 1. Model-based Learning
 
-* Model Based Policy Optimization: Reviewing recent advances in model-based reinforcement learning [[Blog]](http://taylorliu.com/2019-09-11-model-based-policy-optimization/)
+* Blog: [Model Based Policy Optimization: Reviewing recent advances in model-based reinforcement learning](http://taylorliu.com/2019-09-11-model-based-policy-optimization/)
 
 * Model-based Lookahead Reinforcement Learning [[Paper]](https://arxiv.org/abs/1908.06012v1)
 
