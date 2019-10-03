@@ -24,8 +24,6 @@ tags: [ICML, reinforcement learning, AI Lab, Tencent]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LTcr01iTgZA" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="650" height="366" src="https://www.youtube.com/embed/LTcr01iTgZA" frameborder="0" allowfullscreen></iframe>
-
 `应用价值：`本文对基于网格世界的多智能体强化学习问题提出了一种新的学习架构，可以灵活处理数量变化的智能体个数，可以有效的应用在视频游戏AI和真实世界多种场景中。
 
 ### 参考资料
