@@ -27,7 +27,7 @@ title:  Information
 | People | Information|
 | :------ |:--- |
 | [Karol Hausman](https://karolhausman.github.io/) | Researcher in robotics and machine learning at Google Brain |
-| [Chelsea Finn](http://people.eecs.berkeley.edu/~cbfinn/) | a research scientist at Google Brain, a post-doc at Berkeley AI Research Lab (BAIR), and an acting assistant professor at Stanford. |
+| [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) | a research scientist at Google Brain, a post-doc at Berkeley AI Research Lab (BAIR), and an acting assistant professor at Stanford. |
 | [Jason Peng](https://xbpeng.github.io/) | CS PhD student at UC Berkeley |
 | [Libin Liu](http://libliu.com/) | Chief Scientist at DeepMotion Inc.| 
 | [C.Karen Liu](https://cs.stanford.edu/~karenliu/Home.html) | Associate Professor at Stanford |

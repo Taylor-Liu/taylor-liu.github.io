@@ -316,7 +316,11 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 | Apollo控制技术详解 | [进阶课程㉘ - Apollo控制技术详解——基于模型的控制方法](https://mp.weixin.qq.com/s/N39CF1M7nV2cwUUMGRnG7g) |
 | Apollo控制技术详解 | [进阶课程㉙ - Apollo控制技术详解——控制器的类型](https://mp.weixin.qq.com/s/DrWeZOIhJV1dbpg7Ns6gJQ) |
 | Apollo ROS介绍 | [进阶课程㉚ - Apollo ROS背景介绍](https://mp.weixin.qq.com/s/vyWhC2Z374VWRkC37npHQg) |
-
+| Apollo ROS介绍 | [进阶课程㉛ - Apollo ROS概述](https://mp.weixin.qq.com/s/lUhLd8HXz_HG_mCnDwURNg) |
+| Apollo ROS介绍 | [进阶课程㉜ - Apollo ROS原理—1](https://mp.weixin.qq.com/s/zGIHo97bFii1_z8u9_QiUA) |
+| Apollo ROS介绍 | [进阶课程㉝ - Apollo ROS原理—2](https://mp.weixin.qq.com/s/EQGI0l_Zw08QsbU22w4IDg) |
+| Apollo ROS介绍 | [进阶课程㉞ - Apollo ROS原理—3](https://mp.weixin.qq.com/s/VHtv4yEx77TbZRh2sMhLRw) |
+| Apollo ROS介绍 | [进阶课程㉟ - Apollo ROS原理—3](https://mp.weixin.qq.com/s/bZqsV0tbnyf9to5jD0OlLg) |
 
 `知乎专栏：无人驾驶干货铺`
 
