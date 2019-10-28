@@ -451,7 +451,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 决策规划控制
 - [自动驾驶中轨迹规划的探索和挑战](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
     - [攻城狮说 - 应对复杂路况，自动驾驶如何规划它的下一步？ “老司机”炼成记！](https://mp.weixin.qq.com/s/iNFFeLipAjI6NJz7VF7IkA)
-
+- [攻城狮说 - 规划控制中的优化算法，让你坐上安全又舒适的无人车](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485400&idx=1&sn=d1ad67d8ccf5365ef6553957729418a4&chksm=ec4c5891db3bd18789ce3d86674f95c6a5b0311d8b37af48e626b7d5c2e539f38cfb72061863&mpshare=1&scene=1&srcid=&sharer_sharetime=1571365155763&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
 
 ### 19. 安全报告
 
