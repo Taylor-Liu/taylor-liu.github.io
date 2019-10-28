@@ -26,6 +26,7 @@ title:  Information
 
 | People | Information|
 | :------ |:--- |
+| [Jehee Lee](http://mrl.snu.ac.kr/~jehee/) | Professor at Seoul National University, computer animation|
 | [Karol Hausman](https://karolhausman.github.io/) | Researcher in robotics and machine learning at Google Brain |
 | [Chelsea Finn](http://ai.stanford.edu/~cbfinn/) | a research scientist at Google Brain, a post-doc at Berkeley AI Research Lab (BAIR), and an acting assistant professor at Stanford. |
 | [Jason Peng](https://xbpeng.github.io/) | CS PhD student at UC Berkeley |
