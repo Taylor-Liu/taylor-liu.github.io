@@ -431,28 +431,44 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 ### 18. Pony.ai技术分享
 
-整体
-- [Pony.ai 的基础架构挑战与实践](https://mp.weixin.qq.com/s/fBmYxP0ALyil7crSFKWWEg)
-- [自动驾驶从0到1之路](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247491875&idx=1&sn=4308296b589e6aecb3597ad6e986182b&chksm=fbd7534fcca0da59112b136be0bbbbdab2d79db4020e350ac1db71ad4b5aadacbaecd90519f3&mpshare=1&scene=1&srcid=&sharer_sharetime=1563857235612&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
-- [“老司机”成长之路：自动驾驶车辆调试实践](https://mp.weixin.qq.com/s/uxRXIsBKZG8mEWluBDQP1w)
+行业概述：
 
-定位
-- [高精地图和定位在自动驾驶的应用](https://mp.weixin.qq.com/s/QZ5W4YDD4rX8zM6qajQDtg)
-- [自动驾驶复杂环境下高精度定位技术](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247491711&idx=1&sn=2299f6045271c28bdbb8bb30ae9cd8d2&chksm=fbd75213cca0db05281bccf11f14ac0587e0bd022e3506e1c0bc3b7deae8447040aff1a26608&mpshare=1&scene=1&srcid=&sharer_sharetime=1563857253686&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
-    - [攻城狮说 - 复杂环境下的自动驾驶高精定位该怎么搞？](https://mp.weixin.qq.com/s/b1pVc-iHjIAaukliJRxwWQ)
+* [从0到1，自动驾驶经历了什么才变成今天的模样？](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247484700&idx=1&sn=9ae5e23abaf64af31a953d00fc0ab918&scene=21#wechat_redirect)
 
-感知
-- [L4自动驾驶中感知系统遇到的挑战及解决方案](https://mp.weixin.qq.com/s/cqdi9V_BnY6pwRJl3dD0dA)
-    - [攻城狮说 - 感知系统，自动驾驶看懂周围世界的“魔法”](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247484950&idx=1&sn=10d9c5ada7ccf56f337010c5813220d4&scene=21#wechat_redirect)
-- [传统方法和深度学习结合的感知策略探索](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247491669&idx=1&sn=47f3e771448efc8e12ad562ed6b78148&chksm=fbd75239cca0db2ff604247f820744eb37397f346252c03eb464277ff46ad45b370b6885be6f&scene=21#wechat_redirect)
-- [自动驾驶多传感器感知的探索](https://mp.weixin.qq.com/s/iYWV_TW0mvje6QwC9fZXew)
-    - [攻城狮说 - 自动驾驶为什么要做多传感器深度融合？](https://mp.weixin.qq.com/s/z49-7uJIxtTQBnnqP5bynw)
+系统基础架构：
 
-决策规划控制
-- [自动驾驶中轨迹规划的探索和挑战](https://mp.weixin.qq.com/s/1QXdFuppw1I3PkD5LV9kcg)
-    - [攻城狮说 - 应对复杂路况，自动驾驶如何规划它的下一步？ “老司机”炼成记！](https://mp.weixin.qq.com/s/iNFFeLipAjI6NJz7VF7IkA)
-- [攻城狮说 - 规划控制中的优化算法，让你坐上安全又舒适的无人车](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485400&idx=1&sn=d1ad67d8ccf5365ef6553957729418a4&chksm=ec4c5891db3bd18789ce3d86674f95c6a5b0311d8b37af48e626b7d5c2e539f38cfb72061863&mpshare=1&scene=1&srcid=&sharer_sharetime=1571365155763&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
+* [车载系统？仿真平台？揭秘车队级自动驾驶基础架构](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247484748&idx=1&sn=b8d3e24e2b2e6ecedfa0e7bc695aa5a0&scene=21#wechat_redirect)
 
+数据：
+
+* [聊聊自动驾驶和数据密不可分的关系？深挖数据潜能！](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247484820&idx=1&sn=6a3fd15d432df60bb1853cced0d43450&scene=21#wechat_redirect)
+
+地图和定位：
+
+* [自动驾驶车会看地图吗？它如何认路、找准定位？](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247484793&idx=1&sn=f8bd11965b5690a16af9e0028b7b984d&scene=21#wechat_redirect)
+
+* [复杂环境下的自动驾驶高精定位该怎么搞？](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485335&idx=1&sn=a4782e361692a2136f8554cbc435c9ab&scene=21#wechat_redirect)
+
+感知：
+
+* [感知系统，自动驾驶看懂周围世界的“魔法”](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247484950&idx=1&sn=10d9c5ada7ccf56f337010c5813220d4&scene=21#wechat_redirect)
+
+* [传统方法还是深度学习？优点兼得的感知策略](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247484989&idx=1&sn=9604f58a07fe6a78b2fe5a35556291c3&scene=21#wechat_redirect)
+
+* [自动驾驶为什么要做多传感器深度融合？](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485304&idx=1&sn=3174b6d434cb2e45170a4fa1ea69f313&scene=21#wechat_redirect)
+
+路径规划与控制：
+
+* [应对复杂路况，自动驾驶如何规划它的下一步？“老司机”炼成记！](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247484857&idx=1&sn=e844f224f81a6a804e9daf0fd5f61f7e&scene=21#wechat_redirect)
+
+* [规划控制中的优化算法，让你坐上安全又舒适的无人车](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485400&idx=1&sn=d1ad67d8ccf5365ef6553957729418a4&scene=21#wechat_redirect)
+
+硬件技术与车辆调试：
+
+* [自动驾驶车辆调试：一辆车如何变身L4级无人车？](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485374&idx=1&sn=dd762d92eb6d1eaeefd6083e92cfb72d&scene=21#wechat_redirect)
+
+* [从硬件角度剖析自动驾驶，为什么说它是复杂的系统工程？（本期内容）](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485528&idx=1&sn=ea7b312df3c95d27edf444133f35ee37&chksm=ec4c5711db3bde07ac6fa68e336327877a53096d6f284d990375941e7c8c737b4957b1e3d609&mpshare=1&scene=1&srcid=&sharer_sharetime=1572595431099&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
+  
 ### 19. 安全报告
 
 国内
