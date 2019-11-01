@@ -467,7 +467,7 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 * [自动驾驶车辆调试：一辆车如何变身L4级无人车？](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485374&idx=1&sn=dd762d92eb6d1eaeefd6083e92cfb72d&scene=21#wechat_redirect)
 
-* [从硬件角度剖析自动驾驶，为什么说它是复杂的系统工程？（本期内容）](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485528&idx=1&sn=ea7b312df3c95d27edf444133f35ee37&chksm=ec4c5711db3bde07ac6fa68e336327877a53096d6f284d990375941e7c8c737b4957b1e3d609&mpshare=1&scene=1&srcid=&sharer_sharetime=1572595431099&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
+* [从硬件角度剖析自动驾驶，为什么说它是复杂的系统工程？](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485528&idx=1&sn=ea7b312df3c95d27edf444133f35ee37&chksm=ec4c5711db3bde07ac6fa68e336327877a53096d6f284d990375941e7c8c737b4957b1e3d609&mpshare=1&scene=1&srcid=&sharer_sharetime=1572595431099&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
   
 ### 19. 安全报告
 
