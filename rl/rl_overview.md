@@ -25,6 +25,8 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 
 - [知乎专栏：强化学习知识大讲堂](https://zhuanlan.zhihu.com/sharerl)
 
+- [论文精读（Keavnn）](https://stepneverstop.github.io/)
+
 ### Code
 
 - [Paperswithcode: Q-Learning](https://www.paperswithcode.com/task/q-learning)
@@ -43,7 +45,13 @@ subtitle: Sim-to-Real, RL in Real World, Distributed RL, Meta-RL, Model-based RL
 - [CUHK: Reinforcement Learning (2018-2019 2nd term, IERG 6130)](https://course.ie.cuhk.edu.hk/~ierg6130/index.html)
 
 - Berkeley Deep RL course: [rll.berkeley.edu/deeprlcourse](http://rail.eecs.berkeley.edu/deeprlcourse/)
-- CMU Deep RL course: [katefvision.github.io](https://katefvision.github.io/)
+
+- CMU Deep RL course (10703): 
+    
+    * [Fall 2019](https://cmudeeprl.github.io/703website/lectures/) 
+    * [Spring 2019]()
+    * [Fall 2018](https://www.andrew.cmu.edu/course//10-703/)    
+    
 - Stanford RL course: [onlinehub.stanford.edu/cs234](https://onlinehub.stanford.edu/cs234)
 - David Silver’s RL course: [http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
 - DeepMind's Advanced DL & RL course
