@@ -9,6 +9,7 @@ title: Mathematics for Machine Learning
 - [贝叶斯机器学习前沿进展 (人工智能学家, 2018.01.21)](https://mp.weixin.qq.com/s?__biz=MzIwOTA1MDAyNA==&mid=2649846553&idx=1&sn=9e60361c5795fe2dd7cfc6cc4735f286&chksm=8f7c13deb80b9ac8a3df084906652a20b6361f5fc209ea919ac621bae6399b6f71af5997c6d7&mpshare=1&scene=1&srcid=01221sj8TFKAesOjSLCl9phL%23rd)
 - [VAE variation inference变分推理 清爽介绍 (CreateAMind, 2016.11.06)](https://mp.weixin.qq.com/s/9lNWkEEOk5vEkJ1f840zxA)
 - [Bayesian inference problem, MCMC and variational inference](https://towardsdatascience.com/bayesian-inference-problem-mcmc-and-variational-inference-25a8aa9bce29)
+- [变分推断（Variational Inference）最新进展简述](https://mp.weixin.qq.com/s/olwyTaOGCugt-thgZm_3Mg)
 
 ## 信息论
 

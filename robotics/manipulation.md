@@ -48,7 +48,7 @@ title:  Robot Manipulation
 
 ## 研究人员
 
-
+- [Weiwei Wan (Osaka University)](https://sites.google.com/site/weiweilab/)
 
 ## Course
 
