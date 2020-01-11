@@ -439,6 +439,8 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 
 * [车载系统？仿真平台？揭秘车队级自动驾驶基础架构](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247484748&idx=1&sn=b8d3e24e2b2e6ecedfa0e7bc695aa5a0&scene=21#wechat_redirect)
 
+* [打造最可靠的自动驾驶基础架构](https://mp.weixin.qq.com/s/CU0CC8pHDU9ytvJOhJ-bBg)
+
 数据：
 
 * [聊聊自动驾驶和数据密不可分的关系？深挖数据潜能！](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247484820&idx=1&sn=6a3fd15d432df60bb1853cced0d43450&scene=21#wechat_redirect)
@@ -468,8 +470,13 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 * [自动驾驶车辆调试：一辆车如何变身L4级无人车？](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485374&idx=1&sn=dd762d92eb6d1eaeefd6083e92cfb72d&scene=21#wechat_redirect)
 
 * [从硬件角度剖析自动驾驶，为什么说它是复杂的系统工程？](https://mp.weixin.qq.com/s?__biz=MzI5NTg2NDg3MA==&mid=2247485528&idx=1&sn=ea7b312df3c95d27edf444133f35ee37&chksm=ec4c5711db3bde07ac6fa68e336327877a53096d6f284d990375941e7c8c737b4957b1e3d609&mpshare=1&scene=1&srcid=&sharer_sharetime=1572595431099&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
+
+### 19. 文远知行分享
+
+* [无人驾驶之 Planning 十日谈 - 第一篇 Planning Overview](https://mp.weixin.qq.com/s/8RlgqK8lYKKaZwOyS14gug)
+* [无人驾驶之 Planning 十日谈 - 第二篇 Decision Planning](https://mp.weixin.qq.com/s/kfSnjAxt_e7_xM2OojRAoA)
   
-### 19. 安全报告
+### 20. 安全报告
 
 国内
 - Apollo(2018) [[PDF]](/topics/data/safety-report/2018-Apollo-safety-report.pdf)
@@ -485,11 +492,11 @@ Apollo3.5之后采用百度自家设计的Apollo Cyber RT系统
 - Uber(2018) [[PDF]](/topics/data/safety-report/2018-Uber-ATGSafety-Report.pdf)
 - Apple(2019) [[PDF]](/topics/data/safety-report/2019-Apple-ADS-Safety.pdf)
 
-### 20. People
+### 21. People
 
 - [Yu Huang](https://sites.google.com/site/yorkyuhuang/home)
 
-### 21. 其它
+### 22. 其它
 
 - [自动驾驶思考：硬件篇（王方浩）](https://mp.weixin.qq.com/s/IgwdJx6D3cmdxZ3suP86lQ)
 - [自动驾驶思考：基础架构篇（王方浩）](https://mp.weixin.qq.com/s?__biz=MzU1NTMyOTI4Mw==&mid=2247492116&idx=1&sn=2b383a7303fb7becfa13cdd872c89b47&chksm=fbd75078cca0d96edd5146105a03065bbaf81fa23412c6c1cdcd0ce33ab20bcc3e1b119e1879&mpshare=1&scene=1&srcid=&sharer_sharetime=1563857187601&sharer_shareid=3230aa8d692bbd5745277f42012c9308%23rd)
