@@ -163,7 +163,7 @@ output:
 
 以`np.argmax()`函数为例：
 
-```
+```python
 >>> a = np.arange(24).reshape(2,3,4)
 >>> a
 array([[[ 0,  1,  2,  3],
